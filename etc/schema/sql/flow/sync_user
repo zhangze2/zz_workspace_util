@@ -1,0 +1,94 @@
+%REM
+	Agent sync_user
+	Created 2013-10-16 by admin/workflow
+	Description: Comments for Agent
+%END REM
+Option Public
+%rem
+Option Declare
+%end rem
+Use "linkeyworkflow_sharefunction"
+
+Sub Initialize
+	On Error GoTo errormsg
+	Dim view As NotesView
+	Dim doc As NotesDocument
+	Dim session As New NotesSession
+	'Dim ndb As NotesDatabase
+	'Dim nview As NotesView
+	Set ndb=session.getdatabase("","names.nsf")
+	Set nview=ndb.getview("($VIMGroups)")
+	Set view=linkeyuser.UserDb.getview("ViewUserListByShortName")
+	WF_DbType="SQL"
+	Call rdb.connect()
+	Dim UserName As String,ShortName As String,FolderId As String,MailPath As String,sortNumber As string
+	Dim InternetAddress As String
+	Dim d As Integer,DocUNID As String,i As Integer,action As String
+	Dim password As String 
+	Dim UserDoc As NotesDocument
+	Dim sql As String,fldLst As New lcfieldList
+	sql="select * from BPM_OrgUser_sync where state=0"
+	Call WF_Con.execute(sql,fldLst)
+	While WF_Con.fetch(fldLst)>0
+		DocUNID=fldLst.lookup("WF_OrUNID").text(0)
+		action=fldLst.lookup("action").text(0)
+		password=fldLst.Lookup("password").Text(0)
+		sortNumber=fldLst.Lookup("sortNumber").Text(0)
+		'msgbox DocUNID
+		Set UserDoc=rdb.gettmpdoc(fldLst)
+		UserDoc.WF_FormNumber="F_002_002"
+		UserDoc.form="frmNewUser"
+		UserDoc.WF_AppId="002"
+		UserDoc.WF_DocUNID=DocUNID
+		UserDoc.Number=sortNumber
+		
+		'得到已存在的用户文档
+		ShortName=fldLst.lookup("ShortName").text(0)
+		Set doc=view.getdocumentbykey(ShortName,True)
+		If action="insert" Then
+			'注册一个新的
+			MsgBox "新增"+ShortName
+			d=d+1
+			Set doc=linkeyuser.UserDb.createdocument()
+			doc.universalid=DocUNID		
+			'拷贝数据并存盘
+			Call UserDoc.copyallitems(doc,True)
+			If password <> "" Then 
+			Call doc.replaceitemvalue("HTTPPassword", session.HashPassword(password))
+			End if
+			Call doc.save(True,True)	
+		End If
+		If action="update" Then
+			MsgBox "更新"+ShortName	
+			i=i+1
+			'msgbox "i="+cstr(i)	
+			'拷贝数据并存盘
+			Call UserDoc.copyallitems(doc,True)
+			If password <> "" then
+			MsgBox "更新密码"+password
+			Call doc.replaceitemvalue("HTTPPassword", session.HashPassword(password))		
+			End If 	
+			Call doc.save(True,True)
+		End If
+		If action="delete" Then
+			'注册一个新的
+			MsgBox "删除用户"+ShortName
+			Call UserDoc.copyallitems(doc,True)
+			Call doc.Remove(True)	
+		End If
+		
+	Wend
+	Dim conn2 As lcconnection
+	Set conn2=rdb.getnewconnect()
+	Dim fldLst2 As New lcfieldList
+	Dim sql2 As String
+	sql2="update BPM_OrgUser_sync set state=1,updateTime=GETDATE() where state=0"
+	Call conn2.execute(sql2,fldLst2)
+	
+	Print |共新同步导入(|+cstr(d)+|)个用户，共更新同步(|+cstr(i)+|)个用户的信息!|
+
+
+	Exit Sub
+errormsg:
+	MsgBox "Time Rule Error:" & Str(Erl) & "  " & Error
+End Sub

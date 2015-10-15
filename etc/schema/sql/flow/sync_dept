@@ -1,0 +1,77 @@
+%REM
+	Agent sync_dep
+	Created 2013-10-16 by admin/workflow
+	Description: Comments for Agent
+%END REM
+Option Public
+Option Declare
+Use "linkeyworkflow_sharefunction"
+
+Sub Initialize
+	On Error GoTo errormsg
+	Dim view As NotesView
+	Dim doc As NotesDocument
+	Set view=linkeyuser.UserDb.getview("TreeListByDeptId")
+	WF_DbType="SQL"
+	Call rdb.connect()
+	
+	Dim d As Integer,DocUNID As String,i As Integer,sortNumber As String
+	Dim DeptDoc As NotesDocument
+	Dim sql As String,fldLst As New lcfieldList
+	Dim deptid As String
+	Dim action As String
+	sql="select * from BPM_OrgDept_sync where state=0"
+	Call WF_Con.execute(sql,fldLst)
+	While WF_Con.fetch(fldLst)>0
+		DocUNID=fldLst.lookup("WF_OrUNID").text(0)
+		deptid=fldLst.lookup("DeptId").text(0)
+		action=fldLst.lookup("action").text(0)
+		sortNumber=fldLst.lookup("sortNumber").text(0)
+		Set DeptDoc=rdb.gettmpdoc(fldLst)
+		DeptDoc.WF_FormNumber="F_002_001"
+		DeptDoc.form="AddFolder"
+		DeptDoc.WF_AppId="002"
+		DeptDoc.WF_DocUNID=DocUNID
+		DeptDoc.Number=sortNumber
+		DeptDoc.SortNumber=sortNumber
+		
+		'得到已存在的部门文档
+		Set doc=view.getdocumentbykey(deptid,True)
+		
+		If action="insert" Then
+			MsgBox "新建部门"+deptid
+			d=d+1
+			Set doc=linkeyuser.UserDb.createdocument()
+			doc.universalid=DocUNID
+			'拷贝数据并存盘
+			Call DeptDoc.copyallitems(doc,True)
+			Call doc.save(True,True)
+		End If
+		If action="update" Then
+			MsgBox "更新部门信息"+deptid
+			i=i+1
+			'拷贝数据并存盘
+			Call DeptDoc.copyallitems(doc,True)
+			Call doc.save(True,True)
+		End If
+		If action="delete" Then
+			MsgBox "删除部门信息"+deptid
+			Call DeptDoc.copyallitems(doc,True)
+			Call doc.Remove(True)
+		End If	
+		Wend
+	Dim conn2 As lcconnection
+	Set conn2=rdb.getnewconnect()
+	Dim fldLst2 As New lcfieldList
+	Dim sql2 As String
+	sql2="update BPM_OrgDept_sync set state=1,updateTime=GETDATE() where state=0"
+	Call conn2.execute(sql2,fldLst2)
+
+	
+	Print |共新同步导入(|+cstr(d)+|)个部门，共更新同步(|+cstr(i)+|)个部门的信息!|
+
+
+	Exit Sub
+errormsg:
+	MsgBox "Time Rule Error:" & Str(Erl) & "  " & Error
+End Sub

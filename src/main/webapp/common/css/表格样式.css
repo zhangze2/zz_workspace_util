@@ -1,0 +1,20 @@
+.a-table {
+	border-collapse:collapse;
+/*     border-width: 0; */
+    empty-cells: show;
+    outline: 0 none;
+    border-color: #CCCCCC;
+    border-style: solid;
+}
+.a-table tr{
+height:35px;
+}
+.a-table th{
+background-image:none, linear-gradient(to bottom, #ebf9f4 0px, #bde9d8 100%);
+border:1px solid #a8cebe;
+}
+.a-table td{
+border:1px solid #a8cebe;
+/* background:#fff; */
+padding:0 2px;
+}

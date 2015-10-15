@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="false" context="methodcomment_context" deleted="false" description="Comment for non-overriding methods" enabled="true" id="org.eclipse.jdt.ui.text.codetemplates.methodcomment" name="methodcomment">
+/**
+ * Title: ${enclosing_method}
+ * Description:
+ * Created On: ${date} ${time}
+ * @author ZhangZe
+ * Update On: 
+ * Update By: 
+ * ${tags} 
+ */
+</template></templates>

@@ -1,0 +1,1 @@
+ALTER TABLE dbo.BPM_OrgUserList ADD	workphone varchar(50) NULL,	password varchar(50) NULL
