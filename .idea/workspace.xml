@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="845980c4-2d2c-4b7e-8314-e0072474ab36" name="Default" comment="初始导入" />
+    <list default="true" id="845980c4-2d2c-4b7e-8314-e0072474ab36" name="Default" comment="初始导入">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-内部启动-参数估计表.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-内部启动-项目实施风险管理列表.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-功能实施确认单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-合同建设内容与业务需求偏离确认纪要.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-合同建设内容与业务需求偏离表.xls.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-合同建设内容与业务需求偏离表.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-培训反馈表.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-培训签到表.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-培训计划.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-外部启动-外部启动实施确认单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-外部启动-实施启动汇报材料.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-外部启动-项目实施总体计划书.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-外部启动-项目通讯录.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-实施指导手册（实施方法论）.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-常见问题FAQ.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-建设需求说明书.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-执行标准数据参考.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-数据初始化模板及数据收集指南.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-用户角色及权限划分指南.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-系统试运行情况说明书.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-系统试运行指导方案.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-试运行申请单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-需求变更申请审批表.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-需求调研工作计划.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-需求调研提纲及调研纪要.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-需求调研问卷.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-项目开发策划表.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-项目验收备忘.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-项目验收报告.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统上线检查单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/上线运行验证【待整理】/人事系统上线检查单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统导入数据文件格式.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统权限设置确认模板.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统管理员使用手册.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统需求增补模板.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事综合管理与服务系统V3.5-产品白皮书 - 简版.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事综合管理与服务系统V3.5-产品白皮书 - 详版.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事综合管理与服务系统V3.5-售前及演示指导手册.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事综合管理与服务系统V3.5-售前招标文件内容(参考).docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/安装部署记录单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/实施流程检查表.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/上线运行验证【待整理】/实施流程检查表.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/招聘系统上线检查单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/上线运行验证【待整理】/招聘系统上线检查单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/教师综合管理与服务系统V3.5Websphere部署手册.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/教师综合管理与服务系统V3.5版本发布说明书.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/教职工信息上线检查单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/上线运行验证【待整理】/教职工信息上线检查单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/教职工基本信息和组织机构信息收集表.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/考核系统上线检查单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/上线运行验证【待整理】/考核系统上线检查单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/职称评审系统上线检查单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/上线运行验证【待整理】/职称评审系统上线检查单.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目培训反馈表（V1.3.2）.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目培训签到表（V1.3.2）.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目培训计划（V1.3.2）.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目结项报告（V1.3.2）.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目试运行报告（V1.3.2）.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目试运行推广计划（V1.3.2）.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目试运行申请单（V1.3.2）.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目验收报告（V1.3.2）.doc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="zz_code_util.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,20 +83,7 @@
     <favorites_list name="zz_code_util" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="List Map转换.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Collection/List Map转换.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.38504463">
-              <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#7122#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -97,9 +147,9 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -115,6 +165,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="zz_code_util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zz_code_util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zz_code_util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -150,6 +214,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zz_github\zz_code_util\docs" />
       <recent name="D:\zz_github\zz_code_util" />
     </key>
   </component>
@@ -325,33 +390,42 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25161988" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.48756757" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26066098" sideWeight="0.74891776" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.49568033" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.51243246" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26066098" sideWeight="0.25108224" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -383,9 +457,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#7122#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/List Map转换.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/List Map转换.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/common/js/kendo.web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/List Map转换.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -410,13 +509,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/common/js/kendo.web.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3388" column="1" selection-start-line="3388" selection-start-column="1" selection-end-line="3388" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Collection/Array/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37650603">
+          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Collection/List Map转换.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38504463">
-          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#7122#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.79668677">
+          <caret line="86" column="42" selection-start-line="86" selection-start-column="42" selection-end-line="86" selection-end-column="42" />
         </state>
       </provider>
     </entry>
