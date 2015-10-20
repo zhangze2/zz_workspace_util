@@ -2,67 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="845980c4-2d2c-4b7e-8314-e0072474ab36" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-内部启动-参数估计表.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-内部启动-项目实施风险管理列表.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-功能实施确认单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-合同建设内容与业务需求偏离确认纪要.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-合同建设内容与业务需求偏离表.xls.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-合同建设内容与业务需求偏离表.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-培训反馈表.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-培训签到表.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-培训计划.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-外部启动-外部启动实施确认单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-外部启动-实施启动汇报材料.pptx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-外部启动-项目实施总体计划书.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-外部启动-项目通讯录.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-实施指导手册（实施方法论）.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-常见问题FAQ.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-建设需求说明书.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-执行标准数据参考.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-数据初始化模板及数据收集指南.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-用户角色及权限划分指南.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-系统试运行情况说明书.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-系统试运行指导方案.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-试运行申请单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-需求变更申请审批表.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-需求调研工作计划.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-需求调研提纲及调研纪要.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-需求调研问卷.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-项目开发策划表.xlsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-项目验收备忘.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统-项目验收报告.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统上线检查单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/上线运行验证【待整理】/人事系统上线检查单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统导入数据文件格式.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统权限设置确认模板.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统管理员使用手册.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事系统需求增补模板.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事综合管理与服务系统V3.5-产品白皮书 - 简版.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事综合管理与服务系统V3.5-产品白皮书 - 详版.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事综合管理与服务系统V3.5-售前及演示指导手册.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/人事综合管理与服务系统V3.5-售前招标文件内容(参考).docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/安装部署记录单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/实施流程检查表.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/上线运行验证【待整理】/实施流程检查表.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/招聘系统上线检查单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/上线运行验证【待整理】/招聘系统上线检查单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/教师综合管理与服务系统V3.5Websphere部署手册.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/教师综合管理与服务系统V3.5版本发布说明书.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/教职工信息上线检查单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/上线运行验证【待整理】/教职工信息上线检查单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/教职工基本信息和组织机构信息收集表.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/考核系统上线检查单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/上线运行验证【待整理】/考核系统上线检查单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/职称评审系统上线检查单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/上线运行验证【待整理】/职称评审系统上线检查单.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目培训反馈表（V1.3.2）.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目培训签到表（V1.3.2）.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目培训计划（V1.3.2）.xls" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目结项报告（V1.3.2）.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目试运行报告（V1.3.2）.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目试运行推广计划（V1.3.2）.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目试运行申请单（V1.3.2）.doc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/人事综合管理系统/项目验收报告（V1.3.2）.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/项目管理模版/ds_overall(1).xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/项目管理模版/合同档案+消息管理需求+考勤管理.xls" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/项目管理模版/岗位级别与职务对应管理整理.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/项目管理模版/民航总体工作计划.mpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/项目管理模版/民航－－消息管理功能点.xlsx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="zz_code_util.iws" />
@@ -196,7 +140,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="人事综合管理系统" />
+              <option name="myItemId" value="项目管理模版" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -232,8 +176,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\zz_github\zz_code_util\docs\人事综合管理系统" />
       <recent name="D:\zz_github\zz_code_util\docs" />
+      <recent name="D:\zz_github\zz_code_util\docs\人事综合管理系统" />
       <recent name="D:\zz_github\zz_code_util" />
     </key>
   </component>
@@ -412,7 +356,19 @@
       <option name="project" value="LOCAL" />
       <updated>1445343920882</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="人事系统综合管理系统文档">
+      <created>1445344835336</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1445344835336</updated>
+    </task>
+    <task id="LOCAL-00004" summary="人事系统综合管理系统文档">
+      <created>1445344860808</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1445344860808</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -434,10 +390,10 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972972" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972972" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26066098" sideWeight="0.74927956" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26066098" sideWeight="0.74927956" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.49568033" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
