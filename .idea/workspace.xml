@@ -1,69 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="845980c4-2d2c-4b7e-8314-e0072474ab36" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\上线运行验证【待整理】\人事系统上线检查单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\上线运行验证【待整理】\实施流程检查表.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\上线运行验证【待整理】\招聘系统上线检查单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\上线运行验证【待整理】\教职工信息上线检查单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\上线运行验证【待整理】\考核系统上线检查单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\上线运行验证【待整理】\职称评审系统上线检查单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-内部启动-参数估计表.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-内部启动-项目实施风险管理列表.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-功能实施确认单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-合同建设内容与业务需求偏离确认纪要.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-合同建设内容与业务需求偏离表.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-合同建设内容与业务需求偏离表.xls.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-培训反馈表.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-培训签到表.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-培训计划.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-外部启动-外部启动实施确认单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-外部启动-实施启动汇报材料.pptx" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-外部启动-项目实施总体计划书.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-外部启动-项目通讯录.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-实施指导手册（实施方法论）.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-常见问题FAQ.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-建设需求说明书.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-执行标准数据参考.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-数据初始化模板及数据收集指南.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-用户角色及权限划分指南.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-系统试运行情况说明书.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-系统试运行指导方案.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-试运行申请单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-需求变更申请审批表.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-需求调研工作计划.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-需求调研提纲及调研纪要.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-需求调研问卷.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-项目开发策划表.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-项目验收备忘.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统-项目验收报告.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统上线检查单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统导入数据文件格式.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统权限设置确认模板.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统管理员使用手册.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事系统需求增补模板.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事综合管理与服务系统V3.5-产品白皮书 - 简版.docx" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事综合管理与服务系统V3.5-产品白皮书 - 详版.docx" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事综合管理与服务系统V3.5-售前及演示指导手册.docx" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\人事综合管理与服务系统V3.5-售前招标文件内容(参考).docx" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\安装部署记录单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\实施流程检查表.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\招聘系统上线检查单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\教师综合管理与服务系统V3.5Websphere部署手册.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\教师综合管理与服务系统V3.5版本发布说明书.docx" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\教职工信息上线检查单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\教职工基本信息和组织机构信息收集表.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\考核系统上线检查单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\职称评审系统上线检查单.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\金智教育 人事管理系统产品白皮书.pdf" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\项目培训反馈表（V1.3.2）.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\项目培训签到表（V1.3.2）.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\项目培训计划（V1.3.2）.xls" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\项目结项报告（V1.3.2）.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\项目试运行报告（V1.3.2）.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\项目试运行推广计划（V1.3.2）.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\项目试运行申请单（V1.3.2）.doc" afterPath="" />
-      <change type="DELETED" beforePath="D:\zz_github\zz_code_util\docs\人事综合管理系统\项目验收报告（V1.3.2）.doc" afterPath="" />
+    <list default="true" id="845980c4-2d2c-4b7e-8314-e0072474ab36" name="Default" comment="新增排序算法、AES、帮助文档">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/帮助文档/FireBug API.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/工作流/java版/Linkey BPM工作流引擎接入说明书-V8.0.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/工作流/java版/Linkey BPM技术白皮书-V8.0.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/工作流/java版/Linkey BPM数据字典说明-V8.0.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/工作流/java版/Linkey BPM系统管理员手册.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/工作流/java版/LinkeyBPM数据字典说明V8.0.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/AES/技术.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/工作流/java版/用户_部门表关系.~sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/工作流/java版/联奕运行平台集成.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/AES/视频文件在线预览.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/工作流/java版/ly_trg_department_to_bpm.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/工作流/java版/ly_trg_orguserlist_to_bpm.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sort/排序.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/sort/排序_java实现.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/工作流/java版/用户_部门表关系.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="zz_code_util.iws" />
@@ -89,17 +42,37 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="用户_部门表关系.sql" pinned="false" current-in-tab="true">
+      <file leaf-file-name="用户_部门表关系.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/工作流/java版/用户_部门表关系.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="排序_java实现.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="排序.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sort/排序.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.773273">
+              <caret line="138" column="18" selection-start-line="138" selection-start-column="18" selection-end-line="138" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -110,6 +83,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="zhangze &lt;zhangze.zz@qq.com&gt;" />
         <option value="ZhangZe" />
       </list>
     </option>
@@ -170,9 +144,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -201,12 +172,99 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zz_code_util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zz_code_util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zz_code_util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zz_code_util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ui" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zz_code_util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zz_code_util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zz_code_util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zz_code_util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="docs" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,11 +295,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zz_github\zz_code_util\src\sort" />
+      <recent name="D:\zz_github\zz_code_util\docs\AES" />
+      <recent name="D:\zz_github\zz_code_util\docs\帮助文档" />
       <recent name="D:\zz_github\zz_code_util\docs\工作流\java版" />
       <recent name="D:\zz_github\zz_code_util\docs\人事综合管理系统" />
-      <recent name="D:\zz_github\zz_code_util\docs\帮助文档\数据库" />
-      <recent name="D:\zz_github\zz_code_util\docs\帮助文档\java" />
-      <recent name="D:\zz_github\zz_code_util\docs\帮助文档\JS" />
     </key>
   </component>
   <component name="RunManager">
@@ -449,7 +507,13 @@
       <option name="project" value="LOCAL" />
       <updated>1445345437648</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="帮助文档更新">
+      <created>1445348449963</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1445348449963</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -473,11 +537,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24946004" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26332623" sideWeight="0.7410072" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26599148" sideWeight="0.7323741" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.49568033" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26332623" sideWeight="0.2589928" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26599148" sideWeight="0.2676259" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -502,12 +566,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <MESSAGE value="初始导入" />
     <MESSAGE value="人事系统综合管理系统文档" />
     <MESSAGE value="项目管理模板" />
     <MESSAGE value="帮助文档更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="帮助文档更新" />
+    <MESSAGE value="新增排序算法" />
+    <MESSAGE value="新增排序算法、AES、帮助文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增排序算法、AES、帮助文档" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -518,6 +586,38 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/工作流/java版/用户_部门表关系.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -614,7 +714,7 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -623,6 +723,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.773273">
+          <caret line="138" column="18" selection-start-line="138" selection-start-column="18" selection-end-line="138" selection-end-column="18" />
           <folding />
         </state>
       </provider>
