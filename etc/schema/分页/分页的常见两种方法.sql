@@ -1,3 +1,4 @@
+--一般skip = 1; take=10条
 --1.采用row_number解析函数进行分页(效率更高)
 
 SELECT xx.*
