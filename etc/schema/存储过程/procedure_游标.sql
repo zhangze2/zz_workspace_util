@@ -1,9 +1,6 @@
 CREATE OR REPLACE PROCEDURE 存储过程名
 (
-
---定义参数
- is_ym  IN CHAR(6) ,
-
+ is_ym  IN CHAR(6) ,--定义输入参数
 the_count OUT NUMBER,
 ) 
 AS 
@@ -15,22 +12,14 @@ vs_ym_sn_beg CHAR(6);     --同期起始月份
 vs_ym_sn_end CHAR(6);     --同期终止月份
 
 --定义游标(简单的说就是一个可以遍历的结果集) 
-
-
-CURSOR cur_1 IS 
+CURSOR cur_1 IS
   SELECT 。。。 
   FROM 。。。 
     WHERE 。。。
    GROUP BY 。。。; 
-
-BEGIN 
-
-
---用输入参数给变量赋初值，用到了Oralce的SUBSTR TO_CHAR ADD_MONTHS 
-
- 
-
-TO_DATE 等很常用的函数。 
+BEGIN
+--用输入参数给变量赋初值，用到了Oralce的SUBSTR TO_CHAR ADD_MONTHS
+TO_DATE 等很常用的函数。
 vs_ym_beg := SUBSTR(is_ym,1,6); 
 vs_ym_end := SUBSTR(is_ym,7,6); 
 vs_ym_sn_beg := TO_CHAR(ADD_MONTHS(TO_DATE(vs_ym_beg,'yyyymm'), -12),'yyyymm'); 
