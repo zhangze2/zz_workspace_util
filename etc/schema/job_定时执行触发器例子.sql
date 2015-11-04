@@ -109,3 +109,11 @@ dbms_job.what(v_job,'sp_fact_charge_code;');
       
 --修改某个job名 修改下一次运行时间  
  dbms_job.next_date(v_job,sysdate);
+ 
+--修改job的执行时间要修改下面两个事项。
+--1.要修改下次执行时间，
+--如
+    exec dbms_job.change(job_number,null,trunc(sysdate+1)+(7*60)/(24*60),null);
+--2.要修改interval，也就是用于计算下一运行时间的表达式
+--如
+    interval exec dbms_job.interval(job_id,null,null,interval);
