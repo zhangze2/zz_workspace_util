@@ -1,5 +1,6 @@
 package main.java.Collection.Array;
 
+
 public static void main(String[] args){
     /**//*TestBean[] tb = new TestBean[3];
     for (int i = 0; i < tb.length; i++) {

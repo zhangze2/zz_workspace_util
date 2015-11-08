@@ -58,7 +58,9 @@ exp bpm/bpm@192.168.2.176/orcl file=d:/bpm_10-12.dmp log=d:\bpm_10-12.log
 
 7、导入带日志（命令行）
 imp bpm/bpm@192.168.2.185:1521/orcl file=d:/bpm_table_10_12.dmp full=y ignore=y log=E:\bpm_table_10_12.dmp.log
- 
+
+
+
  
 
  

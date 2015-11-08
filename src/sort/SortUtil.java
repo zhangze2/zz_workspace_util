@@ -81,8 +81,8 @@ public class SortUtil {
 //		sort(intArr, SELECTION);
 //		System.out.println("----------ц╟ещеепР-----------");
 //		sort(intArr, BUBBLE);
-		System.out.println("----------оё╤ШеепР-----------");
-		sort(intArr, SHELL);
+        System.out.println("----------оё╤ШеепР-----------");
+        sort(intArr, SHELL);
 //		System.out.println("----------©ЛкыеепР-----------");
 //		sort(intArr, QUICK);
 //		System.out.println("----------╦д╫Ь©ЛкыеепР-----------");
