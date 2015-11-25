@@ -1,0 +1,1744 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY {
+	FONT-SIZE: 0.82em; FONT-FAMILY: verdana,arial,helvetica,sans-serif
+}
+H1 {
+	FONT-FAMILY: "Trebuchet MS", Trebuchet, Verdana, Arial, Helvetica
+}
+H2 {
+	FONT-FAMILY: "Trebuchet MS", Trebuchet, Verdana, Arial, Helvetica
+}
+H3 {
+	FONT-FAMILY: "Trebuchet MS", Trebuchet, Verdana, Arial, Helvetica
+}
+H4 {
+	FONT-FAMILY: "Trebuchet MS", Trebuchet, Verdana, Arial, Helvetica
+}
+H5 {
+	FONT-FAMILY: "Trebuchet MS", Trebuchet, Verdana, Arial, Helvetica
+}
+H6 {
+	FONT-FAMILY: "Trebuchet MS", Trebuchet, Verdana, Arial, Helvetica
+}
+H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 190%
+}
+H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 150%
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 130%
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%
+}
+H5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 100%
+}
+H6 {
+	FONT-WEIGHT: bold; FONT-SIZE: 90%
+}
+IMG {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+BLOCKQUOTE {
+	BORDER-RIGHT: #999 1px dashed; PADDING-RIGHT: 1em; BORDER-TOP: #999 1px dashed; PADDING-LEFT: 1em; PADDING-BOTTOM: 0px; BORDER-LEFT: #999 1px dashed; PADDING-TOP: 0px; BORDER-BOTTOM: #999 1px dashed; BACKGROUND-COLOR: #f4f4f4
+}
+TABLE {
+	empty-cells: show
+}
+TD {
+	TEXT-ALIGN: left
+}
+A {
+	COLOR: #00a
+}
+A:hover {
+	BACKGROUND-COLOR: #eee
+}
+H1 A {
+	TEXT-DECORATION: none
+}
+BODY.wait {
+	CURSOR: wait
+}
+BODY.wait  {
+	CURSOR: wait
+}
+FORM {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+A.newpage {
+	COLOR: #933
+}
+#container-wrap-wrap {
+	POSITION: relative
+}
+#page-content {
+	
+}
+#container {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#header {
+	Z-INDEX: 30; POSITION: relative; HEIGHT: 7em
+}
+#header H1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#header H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#content-wrap {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#content-wrap {
+	MIN-HEIGHT: 1px; HEIGHT: 1%
+}
+#side-bar {
+	CLEAR: left; PADDING-RIGHT: 1em; PADDING-LEFT: 1em; FLOAT: left; PADDING-BOTTOM: 1em; MARGIN: 0px 0px 1em; WIDTH: 14em; PADDING-TOP: 1em
+}
+#side-bar UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 2em; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px; PADDING-TOP: 0px
+}
+#page-title {
+	FONT-SIZE: 200%; MARGIN: 0px 0px 0.5em; PADDING-TOP: 0.5em; BORDER-BOTTOM: #666 1px solid
+}
+#breadcrumbs {
+	MARGIN-TOP: -0.5em
+}
+#main-content {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0px; MARGIN-LEFT: 17em; PADDING-TOP: 0px
+}
+#page-info-break {
+	CLEAR: both; FONT-SIZE: 1px; HEIGHT: 1px
+}
+#page-info {
+	CLEAR: both; FONT-SIZE: 87%; MARGIN: 2px; TEXT-ALIGN: right
+}
+.page-tags {
+	CLEAR: both; PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px 0px; PADDING-TOP: 0px; TEXT-ALIGN: left
+}
+.page-tags A {
+	MARGIN: 0px 3px
+}
+.page-tags SPAN {
+	BORDER-TOP: #bbb 1px solid; FONT-SIZE: 85%; PADDING-TOP: 2px
+}
+#footer {
+	CLEAR: both; PADDING-RIGHT: 10px; MARGIN-TOP: 5px; PADDING-LEFT: 10px; PADDING-BOTTOM: 3px; OVERFLOW: hidden; PADDING-TOP: 3px
+}
+#footer .options {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 90%; FLOAT: right; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+#footer P {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0.2em 0px; PADDING-TOP: 0px
+}
+#license-area {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.5em; COLOR: #555; PADDING-TOP: 0.5em; TEXT-ALIGN: center
+}
+#search-top-box {
+	Z-INDEX: 10; RIGHT: 1em; POSITION: absolute; TOP: 3em
+}
+#search-top-box INPUT.empty {
+	COLOR: #aaa
+}
+#login-status {
+	Z-INDEX: 25; RIGHT: 10px; OVERFLOW: visible; POSITION: absolute; TOP: 10px
+}
+#account-options {
+	BORDER-RIGHT: #888 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #888 1px solid; DISPLAY: none; PADDING-LEFT: 0px; Z-INDEX: 40; RIGHT: 0px; PADDING-BOTTOM: 0px; BORDER-LEFT: #888 1px solid; WIDTH: 15em; PADDING-TOP: 0px; BORDER-BOTTOM: #888 1px solid; POSITION: absolute; BACKGROUND-COLOR: white; box-sizing: border-box
+	-moz-box-sizing: border-box
+}
+#account-options UL {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#account-options LI {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#account-options LI A {
+	PADDING-RIGHT: 5px; DISPLAY: block; PADDING-LEFT: 5px; Z-INDEX: 40; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; box-sizing: border-box; moz-box-sizing: border-box
+}
+#account-options LI A:hover {
+	COLOR: black
+}
+#account-topbutton {
+	BORDER-RIGHT: #888 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #888 1px solid; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 80%; PADDING-BOTTOM: 0px; MARGIN-LEFT: 5px; BORDER-LEFT: #888 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #888 1px solid; BACKGROUND-COLOR: #fff; TEXT-DECORATION: none
+}
+#top-bar {
+	RIGHT: 1em; BOTTOM: 0px; POSITION: absolute
+}
+#top-bar UL {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#top-bar LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 5px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#top-bar LI UL {
+	BORDER-RIGHT: #eee 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #eee 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #eee 1px solid; WIDTH: 12em; PADDING-TOP: 0px; BORDER-BOTTOM: #eee 1px solid
+}
+#top-bar LI UL LI {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; FLOAT: none; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#top-bar LI A {
+	PADDING-RIGHT: 1em; DISPLAY: block; PADDING-LEFT: 1em; PADDING-BOTTOM: 1px; MARGIN: 0px; PADDING-TOP: 1px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+#top-bar A:hover {
+	BACKGROUND-COLOR: #fff; TEXT-DECORATION: underline
+}
+#top-bar LI UL LI A {
+	WIDTH: 10em; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BACKGROUND-COLOR: #fff; TEXT-ALIGN: left; BORDER-BOTTOM-STYLE: none
+}
+#top-bar LI UL LI A:hover {
+	
+}
+#top-bar LI UL {
+	VISIBILITY: hidden; POSITION: absolute
+}
+#top-bar LI:hover UL {
+	VISIBILITY: visible
+}
+#top-bar LI.sfhover UL {
+	VISIBILITY: visible
+}
+.edit-section-button {
+	PADDING-RIGHT: 0.5em; MARGIN-TOP: 0.7em; PADDING-LEFT: 0.5em; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN-RIGHT: 0.5em; PADDING-TOP: 0px; BACKGROUND-COLOR: #fff
+}
+#edit-section-content {
+	BORDER-RIGHT: #66a 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #66a 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0px; BORDER-LEFT: #66a 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #66a 1px solid
+}
+.page-options-bottom {
+	MARGIN: 4px 0px; LINE-HEIGHT: 150%; HEIGHT: 1%; TEXT-ALIGN: right
+}
+.page-options-bottom A {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-SIZE: 95%; PADDING-BOTTOM: 0px; MARGIN: 2px; PADDING-TOP: 0px
+}
+.page-watch-options {
+	FONT-SIZE: 95%; TEXT-ALIGN: right
+}
+.page-watch-options A {
+	TEXT-DECORATION: none
+}
+.page-watch-options A:hover {
+	TEXT-DECORATION: underline
+}
+.change-textarea-size {
+	PADDING-RIGHT: 7em; PADDING-LEFT: 1em; FLOAT: right; TEXT-ALIGN: right
+}
+.change-textarea-size A {
+	BORDER-RIGHT: #bbb 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #bbb 0px solid; PADDING-LEFT: 4px; FONT-SIZE: 120%; PADDING-BOTTOM: 2px; BORDER-LEFT: #bbb 1px solid; COLOR: black; PADDING-TOP: 2px; BORDER-BOTTOM: #bbb 1px solid; BACKGROUND-COLOR: #eee; TEXT-DECORATION: none
+}
+.edit-help-34 {
+	MARGIN-TOP: 2px
+}
+.preview-message {
+	BORDER-RIGHT: #888 1px dashed; PADDING-RIGHT: 1em; BORDER-TOP: #888 1px dashed; PADDING-LEFT: 1em; Z-INDEX: 1; RIGHT: 2em; FILTER: alpha(opacity=90); PADDING-BOTTOM: 0.5em; BORDER-LEFT: #888 1px dashed; PADDING-TOP: 0.5em; BORDER-BOTTOM: #888 1px dashed; POSITION: absolute; BACKGROUND-COLOR: #fdd; max-width: 20em; opacity: 0.9
+}
+#page-version-info {
+	BORDER-RIGHT: #888 1px dashed; PADDING-RIGHT: 1em; BORDER-TOP: #888 1px dashed; PADDING-LEFT: 1em; RIGHT: 2em; FILTER: alpha(opacity=95); PADDING-BOTTOM: 0.5em; BORDER-LEFT: #888 1px dashed; PADDING-TOP: 0.5em; BORDER-BOTTOM: #888 1px dashed; POSITION: absolute; BACKGROUND-COLOR: #eef; max-width: 20em; opacity: 0.95
+}
+#lock-info {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.5em; MARGIN: 1em 0px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #f3f3f3
+}
+#action-area {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1em; WIDTH: 100%; PADDING-TOP: 0px
+}
+A.action-area-close {
+	PADDING-RIGHT: 0.7em; PADDING-LEFT: 0.7em; FONT-SIZE: 95%; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 2px; PADDING-TOP: 0px
+}
+A.action-area-close:hover {
+	BACKGROUND-COLOR: #ddd
+}
+.odate {
+	DISPLAY: none
+}
+.wiki-email {
+	VISIBILITY: hidden
+}
+TABLE.wiki-content-table {
+	MARGIN: 0.5em auto; BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+TABLE.wiki-content-table TD {
+	BORDER-RIGHT: #888 1px solid; PADDING-RIGHT: 0.7em; BORDER-TOP: #888 1px solid; PADDING-LEFT: 0.7em; PADDING-BOTTOM: 0.3em; BORDER-LEFT: #888 1px solid; PADDING-TOP: 0.3em; BORDER-BOTTOM: #888 1px solid
+}
+TABLE.wiki-content-table TH {
+	BORDER-RIGHT: #888 1px solid; PADDING-RIGHT: 0.7em; BORDER-TOP: #888 1px solid; PADDING-LEFT: 0.7em; PADDING-BOTTOM: 0.3em; BORDER-LEFT: #888 1px solid; PADDING-TOP: 0.3em; BORDER-BOTTOM: #888 1px solid; BACKGROUND-COLOR: #eee
+}
+#toc {
+	BORDER-RIGHT: gray 1px dashed; PADDING-RIGHT: 0.5em; BORDER-TOP: gray 1px dashed; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0em; MARGIN: 1em auto 1em 0px; BORDER-LEFT: gray 1px dashed; PADDING-TOP: 0em; BORDER-BOTTOM: gray 1px dashed; BACKGROUND-COLOR: #f7f7f7
+}
+#toc .title {
+	PADDING-RIGHT: 2em; PADDING-LEFT: 2em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; MARGIN: 0.2em 0px; PADDING-TOP: 0px; TEXT-ALIGN: center
+}
+#toc #toc-action-bar {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+#toc-list {
+	MARGIN: 0.5em 0px
+}
+.floatright#toc {
+	FLOAT: right; MARGIN: 1em
+}
+.floatleft#toc {
+	FLOAT: left; MARGIN: 1em
+}
+TT {
+	FONT-SIZE: 98%; FONT-FAMILY: 'Andale Mono', 'Courier New', Courier, monospace
+}
+PRE {
+	FONT-FAMILY: 'Andale Mono', 'Courier New', Courier, monospace
+}
+.code {
+	BORDER-RIGHT: #ddd 1px dashed; PADDING-RIGHT: 1em; BORDER-TOP: #ddd 1px dashed; PADDING-LEFT: 1em; PADDING-BOTTOM: 0px; MARGIN: 0.4em 0px; OVERFLOW: auto; BORDER-LEFT: #ddd 1px dashed; PADDING-TOP: 0px; BORDER-BOTTOM: #ddd 1px dashed; FONT-FAMILY: 'Andale Mono', 'Courier New', Courier, monospace; BACKGROUND-COLOR: #f7f7f7
+}
+CODE {
+	FONT-FAMILY: 'Andale Mono', 'Courier New', Courier, monospace
+}
+.math-equation {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em; HEIGHT: 1%; TEXT-ALIGN: center
+}
+.equation-number {
+	FONT-SIZE: 110%; FLOAT: right
+}
+IMG.math-inline {
+	VERTICAL-ALIGN: bottom
+}
+DIV.wiki-note {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; MARGIN: 0.5em 5em; BORDER-LEFT: #999 1px solid; WIDTH: auto; BORDER-BOTTOM: #999 1px solid; TEXT-ALIGN: center
+}
+.footnote .f-heading {
+	FONT-WEIGHT: bold
+}
+.equation .e-heading {
+	FONT-WEIGHT: bold
+}
+.reference .r-heading {
+	FONT-WEIGHT: bold
+}
+.footnote .f-content {
+	MARGIN: 0.5em 0px
+}
+.reference .r-content {
+	MARGIN: 0.5em 0px
+}
+.footnote .f-footer {
+	FONT-SIZE: 90%
+}
+.equation .e-footer {
+	FONT-SIZE: 90%
+}
+.reference .r-footer {
+	FONT-SIZE: 90%
+}
+.footnotes-footer {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0.5em; HEIGHT: 1%
+}
+.footnotes-footer .title {
+	FONT-WEIGHT: bold; FONT-SIZE: 130%; MARGIN: 0.5em 0px
+}
+A.footnoteref {
+	DISPLAY: inline-block
+}
+.bibitems {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.5em; MARGIN: 0px; PADDING-TOP: 0.5em
+}
+.bibitems .title {
+	FONT-WEIGHT: bold; FONT-SIZE: 130%; MARGIN: 0.5em 0px
+}
+.bibitem {
+	HEIGHT: 1%
+}
+A.bibcite {
+	DISPLAY: inline-block
+}
+.image-container {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; PADDING-TOP: 1em
+}
+.aligncenter {
+	TEXT-ALIGN: center
+}
+.alignright {
+	PADDING-RIGHT: 0px; TEXT-ALIGN: right
+}
+.alignleft {
+	PADDING-LEFT: 0px; TEXT-ALIGN: left
+}
+.floatright {
+	PADDING-RIGHT: 0px; FLOAT: right
+}
+.floatleft {
+	PADDING-LEFT: 0px; FLOAT: left
+}
+.gallery-box {
+	OVERFLOW: hidden; WIDTH: 98%
+}
+.gallery-item {
+	BORDER-RIGHT: #bbb 1px solid; BORDER-TOP: #bbb 1px solid; FLOAT: left; MARGIN: 5px; BORDER-LEFT: #bbb 1px solid; BORDER-BOTTOM: #bbb 1px solid
+}
+.gallery-item TABLE {
+	WIDTH: 100%; HEIGHT: 100%
+}
+.gallery-item TD {
+	TEXT-ALIGN: center
+}
+.square {
+	WIDTH: 85px; HEIGHT: 85px
+}
+.thumbnail {
+	WIDTH: 120px; HEIGHT: 120px
+}
+.small {
+	WIDTH: 280px; HEIGHT: 280px
+}
+.medium {
+	WIDTH: 550px; HEIGHT: 550px
+}
+.thumbnail TD {
+	
+}
+.gallery-box .gallery-item TABLE {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+.gallery-box .gallery-item .td {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+.new-page-box {
+	MARGIN: 1em 0px; TEXT-ALIGN: center
+}
+#revision-list .pager {
+	MARGIN: 1em 0px; TEXT-ALIGN: center
+}
+TABLE.page-history TD.optionstd A {
+	BORDER-RIGHT: #bbb 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #bbb 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; BORDER-LEFT: #bbb 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #bbb 1px solid; TEXT-DECORATION: none
+}
+.diff-table {
+	WIDTH: 97%
+}
+.diff-table TD.from {
+	BORDER-RIGHT: #bbb 1px dashed; PADDING-RIGHT: 1em; BORDER-TOP: #bbb 1px dashed; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; VERTICAL-ALIGN: top; BORDER-LEFT: #bbb 1px dashed; WIDTH: 45%; PADDING-TOP: 1em; BORDER-BOTTOM: #bbb 1px dashed
+}
+.diff-table TD.to {
+	BORDER-RIGHT: #bbb 1px dashed; PADDING-RIGHT: 1em; BORDER-TOP: #bbb 1px dashed; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; VERTICAL-ALIGN: top; BORDER-LEFT: #bbb 1px dashed; WIDTH: 45%; PADDING-TOP: 1em; BORDER-BOTTOM: #bbb 1px dashed
+}
+.diff-table TD.action {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-WEIGHT: bold; PADDING-BOTTOM: 0.5em; VERTICAL-ALIGN: middle; WIDTH: 10%; PADDING-TOP: 0.5em; TEXT-ALIGN: center
+}
+.inline-diff INS {
+	BACKGROUND-COLOR: #ddf
+}
+.inline-diff DEL {
+	BACKGROUND-COLOR: #fcc
+}
+TABLE.page-compare {
+	MARGIN: 1em auto; BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+TABLE.page-compare TD {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.2em; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 0.2em; BORDER-BOTTOM: #ccc 1px solid
+}
+TABLE.page-compare TH {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.2em; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 0.2em; BORDER-BOTTOM: #ccc 1px solid
+}
+.page-source {
+	BORDER-RIGHT: #aaa 1px dashed; PADDING-RIGHT: 2em; BORDER-TOP: #aaa 1px dashed; PADDING-LEFT: 2em; PADDING-BOTTOM: 1em; BORDER-LEFT: #aaa 1px dashed; PADDING-TOP: 1em; BORDER-BOTTOM: #aaa 1px dashed
+}
+.page-source PRE {
+	
+}
+.wiki-parse-error {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0.2em; COLOR: red; PADDING-TOP: 0.2em
+}
+.spantip {
+	CURSOR: help; TEXT-DECORATION: underline
+}
+.pager {
+	MARGIN: 0.5em 0px
+}
+.pager-no {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.2em
+}
+.pager .dots {
+	PADDING-RIGHT: 7px; PADDING-LEFT: 7px; PADDING-BOTTOM: 0px; MARGIN: 0px 3px; PADDING-TOP: 0px
+}
+.pager A {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 7px; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 7px; PADDING-BOTTOM: 0px; MARGIN: 0px 3px; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #ccc 1px solid; TEXT-DECORATION: none
+}
+.pager .current {
+	BORDER-RIGHT: #333 1px solid; PADDING-RIGHT: 7px; BORDER-TOP: #333 1px solid; PADDING-LEFT: 7px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; MARGIN: 0px 3px; BORDER-LEFT: #333 1px solid; COLOR: #fff; PADDING-TOP: 0px; BORDER-BOTTOM: #333 1px solid; BACKGROUND-COLOR: #888
+}
+.pager .target {
+	
+}
+TABLE.page-files {
+	MARGIN: 1em auto; BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+TABLE.page-files TD {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+TABLE.page-files .highlight {
+	BACKGROUND-COLOR: #eee
+}
+TABLE.page-files .options {
+	TEXT-ALIGN: right
+}
+.printuser {
+	
+}
+.printuser A {
+	MARGIN-RIGHT: -1px
+}
+.printuser IMG.small {
+	PADDING-RIGHT: 9px; BACKGROUND-POSITION: left center; PADDING-LEFT: 8px; PADDING-BOTTOM: 1px; MARGIN: 0px; VERTICAL-ALIGN: -0.3em; WIDTH: 16px; PADDING-TOP: 1px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 16px
+}
+.anonymous IMG.small {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; PADDING-TOP: 1px
+}
+A.avatar-hover {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 130%; BACKGROUND: url(../images/background/opacity2.png); PADDING-BOTTOM: 8px; COLOR: black; PADDING-TOP: 8px; TEXT-DECORATION: none
+}
+A.avatar-hover:hover {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 130%; BACKGROUND: url(../images/background/opacity2.png); PADDING-BOTTOM: 8px; COLOR: black; PADDING-TOP: 8px; TEXT-DECORATION: none
+}
+A.avatar-hover IMG {
+	VERTICAL-ALIGN: middle
+}
+A.avatar-hover DIV {
+	POSITION: relative
+}
+A.avatar-hover DIV DIV {
+	RIGHT: 0px; FILTER: alpha(opacity=90); LEFT: 48px; WIDTH: 100%; POSITION: absolute; TOP: 0px; HEIGHT: 48px; BACKGROUND-COLOR: white; opacity: 0.9
+}
+A.avatar-hover DIV SPAN {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; Z-INDEX: 30; FILTER: alpha(opacity=90); PADDING-BOTTOM: 0.5em; MARGIN: 0px 1em; PADDING-TOP: 0.5em; BACKGROUND-COLOR: white; opacity: 0.9
+}
+.printuser A:hover IMG.large {
+	DISPLAY: block
+}
+.printuser .ip {
+	FONT-SIZE: 90%
+}
+.wait-block {
+	PADDING-LEFT: 20px; BACKGROUND-IMAGE: url(../images/progress/progresscircle.gif); BACKGROUND-REPEAT: no-repeat
+}
+.error-inline {
+	BORDER-RIGHT: red 1px solid; BORDER-TOP: red 1px solid; BORDER-LEFT: red 1px solid; COLOR: red; BORDER-BOTTOM: red 1px solid
+}
+.error-block {
+	BORDER-RIGHT: #faa 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #faa 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; MARGIN: 1em; BORDER-LEFT: #faa 1px solid; COLOR: #b00; PADDING-TOP: 1em; BORDER-BOTTOM: #faa 1px solid
+}
+.error-block .title {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; MARGIN-BOTTOM: 0.5em
+}
+.warning-block {
+	BORDER-RIGHT: yellow 2px solid; PADDING-RIGHT: 1em; BORDER-TOP: yellow 2px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; MARGIN: 1em; BORDER-LEFT: yellow 2px solid; COLOR: #444; PADDING-TOP: 1em; BORDER-BOTTOM: yellow 2px solid
+}
+.warning-block .title {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%; MARGIN-BOTTOM: 0.5em
+}
+.help-block {
+	BORDER-RIGHT: #afa 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #afa 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 1em; MARGIN: 1em; BORDER-LEFT: #afa 1px solid; COLOR: #030; PADDING-TOP: 1em; BORDER-BOTTOM: #afa 1px solid
+}
+.wait-icon {
+	BACKGROUND-POSITION: center center; BACKGROUND-IMAGE: url(http://www.napyfab.com/ajax-indicators/images/indicator_medium.gif); BACKGROUND-REPEAT: no-repeat; HEIGHT: 40px
+}
+.wait-progress {
+	BACKGROUND-POSITION: center center; BACKGROUND-IMAGE: url(../images/progress/progressbar.gif); BACKGROUND-REPEAT: no-repeat; HEIGHT: 20px
+}
+.pmessage {
+	MARGIN: 1em 0px
+}
+.pmessage .header {
+	BORDER-RIGHT: #eee 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #eee 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.2em; BORDER-LEFT: #eee 1px solid; PADDING-TOP: 0.2em; BORDER-BOTTOM: #eee 1px solid; BACKGROUND-COLOR: #f4f4f4
+}
+.pmessage .header TD.subject {
+	FONT-WEIGHT: bold
+}
+.pmessage .body {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em
+}
+TABLE.form {
+	MARGIN: 0px auto
+}
+TABLE.alignleft {
+	MARGIN: 0px auto 0px 0px
+}
+TABLE.form TD {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.2em; VERTICAL-ALIGN: top; PADDING-TOP: 0.2em
+}
+TABLE.form TH {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.2em; VERTICAL-ALIGN: top; PADDING-TOP: 0.2em
+}
+UNKNOWN {
+	TEXT-ALIGN: right
+}
+TABLE.grid {
+	BORDER-COLLAPSE: collapse; border-spacing: 0
+}
+TABLE.grid TD {
+	BORDER-RIGHT: #ddd 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.5em; BORDER-LEFT: #ddd 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #ddd 1px solid
+}
+TABLE.grid TH {
+	BORDER-RIGHT: #ddd 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.5em; BORDER-LEFT: #ddd 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #ddd 1px solid
+}
+TABLE.form TD DIV.sub {
+	FONT-SIZE: 90%; COLOR: #777
+}
+FORM DIV.sub {
+	FONT-SIZE: 90%; COLOR: #777
+}
+TABLE.form TR.invalid-value-row TD {
+	BACKGROUND-COLOR: #fdff95
+}
+TABLE.form DIV.field-error-message {
+	DISPLAY: none; COLOR: #d00
+}
+TABLE.form TR.invalid-value-row DIV.field-error-message {
+	DISPLAY: none; COLOR: #d00
+}
+TABLE.form TR.invalid-value-row TD DIV.field-error-message {
+	DISPLAY: block
+}
+HR {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 1em 2em; COLOR: #ddd; BORDER-TOP-STYLE: none; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; HEIGHT: 1px; BACKGROUND-COLOR: #aaa; BORDER-BOTTOM-STYLE: none
+}
+ HTML HR {
+	MARGIN: 2px 2em
+}
+INPUT {
+	FONT-SIZE: 100%
+}
+DIV.buttons {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1em; PADDING-TOP: 1em; TEXT-ALIGN: center
+}
+DIV.alignleft {
+	TEXT-ALIGN: left
+}
+DIV.buttons INPUT {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px 2px; BORDER-LEFT: #aaa 1px solid; COLOR: #000; PADDING-TOP: 0px; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f4f4f4; TEXT-DECORATION: none
+}
+INPUT.button {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px 2px; BORDER-LEFT: #aaa 1px solid; COLOR: #000; PADDING-TOP: 0px; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f4f4f4; TEXT-DECORATION: none
+}
+BUTTON {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px 2px; BORDER-LEFT: #aaa 1px solid; COLOR: #000; PADDING-TOP: 0px; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f4f4f4; TEXT-DECORATION: none
+}
+file {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px 2px; BORDER-LEFT: #aaa 1px solid; COLOR: #000; PADDING-TOP: 0px; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f4f4f4; TEXT-DECORATION: none
+}
+A.button {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; MARGIN: 0px 2px; BORDER-LEFT: #aaa 1px solid; COLOR: #000; PADDING-TOP: 0px; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f4f4f4; TEXT-DECORATION: none
+}
+DIV.buttons INPUT:hover {
+	COLOR: #000; BACKGROUND-COLOR: #ddd
+}
+INPUT.button:hover {
+	COLOR: #000; BACKGROUND-COLOR: #ddd
+}
+BUTTON:hover {
+	COLOR: #000; BACKGROUND-COLOR: #ddd
+}
+A.button:hover {
+	COLOR: #000; BACKGROUND-COLOR: #ddd
+}
+INPUT.disabled {
+	COLOR: #bbb; BACKGROUND-COLOR: #f7f7f7
+}
+DIV.buttons INPUT.disabled {
+	COLOR: #bbb; BACKGROUND-COLOR: #f7f7f7
+}
+INPUT.disabled:hover {
+	COLOR: #bbb; BACKGROUND-COLOR: #f7f7f7
+}
+DIV.buttons INPUT.disabled:hover {
+	COLOR: #bbb; BACKGROUND-COLOR: #f7f7f7
+}
+INPUT.checkbox {
+	COLOR: #000; BACKGROUND-COLOR: #fff
+}
+INPUT.text {
+	BORDER-RIGHT: #777 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #777 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 1px; MARGIN: 0px 1px; BORDER-LEFT: #777 1px solid; COLOR: #000; PADDING-TOP: 1px; BORDER-BOTTOM: #777 1px solid; BACKGROUND-COLOR: #fff
+}
+INPUT.invalid {
+	BORDER-LEFT-COLOR: red; BORDER-BOTTOM-COLOR: red; BORDER-TOP-COLOR: red; BORDER-RIGHT-COLOR: red
+}
+TEXTAREA {
+	BORDER-RIGHT: #777 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #777 1px solid; PADDING-LEFT: 2px; FONT-SIZE: 100%; PADDING-BOTTOM: 2px; BORDER-LEFT: #777 1px solid; COLOR: #000; PADDING-TOP: 2px; BORDER-BOTTOM: #777 1px solid; FONT-FAMILY: verdana,arial,helvetica,sans-serif; BACKGROUND-COLOR: #fff
+}
+SELECT {
+	BORDER-RIGHT: #777 1px solid; BORDER-TOP: #777 1px solid; BORDER-LEFT: #777 1px solid; BORDER-BOTTOM: #777 1px solid
+}
+DIV.note {
+	BORDER-RIGHT: #eee 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #eee 1px solid; PADDING-LEFT: 1em; FONT-SIZE: 90%; PADDING-BOTTOM: 0px; MARGIN: 1em; BORDER-LEFT: #eee 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #eee 1px solid; BACKGROUND-COLOR: #f4f4f4
+}
+DIV.note-block {
+	BORDER-RIGHT: #eaa 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #eaa 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px; BORDER-LEFT: #eaa 1px solid; PADDING-TOP: 0px; BORDER-BOTTOM: #eaa 1px solid
+}
+DIV.sites-list {
+	
+}
+DIV.site-list-item {
+	PADDING-RIGHT: 0.3em; PADDING-LEFT: 0.3em; PADDING-BOTTOM: 0.3em; MARGIN: 0.5em 0px; PADDING-TOP: 0.3em
+}
+DIV.site-list-item:hover {
+	BACKGROUND-COLOR: #f6f6f6
+}
+DIV.site-list-item .name {
+	FONT-WEIGHT: bold; FONT-SIZE: 120%
+}
+DIV.site-list-item .subtitle {
+	
+}
+DIV.site-list-item .description {
+	PADDING-LEFT: 2em; FONT-STYLE: italic
+}
+DIV.site-list-item .options {
+	FLOAT: right; MARGIN-RIGHT: 100px
+}
+.search-highlight {
+	BACKGROUND-COLOR: yellow
+}
+.self-ads {
+	BORDER-RIGHT: #888 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #888 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 1em auto; BORDER-LEFT: #888 1px solid; WIDTH: 700px; PADDING-TOP: 10px; BORDER-BOTTOM: #888 1px solid
+}
+.self-ads .title {
+	FONT-SIZE: 1.5em; PADDING-BOTTOM: 5px
+}
+.self-ads .image {
+	PADDING-LEFT: 1em; FLOAT: right
+}
+DIV.wd-adunit {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 5px; MARGIN: 5px auto; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+.rss-icon {
+	VERTICAL-ALIGN: -10%
+}
+#side-bar DIV.foldable-list-container UL LI UL LI {
+	FONT-SIZE: 90%
+}
+#login-iframe {
+	HEIGHT: 24em
+}
+.yui-navset .yui-nav LI {
+	MARGIN: 0px 0.5em 0px 0px
+}
+.yui-navset .yui-navset-top .yui-nav LI {
+	MARGIN: 0px 0.5em 0px 0px
+}
+.yui-navset .yui-navset-bottom .yui-nav LI {
+	MARGIN: 0px 0.5em 0px 0px
+}
+.yui-navset-left .yui-nav LI {
+	MARGIN: 0px 0px 0.5em
+}
+.yui-navset-right .yui-nav LI {
+	MARGIN: 0px 0px 0.5em
+}
+.yui-navset .yui-navset-left .yui-nav {
+	WIDTH: 6em
+}
+.yui-navset .yui-navset-right .yui-nav {
+	WIDTH: 6em
+}
+.yui-navset-left .yui-nav {
+	WIDTH: 6em
+}
+.yui-navset-right .yui-nav {
+	WIDTH: 6em
+}
+.yui-navset-top .yui-nav {
+	WIDTH: auto
+}
+.yui-navset-bottom .yui-nav {
+	WIDTH: auto
+}
+.yui-navset .yui-navset-left {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 6em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.yui-navset-left {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 6em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.yui-navset-right {
+	PADDING-RIGHT: 6em; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.yui-navset-top {
+	
+}
+.yui-navset-bottom {
+	
+}
+.yui-nav {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.yui-nav LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.yui-navset .yui-nav LI EM {
+	FONT-STYLE: normal
+}
+.yui-navset {
+	ZOOM: 1; POSITION: relative
+}
+.yui-navset .yui-content {
+	ZOOM: 1
+}
+.yui-navset .yui-nav LI {
+	DISPLAY: inline; VERTICAL-ALIGN: bottom; CURSOR: pointer; ZOOM: 1
+}
+.yui-navset .yui-navset-top .yui-nav LI {
+	DISPLAY: inline; VERTICAL-ALIGN: bottom; CURSOR: pointer; ZOOM: 1
+}
+.yui-navset .yui-navset-bottom .yui-nav LI {
+	DISPLAY: inline; VERTICAL-ALIGN: bottom; CURSOR: pointer; ZOOM: 1
+}
+.yui-navset-left .yui-nav LI {
+	DISPLAY: block
+}
+.yui-navset-right .yui-nav LI {
+	DISPLAY: block
+}
+.yui-navset .yui-nav A {
+	POSITION: relative
+}
+.yui-navset .yui-nav LI A {
+	DISPLAY: inline-block; VERTICAL-ALIGN: bottom; ZOOM: 1
+}
+.yui-navset-top .yui-nav LI A {
+	DISPLAY: inline-block; VERTICAL-ALIGN: bottom; ZOOM: 1
+}
+.yui-navset-bottom .yui-nav LI A {
+	DISPLAY: inline-block; VERTICAL-ALIGN: bottom; ZOOM: 1
+}
+.yui-navset-left .yui-nav LI A {
+	DISPLAY: block
+}
+.yui-navset-right .yui-nav LI A {
+	DISPLAY: block
+}
+.yui-navset-bottom .yui-nav LI A {
+	VERTICAL-ALIGN: text-top
+}
+.yui-navset .yui-nav LI A EM {
+	DISPLAY: block
+}
+.yui-navset-top .yui-nav LI A EM {
+	DISPLAY: block
+}
+.yui-navset-bottom .yui-nav LI A EM {
+	DISPLAY: block
+}
+.yui-navset .yui-navset-left .yui-nav {
+	Z-INDEX: 1; POSITION: absolute
+}
+.yui-navset .yui-navset-right .yui-nav {
+	Z-INDEX: 1; POSITION: absolute
+}
+.yui-navset-left .yui-nav {
+	Z-INDEX: 1; POSITION: absolute
+}
+.yui-navset-right .yui-nav {
+	Z-INDEX: 1; POSITION: absolute
+}
+.yui-navset-top .yui-nav {
+	POSITION: static
+}
+.yui-navset-bottom .yui-nav {
+	POSITION: static
+}
+.yui-navset .yui-navset-left .yui-nav {
+	RIGHT: auto; LEFT: 0px
+}
+.yui-navset-left .yui-nav {
+	RIGHT: auto; LEFT: 0px
+}
+.yui-navset .yui-navset-right .yui-nav {
+	RIGHT: 0px; LEFT: auto
+}
+.yui-navset-right .yui-nav {
+	RIGHT: 0px; LEFT: auto
+}
+.yui-navset .yui-nav {
+	BORDER-RIGHT: #2647a0 0px solid; BORDER-TOP: #2647a0 0px solid; BORDER-LEFT: #2647a0 0px solid; BORDER-BOTTOM: #2647a0 5px solid; ZOOM: 1; Xposition: relative
+}
+.yui-navset .yui-navset-top .yui-nav {
+	BORDER-RIGHT: #2647a0 0px solid; BORDER-TOP: #2647a0 0px solid; BORDER-LEFT: #2647a0 0px solid; BORDER-BOTTOM: #2647a0 5px solid; ZOOM: 1; Xposition: relative
+}
+.yui-navset .yui-nav LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0.16em 0px 0px; PADDING-TOP: 1px; ZOOM: 1
+}
+.yui-navset .yui-navset-top .yui-nav LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0.16em 0px 0px; PADDING-TOP: 1px; ZOOM: 1
+}
+.yui-navset .yui-nav .selected {
+	MARGIN: 0px 0.16em -1px 0px
+}
+.yui-navset .yui-navset-top .yui-nav .selected {
+	MARGIN: 0px 0.16em -1px 0px
+}
+.yui-navset .yui-nav A {
+	BORDER-RIGHT: #a3a3a3 1px solid; BORDER-TOP: #a3a3a3 0px solid; BACKGROUND: url(../../../common--javascript/yahooui/assets/sprite.png) #d8d8d8 repeat-x; BORDER-LEFT: #a3a3a3 1px solid; COLOR: #000; BORDER-BOTTOM: #a3a3a3 0px solid; POSITION: relative; TEXT-DECORATION: none
+}
+.yui-navset .yui-navset-top .yui-nav A {
+	BORDER-RIGHT: #a3a3a3 1px solid; BORDER-TOP: #a3a3a3 0px solid; BACKGROUND: url(../../../common--javascript/yahooui/assets/sprite.png) #d8d8d8 repeat-x; BORDER-LEFT: #a3a3a3 1px solid; COLOR: #000; BORDER-BOTTOM: #a3a3a3 0px solid; POSITION: relative; TEXT-DECORATION: none
+}
+.yui-navset .yui-nav A EM {
+	BORDER-RIGHT: #a3a3a3 0px solid; PADDING-RIGHT: 0.75em; BORDER-TOP: #a3a3a3 1px solid; PADDING-LEFT: 0.75em; RIGHT: 0px; LEFT: 0px; PADDING-BOTTOM: 0.25em; BORDER-LEFT: #a3a3a3 0px solid; CURSOR: hand; BOTTOM: 0px; PADDING-TOP: 0.25em; BORDER-BOTTOM: #a3a3a3 0px solid; POSITION: relative; TOP: -1px
+}
+.yui-navset .yui-navset-top .yui-nav A EM {
+	BORDER-RIGHT: #a3a3a3 0px solid; PADDING-RIGHT: 0.75em; BORDER-TOP: #a3a3a3 1px solid; PADDING-LEFT: 0.75em; RIGHT: 0px; LEFT: 0px; PADDING-BOTTOM: 0.25em; BORDER-LEFT: #a3a3a3 0px solid; CURSOR: hand; BOTTOM: 0px; PADDING-TOP: 0.25em; BORDER-BOTTOM: #a3a3a3 0px solid; POSITION: relative; TOP: -1px
+}
+.yui-navset .yui-nav .selected A {
+	BACKGROUND: url(../../../common--javascript/yahooui/assets/sprite.png) #2647a0 repeat-x left -1400px; COLOR: #fff
+}
+.yui-navset .yui-nav .selected A:unknown {
+	BACKGROUND: url(../../../common--javascript/yahooui/assets/sprite.png) #2647a0 repeat-x left -1400px; COLOR: #fff
+}
+.yui-navset .yui-nav .selected A:hover {
+	BACKGROUND: url(../../../common--javascript/yahooui/assets/sprite.png) #2647a0 repeat-x left -1400px; COLOR: #fff
+}
+.yui-navset .yui-nav A:hover {
+	BACKGROUND: url(../../../common--javascript/yahooui/assets/sprite.png) #bfdaff repeat-x left -1300px; outline: 0
+}
+.yui-navset .yui-nav A:unknown {
+	BACKGROUND: url(../../../common--javascript/yahooui/assets/sprite.png) #bfdaff repeat-x left -1300px; outline: 0
+}
+.yui-navset .yui-nav .selected A EM {
+	PADDING-RIGHT: 0.75em; PADDING-LEFT: 0.75em; PADDING-BOTTOM: 0.35em; PADDING-TOP: 0.35em
+}
+.yui-navset .yui-nav .selected A {
+	BORDER-LEFT-COLOR: #243356; BORDER-BOTTOM-COLOR: #243356; BORDER-TOP-COLOR: #243356; BORDER-RIGHT-COLOR: #243356
+}
+.yui-navset .yui-nav .selected A EM {
+	BORDER-LEFT-COLOR: #243356; BORDER-BOTTOM-COLOR: #243356; BORDER-TOP-COLOR: #243356; BORDER-RIGHT-COLOR: #243356
+}
+.yui-navset .yui-content {
+	BACKGROUND: #f4f5ff
+}
+.yui-navset .yui-content {
+	BORDER-RIGHT: #808080 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #243356 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.25em; BORDER-LEFT: #808080 1px solid; PADDING-TOP: 0.25em; BORDER-BOTTOM: #808080 1px solid
+}
+.yui-navset .yui-navset-top .yui-content {
+	BORDER-RIGHT: #808080 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #243356 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.25em; BORDER-LEFT: #808080 1px solid; PADDING-TOP: 0.25em; BORDER-BOTTOM: #808080 1px solid
+}
+.yui-navset-left .yui-nav {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BOTTOM: 0px; TOP: 0px; BORDER-RIGHT-WIDTH: 5px; Xposition: absolute
+}
+.yui-navset .yui-navset-left .yui-nav {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BOTTOM: 0px; TOP: 0px; BORDER-RIGHT-WIDTH: 5px; Xposition: absolute
+}
+.yui-navset .yui-navset-right .yui-nav {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BOTTOM: 0px; TOP: 0px; BORDER-RIGHT-WIDTH: 5px; Xposition: absolute
+}
+.yui-navset-right .yui-nav {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BOTTOM: 0px; TOP: 0px; BORDER-RIGHT-WIDTH: 5px; Xposition: absolute
+}
+.yui-navset .yui-navset-right .yui-nav {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 5px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.yui-navset-right .yui-nav {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 5px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.yui-navset-left .yui-nav LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 1px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0.16em; PADDING-TOP: 0px
+}
+.yui-navset .yui-navset-left .yui-nav LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 1px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0.16em; PADDING-TOP: 0px
+}
+.yui-navset-right .yui-nav LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 1px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0.16em; PADDING-TOP: 0px
+}
+.yui-navset-right .yui-nav LI {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.yui-navset-left .yui-nav .selected {
+	MARGIN: 0px -1px 0.16em 0px
+}
+.yui-navset .yui-navset-left .yui-nav .selected {
+	MARGIN: 0px -1px 0.16em 0px
+}
+.yui-navset-right .yui-nav .selected {
+	MARGIN: 0px 0px 0.16em -1px
+}
+.yui-navset-left .yui-nav A {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 0px
+}
+.yui-navset-right .yui-nav A {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-WIDTH: 0px
+}
+.yui-navset-left .yui-nav A EM {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0.75em; PADDING-LEFT: 0.75em; BORDER-LEFT-WIDTH: 1px; LEFT: -1px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.2em; TOP: auto; BORDER-RIGHT-WIDTH: 0px
+}
+.yui-navset .yui-navset-left .yui-nav A EM {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0.75em; PADDING-LEFT: 0.75em; BORDER-LEFT-WIDTH: 1px; LEFT: -1px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.2em; TOP: auto; BORDER-RIGHT-WIDTH: 0px
+}
+.yui-navset-right .yui-nav A EM {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0.75em; PADDING-LEFT: 0.75em; BORDER-LEFT-WIDTH: 1px; LEFT: -1px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.2em; TOP: auto; BORDER-RIGHT-WIDTH: 0px
+}
+.yui-navset-right .yui-nav A EM {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; RIGHT: -1px; LEFT: auto; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 1px
+}
+.yui-navset-left .yui-nav A {
+	BACKGROUND-IMAGE: none
+}
+.yui-navset-left .yui-nav .selected A {
+	BACKGROUND-IMAGE: none
+}
+.yui-navset-left .yui-nav A:hover {
+	BACKGROUND-IMAGE: none
+}
+.yui-navset-right .yui-nav A {
+	BACKGROUND-IMAGE: none
+}
+.yui-navset-right .yui-nav .selected A {
+	BACKGROUND-IMAGE: none
+}
+.yui-navset-right .yui-nav A:hover {
+	BACKGROUND-IMAGE: none
+}
+.yui-navset-bottom .yui-nav A {
+	BACKGROUND-IMAGE: none
+}
+.yui-navset-bottom .yui-nav .selected A {
+	BACKGROUND-IMAGE: none
+}
+.yui-navset-bottom .yui-nav A:hover {
+	BACKGROUND-IMAGE: none
+}
+.yui-navset-left .yui-content {
+	BORDER-RIGHT: #808080 1px solid; BORDER-TOP: #808080 1px solid; BORDER-LEFT: #243356 1px solid; BORDER-BOTTOM: #808080 1px solid
+}
+.yui-navset-bottom .yui-nav {
+	BORDER-TOP-WIDTH: 5px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.yui-navset .yui-navset-bottom .yui-nav {
+	BORDER-TOP-WIDTH: 5px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+.yui-navset .yui-navset-bottom .yui-nav .selected {
+	MARGIN: -1px 0.16em 0px 0px
+}
+.yui-navset-bottom .yui-nav .selected {
+	MARGIN: -1px 0.16em 0px 0px
+}
+.yui-navset .yui-navset-bottom .yui-nav LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1px; VERTICAL-ALIGN: top; PADDING-TOP: 0px
+}
+.yui-navset-bottom .yui-nav LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1px; VERTICAL-ALIGN: top; PADDING-TOP: 0px
+}
+.yui-navset .yui-navset-bottom .yui-nav LI A {
+	
+}
+.yui-navset-bottom .yui-nav LI A {
+	
+}
+.yui-navset .yui-navset-bottom .yui-nav A EM {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; BOTTOM: -1px; TOP: auto; BORDER-RIGHT-WIDTH: 0px
+}
+.yui-navset-bottom .yui-nav A EM {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 1px; BOTTOM: -1px; TOP: auto; BORDER-RIGHT-WIDTH: 0px
+}
+.yui-navset-bottom .yui-content {
+	BORDER-RIGHT: #808080 1px solid; BORDER-TOP: #808080 1px solid; BORDER-LEFT: #808080 1px solid; BORDER-BOTTOM: #243356 1px solid
+}
+.yui-navset .yui-navset-bottom .yui-content {
+	BORDER-RIGHT: #808080 1px solid; BORDER-TOP: #808080 1px solid; BORDER-LEFT: #808080 1px solid; BORDER-BOTTOM: #243356 1px solid
+}
+.hl-default {
+	COLOR: #000
+}
+.hl-code {
+	COLOR: #000
+}
+.hl-brackets {
+	COLOR: #000
+}
+.hl-comment {
+	COLOR: #494
+}
+.hl-quotes {
+	COLOR: #009
+}
+.hl-string {
+	COLOR: #009
+}
+.hl-identifier {
+	COLOR: #000
+}
+.hl-builtin {
+	COLOR: teal
+}
+.hl-reserved {
+	COLOR: #55d
+}
+.hl-inlinedoc {
+	COLOR: blue
+}
+.hl-var {
+	COLOR: #494
+}
+.hl-url {
+	COLOR: blue
+}
+.hl-special {
+	FONT-WEIGHT: bold; COLOR: navy
+}
+.hl-number {
+	COLOR: maroon
+}
+.hl-inlinetags {
+	FONT-WEIGHT: bold; COLOR: #949
+}
+.hl-main {
+	
+}
+.hl-gutter {
+	COLOR: white; BACKGROUND-COLOR: #999999
+}
+.hl-table {
+	
+}
+.autocomplete-container {
+	MARGIN: 0px; WIDTH: 100%; POSITION: relative
+}
+.autocomplete-input {
+	DISPLAY: block; WIDTH: 100%; POSITION: relative
+}
+.autocomplete-list {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; Z-INDEX: 100; LEFT: 0px; PADDING-BOTTOM: 0px; OVERFLOW: hidden; WIDTH: 100%; PADDING-TOP: 0px; POSITION: absolute; TEXT-ALIGN: left
+}
+.yui-ac-content {
+	BORDER-RIGHT: #404040 1px solid; BORDER-TOP: #404040 1px solid; BACKGROUND: #fff; BORDER-LEFT: #404040 1px solid; BORDER-BOTTOM: #404040 1px solid
+}
+.autocomplete-list UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 2px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 2px; LIST-STYLE-TYPE: none
+}
+.autocomplete-list LI {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; CURSOR: default; PADDING-TOP: 0px; WHITE-SPACE: nowrap
+}
+.autocomplete-list LI.yui-ac-highlight {
+	BACKGROUND-COLOR: #ddd
+}
+.forum-breadcrumbs {
+	MARGIN-TOP: -0.7em
+}
+.forum-breadcrumbs A {
+	
+}
+.forum-group {
+	MARGIN: 0.5em 0px
+}
+.forum-group DIV.head {
+	BORDER-RIGHT: #333 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #333 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.5em; MARGIN: 0px; BORDER-LEFT: #333 1px solid; COLOR: #fff; PADDING-TOP: 0.5em; BORDER-BOTTOM: #333 1px solid; BACKGROUND-COLOR: #666
+}
+.forum-group DIV.head .title {
+	FONT-WEIGHT: bold
+}
+.forum-group TABLE {
+	WIDTH: 100%; BORDER-COLLAPSE: separate; border-spacing: 1px
+}
+.forum-group TABLE TD {
+	BORDER-RIGHT: #ddd 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 2px; BORDER-LEFT: #ddd 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #ddd 1px solid
+}
+.forum-group TABLE TD.name .description {
+	FONT-SIZE: 87%; COLOR: #777
+}
+.forum-group TABLE TD.name .title {
+	FONT-WEIGHT: bold
+}
+.forum-group TABLE TD.last {
+	FONT-SIZE: 85%; WIDTH: 17em; TEXT-ALIGN: center
+}
+.forum-group TABLE TD.posts {
+	WIDTH: 5em; TEXT-ALIGN: center
+}
+.forum-group TABLE TD.threads {
+	WIDTH: 5em; TEXT-ALIGN: center
+}
+.forum-group TABLE TR.head TD {
+	FONT-SIZE: 85%; BACKGROUND-COLOR: #eee; TEXT-ALIGN: center
+}
+.forum-category-box {
+	MARGIN: 0.5em 0px
+}
+.forum-category-box .description-block {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 1em 4em; OVERFLOW: hidden; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #ccc 1px solid; HEIGHT: 100%; BACKGROUND-COLOR: #f5f5f5
+}
+.forum-category-box .description-block .statistics {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-SIZE: 85%; FLOAT: right; PADDING-BOTTOM: 0px; COLOR: #666; PADDING-TOP: 0px; TEXT-ALIGN: right
+}
+.forum-category-box .options {
+	MARGIN: 1em 4em; TEXT-ALIGN: right
+}
+.forum-category-box TABLE {
+	BORDER-RIGHT: #bbb 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #bbb 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px; BORDER-LEFT: #bbb 1px solid; WIDTH: 100%; PADDING-TOP: 0px; BORDER-BOTTOM: #bbb 1px solid; BORDER-COLLAPSE: separate; border-spacing: 1px
+}
+.forum-category-box TABLE TD {
+	BORDER-RIGHT: #ddd 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #ddd 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; BORDER-LEFT: #ddd 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #ddd 1px solid
+}
+.forum-category-box TABLE TR.head TD {
+	FONT-SIZE: 90%; BACKGROUND-COLOR: #eee; TEXT-ALIGN: center
+}
+.forum-category-box TABLE TD.name .description {
+	FONT-SIZE: 87%; COLOR: #777
+}
+.forum-category-box TABLE TD.name .title {
+	FONT-WEIGHT: bold
+}
+.forum-category-box TABLE TD.last {
+	FONT-SIZE: 87%; WIDTH: 16em; TEXT-ALIGN: center
+}
+.forum-category-box TABLE TD.posts {
+	WIDTH: 5em; TEXT-ALIGN: center
+}
+.forum-category-box TABLE TD.started {
+	FONT-SIZE: 87%; WIDTH: 17em; TEXT-ALIGN: center
+}
+.forum-category-box .pager {
+	MARGIN: 1em 0px; TEXT-ALIGN: center
+}
+.forum-new-thread-box .description {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 1em 4em; OVERFLOW: auto; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #ccc 1px solid; BACKGROUND-COLOR: #f5f5f5
+}
+.forum-new-thread-box .description .statistics {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-SIZE: 87%; FLOAT: right; PADDING-BOTTOM: 0px; COLOR: #666; PADDING-TOP: 0px; TEXT-ALIGN: right
+}
+.forum-thread-box {
+	MARGIN: 0.5em 0px
+}
+.forum-thread-box .description-block {
+	BORDER-RIGHT: #ccc 1px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #ccc 1px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; MARGIN: 1em 4em; OVERFLOW: hidden; BORDER-LEFT: #ccc 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #ccc 1px solid; HEIGHT: 100%; BACKGROUND-COLOR: #f5f5f5
+}
+.forum-thread-box .description-block .head {
+	FONT-SIZE: 87%; COLOR: #777
+}
+.forum-thread-box .description-block .statistics {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-SIZE: 87%; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0.5em 0px; COLOR: #666; PADDING-TOP: 0px; TEXT-ALIGN: right
+}
+.forum-thread-box .options {
+	MARGIN: 0.2em 4em; TEXT-ALIGN: right
+}
+.forum-thread-box .action-area {
+	BORDER-RIGHT: #eee 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #eee 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.5em; MARGIN: 1em 4em; BORDER-LEFT: #eee 1px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #eee 1px solid
+}
+.thread-container .post {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; WIDTH: 99%; PADDING-TOP: 10px
+}
+.thread-container .post .options A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #77a; PADDING-TOP: 0px
+}
+.thread-container .post .head {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.2em; BACKGROUND-COLOR: #eee
+}
+.thread-container .post .long .head .options {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+.thread-container .post .long .head .title {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.2em
+}
+.thread-container .post .long .head .info {
+	
+}
+.thread-container .post .long .content {
+	
+}
+.thread-container .post .long .content P {
+	
+}
+.thread-container .post .long .changes {
+	FONT-SIZE: 85%; MARGIN-BOTTOM: 4px; COLOR: #777; TEXT-ALIGN: right
+}
+.thread-container .post .long .changes A {
+	COLOR: #77a
+}
+.thread-container .post .long .revisions {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-SIZE: 90%; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em; TEXT-ALIGN: right
+}
+.thread-container .post .long .revisions .title {
+	FONT-WEIGHT: bold; FONT-SIZE: 110%; PADDING-BOTTOM: 0.3em
+}
+.thread-container .post .long .revisions TABLE {
+	FONT-SIZE: 90%; MARGIN: 0px 0px 0px auto
+}
+.thread-container .post .long .revisions TABLE TR.active TD {
+	BACKGROUND-COLOR: #eee
+}
+.thread-container .post .long .options {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; HEIGHT: 1%; TEXT-ALIGN: right
+}
+.thread-container .post .short {
+	PADDING-RIGHT: 0.5em; DISPLAY: none; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.2em; BACKGROUND-COLOR: #f4f4f4
+}
+.thread-container .post .short .options {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #77a; PADDING-TOP: 0px
+}
+.thread-container .post .signature {
+	FONT-SIZE: 85%
+}
+.thread-container .post .signature HR.signature-separator {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 2px auto 2px 0px; WIDTH: 15em; PADDING-TOP: 0px
+}
+.thread-container .folded .long {
+	DISPLAY: none
+}
+.thread-container .folded .short {
+	DISPLAY: block
+}
+.post-container .post-container {
+	MARGIN-LEFT: 5%
+}
+.fordelete {
+	BORDER-RIGHT: #e44 2px solid; PADDING-RIGHT: 0.5em; BORDER-TOP: #e44 2px solid; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.5em; BORDER-LEFT: #e44 2px solid; PADDING-TOP: 0.5em; BORDER-BOTTOM: #e44 2px solid
+}
+DIV.new-post {
+	MARGIN: 20px 0px; TEXT-ALIGN: left
+}
+DIV.new-post A {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #999 1px solid; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 100%; PADDING-BOTTOM: 5px; BORDER-LEFT: #999 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #999 1px solid; BACKGROUND-COLOR: #f7f7f7
+}
+.forum-recent-posts-box .pager {
+	MARGIN: 1em 0px; TEXT-ALIGN: center
+}
+.forum-mini-stat {
+	MARGIN: 0.5em 0px
+}
+.forum-mini-stat .item .info {
+	FONT-SIZE: 80%; COLOR: #777
+}
+.wd-editor-toolbar-panel {
+	
+}
+.wd-editor-toolbar-panel DIV {
+	HEIGHT: 30px
+}
+.wd-editor-toolbar-panel A {
+	BORDER-TOP-WIDTH: 1px; BORDER-LEFT-WIDTH: 1px; BORDER-LEFT-COLOR: transparent; BORDER-BOTTOM-WIDTH: 1px; BORDER-BOTTOM-COLOR: transparent; MARGIN: 0px; BORDER-TOP-COLOR: transparent; BACKGROUND-COLOR: #fff; BORDER-RIGHT-WIDTH: 1px; BORDER-RIGHT-COLOR: transparent
+}
+.wd-editor-toolbar-panel A:hover {
+	BORDER-LEFT-COLOR: #333; BORDER-BOTTOM-COLOR: #333; BORDER-TOP-COLOR: #333; BORDER-RIGHT-COLOR: #333
+}
+.wd-editor-toolbar-panel UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.wd-editor-toolbar-panel UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 1px; PADDING-TOP: 0px
+}
+.wd-editor-toolbar-panel UL LI UL {
+	Z-INDEX: 30; LEFT: -999em; POSITION: absolute
+}
+.wd-editor-toolbar-panel UL LI UL LI A {
+	FLOAT: none
+}
+.wd-editor-toolbar-panel UL LI UL LI {
+	MARGIN: 0px
+}
+.wd-editor-toolbar-panel UL LI UL LI A {
+	DISPLAY: block; FLOAT: none
+}
+.wd-editor-toolbar-panel UL LI:hover UL {
+	BORDER-RIGHT: #555 2px solid; BORDER-TOP: #555 2px solid; LEFT: auto; BORDER-LEFT: #555 2px solid; BORDER-BOTTOM: #555 2px solid; BACKGROUND-COLOR: black
+}
+.wd-editor-toolbar-panel UL LI.sfhover UL {
+	BORDER-RIGHT: #555 2px solid; BORDER-TOP: #555 2px solid; LEFT: auto; BORDER-LEFT: #555 2px solid; BORDER-BOTTOM: #555 2px solid; BACKGROUND-COLOR: black
+}
+.wd-editor-toolbar-panel LI.hseparator {
+	MARGIN: 0px 5px; WIDTH: 2px; HEIGHT: 28px; BACKGROUND-COLOR: #333
+}
+.wd-editor-toolbar-panel UL LI A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 22px; PADDING-TOP: 0px; HEIGHT: 22px
+}
+.wd-editor-toolbar-panel UL LI A SPAN {
+	DISPLAY: none
+}
+.wd-editor-toolbar-panel A {
+	BACKGROUND-IMAGE: url(../images/editor/icons1.png)
+}
+.wd-editor-toolbar-panel A:hover {
+	BACKGROUND-IMAGE: url(../images/editor/icons3.png)
+}
+A.weditor-bold {
+	BACKGROUND-POSITION: -132px 0px
+}
+A.weditor-italic {
+	BACKGROUND-POSITION: -154px 0px
+}
+A.weditor-underline {
+	BACKGROUND-POSITION: -176px 0px
+}
+A.weditor-strikethrough {
+	BACKGROUND-POSITION: -198px 0px
+}
+A.weditor-teletype {
+	BACKGROUND-POSITION: -220px 0px
+}
+A.weditor-quote {
+	BACKGROUND-POSITION: -242px 0px
+}
+A.weditor-superscript {
+	BACKGROUND-POSITION: -264px 0px
+}
+A.weditor-subscript {
+	BACKGROUND-POSITION: -286px 0px
+}
+A.weditor-raw {
+	BACKGROUND-POSITION: -308px 0px
+}
+A.weditor-hr {
+	BACKGROUND-POSITION: -330px 0px
+}
+A.weditor-div {
+	BACKGROUND-POSITION: -352px 0px
+}
+A.weditor-clearfloat {
+	BACKGROUND-POSITION: -374px 0px
+}
+A.weditor-clearfloatleft {
+	BACKGROUND-POSITION: -396px 0px
+}
+A.weditor-clearfloatright {
+	BACKGROUND-POSITION: -418px 0px
+}
+A.weditor-divwiz {
+	BACKGROUND-POSITION: -440px 0px
+}
+A.weditor-table {
+	BACKGROUND-POSITION: -440px 0px
+}
+A.weditor-toc {
+	BACKGROUND-POSITION: -462px 0px
+}
+A.weditor-uri {
+	BACKGROUND-POSITION: -484px 0px
+}
+A.weditor-uriwiz {
+	BACKGROUND-POSITION: -506px 0px
+}
+A.weditor-pagelink {
+	BACKGROUND-POSITION: -528px 0px
+}
+A.weditor-pagelinkwiz {
+	BACKGROUND-POSITION: -550px 0px
+}
+A.weditor-image {
+	BACKGROUND-POSITION: -572px 0px
+}
+A.weditor-imagewiz {
+	BACKGROUND-POSITION: -594px 0px
+}
+A.weditor-video {
+	BACKGROUND-POSITION: -616px 0px
+}
+A.weditor-audio {
+	BACKGROUND-POSITION: -638px 0px
+}
+A.weditor-code {
+	BACKGROUND-POSITION: -660px 0px
+}
+A.weditor-codewiz {
+	BACKGROUND-POSITION: -682px 0px
+}
+A.weditor-numlist {
+	BACKGROUND-POSITION: -704px 0px
+}
+A.weditor-bullist {
+	BACKGROUND-POSITION: -726px 0px
+}
+A.weditor-incindent {
+	BACKGROUND-POSITION: -748px 0px
+}
+A.weditor-decindent {
+	BACKGROUND-POSITION: -770px 0px
+}
+A.weditor-deflist {
+	BACKGROUND-POSITION: -792px 0px
+}
+A.weditor-footnote {
+	BACKGROUND-POSITION: -814px 0px
+}
+A.weditor-math {
+	BACKGROUND-POSITION: -836px 0px
+}
+A.weditor-mathinline {
+	BACKGROUND-POSITION: -858px 0px
+}
+A.weditor-eqref {
+	BACKGROUND-POSITION: -880px 0px
+}
+A.weditor-bib {
+	BACKGROUND-POSITION: -902px 0px
+}
+A.weditor-bibcite {
+	BACKGROUND-POSITION: -924px 0px
+}
+A.weditor-h1 {
+	BACKGROUND-POSITION: 0px 0px
+}
+A.weditor-h2 {
+	BACKGROUND-POSITION: -22px 0px
+}
+A.weditor-h3 {
+	BACKGROUND-POSITION: -44px 0px
+}
+A.weditor-h4 {
+	BACKGROUND-POSITION: -66px 0px
+}
+A.weditor-h5 {
+	BACKGROUND-POSITION: -88px 0px
+}
+A.weditor-h6 {
+	BACKGROUND-POSITION: -110px 0px
+}
+A.weditor-html {
+	BACKGROUND-POSITION: -946px 0px
+}
+.odialog-shader {
+	Z-INDEX: 40; RIGHT: 0px; FILTER: alpha(opacity=80); LEFT: 0px; WIDTH: 100%; POSITION: absolute; TOP: 0px; BACKGROUND-COLOR: #222; opacity: 0.8
+}
+.odialog-shader-iframe {
+	RIGHT: 0px; FILTER: alpha(opacity=0); LEFT: 0px; WIDTH: 100%; POSITION: absolute; TOP: 0px; opacity: 0
+}
+TABLE#odialog-box-container {
+	LEFT: 0px; MARGIN: 0px; WIDTH: 100%; POSITION: absolute
+}
+TABLE#odialog-box-container TD {
+	VERTICAL-ALIGN: middle; WIDTH: 100%; HEIGHT: 100%; TEXT-ALIGN: center
+}
+TABLE#odialog-box-container TD DIV {
+	MARGIN: 0px auto
+}
+#odialog-wrapper {
+	TEXT-ALIGN: center
+}
+#odialog-container {
+	Z-INDEX: 50; WIDTH: 100%; POSITION: absolute; TOP: 0px; HEIGHT: 100%
+}
+.owindow {
+	BORDER-RIGHT: #bbb 2px solid; BORDER-TOP: #bbb 2px solid; BORDER-LEFT: #bbb 2px solid; WIDTH: 50em; BORDER-BOTTOM: #bbb 2px solid; POSITION: absolute; BACKGROUND-COLOR: white; TEXT-ALIGN: left
+}
+.owindow .close {
+	PADDING-RIGHT: 0.4em; PADDING-LEFT: 0.4em; FONT-SIZE: 85%; FLOAT: right; PADDING-BOTTOM: 0.2em; CURSOR: hand; PADDING-TOP: 0.2em
+}
+.owindow .title {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; FONT-WEIGHT: bold; FONT-SIZE: 120%; PADDING-BOTTOM: 0.2em; CURSOR: move; PADDING-TOP: 0.2em; HEIGHT: 1%; BACKGROUND-COLOR: #f5f5f5
+}
+.owindow .content {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.5em; PADDING-TOP: 0.5em
+}
+.owindow .button-bar {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.2em; MARGIN: 0.5em; PADDING-TOP: 0.2em; TEXT-ALIGN: right
+}
+.owindow .button-bar INPUT {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+.owindow .button-bar A {
+	BORDER-RIGHT: #aaa 1px solid; PADDING-RIGHT: 1em; BORDER-TOP: #aaa 1px solid; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.1em; MARGIN: 0.2em; BORDER-LEFT: #aaa 1px solid; PADDING-TOP: 0.1em; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f4f4f4; TEXT-DECORATION: none
+}
+.owindow .button-bar A:hover {
+	BACKGROUND-COLOR: #ddd
+}
+.owait {
+	WIDTH: auto
+}
+.owait .content {
+	PADDING-RIGHT: 50px; BACKGROUND-POSITION: center bottom; PADDING-LEFT: 50px; BACKGROUND-IMAGE: url(../images/progress/progressbar.gif); PADDING-BOTTOM: 20px; MARGIN: 10px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat
+}
+.osuccess {
+	WIDTH: auto
+}
+.osuccess .content {
+	PADDING-RIGHT: 50px; PADDING-LEFT: 50px; PADDING-BOTTOM: 0px; MARGIN: 10px; PADDING-TOP: 0px
+}
+.box444 {
+	LEFT: 10px; WIDTH: 40%; TOP: 10px; BACKGROUND-COLOR: white
+}
+.box444 .button-bar {
+	PADDING-RIGHT: 1em; PADDING-LEFT: 1em; PADDING-BOTTOM: 0.3em; PADDING-TOP: 0.3em; BACKGROUND-COLOR: #ddd; TEXT-ALIGN: right
+}
+.hovertip {
+	BORDER-RIGHT: #888 2px solid; BORDER-TOP: #888 2px solid; DISPLAY: none; Z-INDEX: 100; BORDER-LEFT: #888 2px solid; WIDTH: 20em; BORDER-BOTTOM: #888 2px solid; BACKGROUND-COLOR: #f3f3f3
+}
+.hovertip .title {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; FONT-WEIGHT: bold; FONT-SIZE: 110%; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.2em
+}
+.hovertip .content {
+	PADDING-RIGHT: 0.5em; PADDING-LEFT: 0.5em; PADDING-BOTTOM: 0.2em; PADDING-TOP: 0.2em
+}
+#jquery-overlay {
+	Z-INDEX: 90; LEFT: 0px; WIDTH: 100%; POSITION: absolute; TOP: 0px; HEIGHT: 500px
+}
+#jquery-lightbox {
+	Z-INDEX: 100; LEFT: 0px; WIDTH: 100%; LINE-HEIGHT: 0; POSITION: absolute; TOP: 0px; TEXT-ALIGN: center
+}
+#jquery-lightbox A IMG {
+	BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none
+}
+#lightbox-container-image-box {
+	MARGIN: 0px auto; WIDTH: 250px; POSITION: relative; HEIGHT: 250px; BACKGROUND-COLOR: #fff
+}
+#lightbox-container-image {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+#lightbox-loading {
+	LEFT: 0%; WIDTH: 100%; LINE-HEIGHT: 0; POSITION: absolute; TOP: 40%; HEIGHT: 25%; TEXT-ALIGN: center
+}
+#lightbox-nav {
+	Z-INDEX: 10; LEFT: 0px; WIDTH: 100%; POSITION: absolute; TOP: 0px; HEIGHT: 100%
+}
+UNKNOWN {
+	LEFT: 0px
+}
+#lightbox-nav A {
+	outline: none
+}
+#lightbox-nav-btnPrev {
+	DISPLAY: block; WIDTH: 49%; ZOOM: 1; HEIGHT: 100%
+}
+#lightbox-nav-btnNext {
+	DISPLAY: block; WIDTH: 49%; ZOOM: 1; HEIGHT: 100%
+}
+#lightbox-nav-btnPrev {
+	LEFT: 0px; FLOAT: left
+}
+#lightbox-nav-btnNext {
+	RIGHT: 0px; FLOAT: right
+}
+#lightbox-container-image-data-box {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; MARGIN: 0px auto; FONT: 10px/1.4em Verdana, Helvetica, sans-serif; OVERFLOW: auto; WIDTH: 100%; PADDING-TOP: 0px; BACKGROUND-COLOR: #fff
+}
+#lightbox-container-image-data {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; COLOR: #666; PADDING-TOP: 0px
+}
+#lightbox-container-image-data #lightbox-image-details {
+	FLOAT: left; WIDTH: 70%; TEXT-ALIGN: left
+}
+#lightbox-image-details-caption {
+	FONT-WEIGHT: bold
+}
+#lightbox-image-details-currentNumber {
+	CLEAR: left; DISPLAY: block; PADDING-BOTTOM: 1em
+}
+#lightbox-secNav-btnClose {
+	FLOAT: right; PADDING-BOTTOM: 0.7em; WIDTH: 66px
+}
+#navi-bar-shadow {
+	DISPLAY: none; HEIGHT: 25px
+}
+#navi-bar {
+	BACKGROUND-POSITION: 50% bottom; FONT-SIZE: 12px; Z-INDEX: 9999; BACKGROUND-IMAGE: url(../../../common--theme/base/images/shade2_n.png); OVERFLOW: hidden; WIDTH: 100%; COLOR: #000; BORDER-BOTTOM: #444 1px solid; FONT-FAMILY: verdana, arial, helvetica; POSITION: fixed; TOP: 0px; HEIGHT: 24px; BACKGROUND-COLOR: #ccc
+}
+#navi-bar A {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #119; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+#navi-bar A:hover {
+	BACKGROUND-COLOR: transparent; TEXT-DECORATION: none
+}
+#navi-bar A.logo {
+	Z-INDEX: 999; FILTER: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled='true', sizingMethod='scale', src='../../../common--images/navibar/logo20.png'); LEFT: 13px; BACKGROUND-IMAGE: url(../../../common--images/navibar/logo20.png); WIDTH: 71px; POSITION: absolute; TOP: 2px; HEIGHT: 20px
+}
+#navi-bar A.logo SPAN {
+	DISPLAY: none
+}
+#navi-bar .new-site {
+	LEFT: 120px; POSITION: absolute; TOP: 3px
+}
+#navi-bar .new-site INPUT.text {
+	WIDTH: 120px; TEXT-ALIGN: center
+}
+#navi-bar .new-site INPUT.empty {
+	COLOR: #666
+}
+#navi-bar .share {
+	LEFT: 370px; POSITION: absolute; TOP: 4px
+}
+#navi-bar .share SPAN {
+	VERTICAL-ALIGN: 3px
+}
+#navi-bar .share IMG {
+	WIDTH: 16px; HEIGHT: 16px
+}
+#navi-bar .action-buttons {
+	PADDING-RIGHT: 2px; DISPLAY: block; PADDING-LEFT: 2px; RIGHT: 120px; PADDING-BOTTOM: 2px; COLOR: #000; PADDING-TOP: 2px; POSITION: absolute; TOP: 2px; HEIGHT: 14px
+}
+#navi-bar .action-buttons A {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 0px; COLOR: #000; PADDING-TOP: 0px
+}
+#navi-bar .join {
+	DISPLAY: block; FONT-WEIGHT: bold; LEFT: 570px; COLOR: #000; POSITION: absolute; TOP: 4px
+}
+#navi-bar .random-site {
+	PADDING-RIGHT: 2px; DISPLAY: block; PADDING-LEFT: 2px; RIGHT: 50px; PADDING-BOTTOM: 2px; COLOR: #000; PADDING-TOP: 2px; POSITION: absolute; TOP: 2px; HEIGHT: 14px
+}
+#navi-bar .random-site:hover {
+	BORDER-LEFT-COLOR: #000; BORDER-BOTTOM-COLOR: #000; BORDER-TOP-COLOR: #000; BORDER-RIGHT-COLOR: #000
+}
+#navi-bar .close {
+	RIGHT: 5px; POSITION: absolute; TOP: 5px
+}
+#footer-bar {
+	BORDER-TOP: #aaa 1px solid; MARGIN: 10px auto 0px; OVERFLOW: hidden; WIDTH: 750px; PADDING-TOP: 10px
+}
+#footer-bar H2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 130%; PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+#footer-bar .units {
+	OVERFLOW: hidden
+}
+#footer-bar .unit {
+	FLOAT: left; WIDTH: 185px
+}
+#footer-bar .unit .inner {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+#footer-bar .unit .image {
+	DISPLAY: block; OVERFLOW: hidden; HEIGHT: 60px; TEXT-DECORATION: none
+}
+#footer-bar H3 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 100%; PADDING-BOTTOM: 3px; MARGIN: 0px; PADDING-TOP: 5px
+}
+#footer-bar A {
+	BACKGROUND: none transparent scroll repeat 0% 0%; TEXT-DECORATION: none; opacity: 1
+}
+#footer-bar A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; TEXT-DECORATION: none
+}
+#footer-bar .desc {
+	FONT-SIZE: 80%
+}
+#footer-bar .close {
+	FLOAT: right; MARGIN: 5px
+}
+#footer-bar .ads-here {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+.form-table .form-value {
+	DISPLAY: block
+}
+.form-table .form-error {
+	BORDER-RIGHT: red 1px dotted; BORDER-TOP: red 1px dotted; BORDER-LEFT: red 1px dotted; BORDER-BOTTOM: red 1px dotted
+}
+.form-table .form-hinted {
+	COLOR: #666
+}
+.form-table .form-message {
+	DISPLAY: block; COLOR: green
+}
+IFRAME.html-block-iframe {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 100%; PADDING-TOP: 0px; HEIGHT: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#boonity_free_site_bottom {
+	MARGIN: 0px auto
+}
+TABLE.guest-commenting {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN-BOTTOM: 2px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-COLLAPSE: collapse; BORDER-RIGHT-WIDTH: 0px
+}
+TABLE.guest-commenting TD {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 2px
+}
+TABLE.guest-commenting TD INPUT {
+	MARGIN: 0px
+}
+TABLE.guest-commenting TD LABEL.hint {
+	COLOR: #666
+}
+.wikidot-hybrid-module-loading {
+	BACKGROUND: url(../images/progress/progressbar.gif) no-repeat center center; PADDING-TOP: 20px
+}
