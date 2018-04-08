@@ -61,9 +61,6 @@ var f = function(sum1, sum2){
 
 
 
-
-
-
 // 没有重载 （深入理解）  
 function addSomeNumber(num){
     return num + 100;
