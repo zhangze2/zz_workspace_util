@@ -405,6 +405,7 @@ public class ArrayUtil implements Serializable{
      *
      * @return
      */
-public Object[] getObjectArray() {
-    return (Object[]) objArray;
+	public Object[] getObjectArray() {
+	    return (Object[]) objArray;
+	}
 }

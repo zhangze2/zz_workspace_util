@@ -1,201 +1,347 @@
 #container {
 	MARGIN: 0px
 }
+
 #header {
-	BACKGROUND-POSITION: 0px 2.1em; BACKGROUND-IMAGE: url(../../../common--theme/flannel/images/flannel-bg-1.png); BORDER-BOTTOM: #707080 3px solid; BACKGROUND-REPEAT: repeat-x; HEIGHT: 9em
+	BACKGROUND-POSITION: 0px 2.1em;
+	BACKGROUND-IMAGE:
+		url(../../../common--theme/flannel/images/flannel-bg-1.png);
+	BORDER-BOTTOM: #707080 3px solid;
+	BACKGROUND-REPEAT: repeat-x;
+	HEIGHT: 9em
 }
+
 #header H1 {
-	FONT-SIZE: 3em; MARGIN: 0px auto 0px 10px; WIDTH: 650px; BORDER-TOP-STYLE: none; PADDING-TOP: 0.9em; FONT-FAMILY: Verdana,"Trebuchet MS"; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; TEXT-ALIGN: center; BORDER-BOTTOM-STYLE: none
+	FONT-SIZE: 3em;
+	MARGIN: 0px auto 0px 10px;
+	WIDTH: 650px;
+	BORDER-TOP-STYLE: none;
+	PADDING-TOP: 0.9em;
+	FONT-FAMILY: Verdana, "Trebuchet MS";
+	BORDER-RIGHT-STYLE: none;
+	BORDER-LEFT-STYLE: none;
+	TEXT-ALIGN: center;
+	BORDER-BOTTOM-STYLE: none
 }
+
 #header H1 A {
 	COLOR: #020280
 }
+
 #header H1 A:hover {
 	BACKGROUND: none transparent scroll repeat 0% 0%
 }
+
 #header H2 {
-	FONT-SIZE: 1.5em; MARGIN: 0px auto 0px 10px; WIDTH: 650px; COLOR: #666; TEXT-ALIGN: center
+	FONT-SIZE: 1.5em;
+	MARGIN: 0px auto 0px 10px;
+	WIDTH: 650px;
+	COLOR: #666;
+	TEXT-ALIGN: center
 }
+
 #header-extra-div-1 {
-	RIGHT: 0px; LEFT: 0px; BACKGROUND-IMAGE: url(../images/flannel-ocean-bg-2.png); WIDTH: 100%; POSITION: absolute; TOP: 0px; HEIGHT: 2em; BACKGROUND-COLOR: #707080
+	RIGHT: 0px;
+	LEFT: 0px;
+	BACKGROUND-IMAGE: url(../images/flannel-ocean-bg-2.png);
+	WIDTH: 100%;
+	POSITION: absolute;
+	TOP: 0px;
+	HEIGHT: 2em;
+	BACKGROUND-COLOR: #707080
 }
+
 #header #login-status {
-	FONT-WEIGHT: bold; COLOR: #eee
+	FONT-WEIGHT: bold;
+	COLOR: #eee
 }
+
 #login-status A {
-	FONT-WEIGHT: bold; COLOR: #eee
+	FONT-WEIGHT: bold;
+	COLOR: #eee
 }
+
 #account-options A {
-	FONT-WEIGHT: normal; COLOR: #333
+	FONT-WEIGHT: normal;
+	COLOR: #333
 }
+
 #account-options {
-	FONT-WEIGHT: normal; COLOR: #333
+	FONT-WEIGHT: normal;
+	COLOR: #333
 }
+
 A#account-topbutton {
-	FONT-WEIGHT: normal; COLOR: #333
+	FONT-WEIGHT: normal;
+	COLOR: #333
 }
+
 #login-status {
 	TOP: 3px
 }
+
 #login-status IMG {
 	DISPLAY: none
 }
+
 #login-status A:hover {
 	BACKGROUND-COLOR: #a0a0b2
 }
+
 #account-options A:hover {
 	BACKGROUND-COLOR: #eee
 }
+
 #top-bar {
 	RIGHT: 10em
 }
+
 #content-wrap {
 	MARGIN: 1em 2em
 }
+
 #side-bar {
-	BORDER-TOP: #797980 1px solid; BORDER-BOTTOM: #797980 1px solid; BACKGROUND-COLOR: #f0f0f5
+	BORDER-TOP: #797980 1px solid;
+	BORDER-BOTTOM: #797980 1px solid;
+	BACKGROUND-COLOR: #f0f0f5
 }
+
 #side-bar H1 {
 	BORDER-BOTTOM: #777 1px dotted
 }
+
 #side-bar H2 {
 	BORDER-BOTTOM: #777 1px dotted
 }
+
 #side-bar H3 {
 	BORDER-BOTTOM: #777 1px dotted
 }
+
 #side-bar H1 {
 	FONT-SIZE: 170%
 }
+
 #side-bar H2 {
 	FONT-SIZE: 150%
 }
+
 #side-bar H3 {
 	FONT-SIZE: 120%
 }
+
 #side-bar A:hover {
 	BACKGROUND-COLOR: #fff
 }
+
 #side-bar UL {
-	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+	PADDING-RIGHT: 0px;
+	DISPLAY: block;
+	PADDING-LEFT: 0px;
+	PADDING-BOTTOM: 0px;
+	PADDING-TOP: 0px;
+	LIST-STYLE-TYPE: none
 }
+
 #side-bar UL LI {
 	DISPLAY: block
 }
+
 #side-bar UL LI A {
 	DISPLAY: block
 }
+
 #page-info {
 	COLOR: #555
 }
+
 #footer {
-	BACKGROUND-IMAGE: url(../images/flannel-ocean-bg-2.png); COLOR: #eee; BACKGROUND-COLOR: #707080
+	BACKGROUND-IMAGE: url(../images/flannel-ocean-bg-2.png);
+	COLOR: #eee;
+	BACKGROUND-COLOR: #707080
 }
+
 #footer A {
 	COLOR: #eef
 }
+
 #footer A:hover {
 	BACKGROUND-COLOR: #669
 }
+
 BODY {
 	COLOR: #222
 }
+
 H1 {
 	FONT-FAMILY: Georgia, "Times New Roman", times, serif
 }
+
 H2 {
 	FONT-FAMILY: Georgia, "Times New Roman", times, serif
 }
+
 H3 {
 	FONT-FAMILY: Georgia, "Times New Roman", times, serif
 }
+
 H4 {
 	FONT-FAMILY: Georgia, "Times New Roman", times, serif
 }
+
 H5 {
 	FONT-FAMILY: Georgia, "Times New Roman", times, serif
 }
+
 H6 {
 	FONT-FAMILY: Georgia, "Times New Roman", times, serif
 }
+
 #page-title {
 	FONT-FAMILY: Georgia, "Times New Roman", times, serif
 }
+
 #page-title {
-	FONT-SIZE: 220%; COLOR: #040450
+	FONT-SIZE: 220%;
+	COLOR: #040450
 }
+
 H1 {
 	COLOR: #444
 }
+
 H2 {
 	COLOR: #444
 }
+
 H3 {
 	COLOR: #444
 }
+
 H1 {
 	BORDER-BOTTOM: #aaa 1px dotted
 }
+
 A {
 	COLOR: #030390
 }
+
 A.newpage {
 	COLOR: #888
 }
+
 .page-options-bottom A {
-	COLOR: #224; BACKGROUND-COLOR: #eee; TEXT-DECORATION: none
+	COLOR: #224;
+	BACKGROUND-COLOR: #eee;
+	TEXT-DECORATION: none
 }
+
 .page-options-bottom A:hover {
 	BACKGROUND-COLOR: #ddd
 }
+
 A.action-area-close {
-	COLOR: #224; BACKGROUND-COLOR: #eee; TEXT-DECORATION: none
+	COLOR: #224;
+	BACKGROUND-COLOR: #eee;
+	TEXT-DECORATION: none
 }
+
 DIV.buttons INPUT {
-	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; BORDER-LEFT: #aaa 1px solid; COLOR: #020250; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f4f4f4
+	BORDER-RIGHT: #aaa 1px solid;
+	BORDER-TOP: #aaa 1px solid;
+	BORDER-LEFT: #aaa 1px solid;
+	COLOR: #020250;
+	BORDER-BOTTOM: #aaa 1px solid;
+	BACKGROUND-COLOR: #f4f4f4
 }
+
 INPUT.button {
-	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; BORDER-LEFT: #aaa 1px solid; COLOR: #020250; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f4f4f4
+	BORDER-RIGHT: #aaa 1px solid;
+	BORDER-TOP: #aaa 1px solid;
+	BORDER-LEFT: #aaa 1px solid;
+	COLOR: #020250;
+	BORDER-BOTTOM: #aaa 1px solid;
+	BACKGROUND-COLOR: #f4f4f4
 }
+
 BUTTON {
-	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; BORDER-LEFT: #aaa 1px solid; COLOR: #020250; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f4f4f4
+	BORDER-RIGHT: #aaa 1px solid;
+	BORDER-TOP: #aaa 1px solid;
+	BORDER-LEFT: #aaa 1px solid;
+	COLOR: #020250;
+	BORDER-BOTTOM: #aaa 1px solid;
+	BACKGROUND-COLOR: #f4f4f4
 }
+
 file {
-	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; BORDER-LEFT: #aaa 1px solid; COLOR: #020250; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f4f4f4
+	BORDER-RIGHT: #aaa 1px solid;
+	BORDER-TOP: #aaa 1px solid;
+	BORDER-LEFT: #aaa 1px solid;
+	COLOR: #020250;
+	BORDER-BOTTOM: #aaa 1px solid;
+	BACKGROUND-COLOR: #f4f4f4
 }
+
 A.button {
-	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; BORDER-LEFT: #aaa 1px solid; COLOR: #020250; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f4f4f4
+	BORDER-RIGHT: #aaa 1px solid;
+	BORDER-TOP: #aaa 1px solid;
+	BORDER-LEFT: #aaa 1px solid;
+	COLOR: #020250;
+	BORDER-BOTTOM: #aaa 1px solid;
+	BACKGROUND-COLOR: #f4f4f4
 }
+
 .owindow .button-bar A {
-	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; BORDER-LEFT: #aaa 1px solid; COLOR: #020250; BORDER-BOTTOM: #aaa 1px solid; BACKGROUND-COLOR: #f4f4f4
+	BORDER-RIGHT: #aaa 1px solid;
+	BORDER-TOP: #aaa 1px solid;
+	BORDER-LEFT: #aaa 1px solid;
+	COLOR: #020250;
+	BORDER-BOTTOM: #aaa 1px solid;
+	BACKGROUND-COLOR: #f4f4f4
 }
+
 DIV.buttons INPUT:hover {
-	COLOR: #020250; BACKGROUND-COLOR: #ddd
+	COLOR: #020250;
+	BACKGROUND-COLOR: #ddd
 }
+
 INPUT.button:hover {
-	COLOR: #020250; BACKGROUND-COLOR: #ddd
+	COLOR: #020250;
+	BACKGROUND-COLOR: #ddd
 }
+
 BUTTON:hover {
-	COLOR: #020250; BACKGROUND-COLOR: #ddd
+	COLOR: #020250;
+	BACKGROUND-COLOR: #ddd
 }
+
 A.button:hover {
-	COLOR: #020250; BACKGROUND-COLOR: #ddd
+	COLOR: #020250;
+	BACKGROUND-COLOR: #ddd
 }
+
 .owindow .button-bar A:hover {
-	COLOR: #020250; BACKGROUND-COLOR: #ddd
+	COLOR: #020250;
+	BACKGROUND-COLOR: #ddd
 }
+
 .owindow .title {
 	BACKGROUND-COLOR: #e3e3ea
 }
+
 .forum-group DIV.head {
-	COLOR: #fff; BACKGROUND-COLOR: #727280
+	COLOR: #fff;
+	BACKGROUND-COLOR: #727280
 }
+
 .thread-container .post .options A {
 	COLOR: #727290
 }
+
 .thread-container .post .long .changes A {
 	COLOR: #727290
 }
+
 .thread-container .post .short .options {
 	COLOR: #727290
 }

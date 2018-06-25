@@ -23,7 +23,8 @@ public static void main(String[] args){
         System.out.println(((TestBean) arrayUtil.get(i)).getName());
     }*/
     //生成TestBean的数组实例，初始容量为5
-    ArrayUtil arrayUtil = ArrayUtil.getInstance(TestBean.class,5);
+    ArrayUtil arrayUtil = ArrayUtil.getInstance(TestBean.class,5); 
+    		
     TestBean t = new TestBean();
     t.setName("test");
     //在数组载入t的实例

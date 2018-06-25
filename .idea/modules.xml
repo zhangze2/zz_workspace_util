@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/zz_code_util.iml" filepath="$PROJECT_DIR$/.idea/zz_code_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/datastruction/datastruction.iml" filepath="$PROJECT_DIR$/src/main/java/datastruction/datastruction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/java/main.iml" filepath="$PROJECT_DIR$/src/main/java/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zz_workspace_util.iml" filepath="$PROJECT_DIR$/zz_workspace_util.iml" />
     </modules>
   </component>
 </project>

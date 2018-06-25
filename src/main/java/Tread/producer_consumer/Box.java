@@ -20,7 +20,28 @@ public class Box {
         notifyAll();  
         return value;  
     }  
-      
+    
+    public synchronized int get2 () throws InterruptedException {
+    		while (available == true) {
+    			wait();
+    		}
+    		available = false;
+    		notifyAll();
+    		
+    		return value;
+    }
+    
+    public synchronized void put2(int value) throws InterruptedException {
+    		while (available == true) {
+    			wait();
+    		}
+    		
+    		this.value = value;
+    		available = true;
+    		
+    		notifyAll();
+    }
+    
     public synchronized void put(int value) {  
         while (available == true) {  
             try {  

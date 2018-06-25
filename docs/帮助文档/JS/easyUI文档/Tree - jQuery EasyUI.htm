@@ -1,8 +1,10 @@
-﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
 <!-- saved from url=(0046)http://jquery-easyui.wikidot.com/document:tree -->
-<HTML lang=en xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><HEAD><TITLE>Tree - jQuery EasyUI</TITLE>
-<SCRIPT src="Tree - jQuery EasyUI.files/init.combined.js" 
-type=text/javascript></SCRIPT>
+<HTML lang=en xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<HEAD>
+<TITLE>Tree - jQuery EasyUI</TITLE>
+<SCRIPT src="Tree - jQuery EasyUI.files/init.combined.js"
+	type=text/javascript></SCRIPT>
 
 <SCRIPT type=text/javascript>
  		var URL_HOST = 'www.wikidot.com';
@@ -30,486 +32,807 @@ type=text/javascript></SCRIPT>
 
 <META http-equiv=content-type content=text/html;charset=UTF-8>
 <META http-equiv=content-language content=en>
-<SCRIPT src="Tree - jQuery EasyUI.files/WIKIDOT.combined.js" 
-type=text/javascript></SCRIPT>
+<SCRIPT src="Tree - jQuery EasyUI.files/WIKIDOT.combined.js"
+	type=text/javascript></SCRIPT>
 
-<STYLE id=internal-style type=text/css>@import url( http://static-l.wikidot.com/v--d703f8b177b6/common--modules/css/wiki/pagestagcloud/PagesTagCloudModule.css );
-@import url( http://static-l.wikidot.com/v--d703f8b177b6/common--modules/css/monetize/textlinkads/MonetizeTextLinkAdsModule.css );
-@import url( http://static-l.wikidot.com/v--d703f8b177b6/common--theme/base/css/style.css?0 );
-@import url( http://static-l.wikidot.com/v--d703f8b177b6/common--theme/flannel-ocean/css/style.css?0 );
+<STYLE id=internal-style type=text/css>
+@import
+	url( http://static-l.wikidot.com/v--d703f8b177b6/common--modules/css/wiki/pagestagcloud/PagesTagCloudModule.css )
+	;
+
+@import
+	url( http://static-l.wikidot.com/v--d703f8b177b6/common--modules/css/monetize/textlinkads/MonetizeTextLinkAdsModule.css )
+	;
+
+@import
+	url( http://static-l.wikidot.com/v--d703f8b177b6/common--theme/base/css/style.css?0 )
+	;
+
+@import
+	url( http://static-l.wikidot.com/v--d703f8b177b6/common--theme/flannel-ocean/css/style.css?0 )
+	;
 </STYLE>
-<LINK href="/local--favicon/favicon.gif" rel="shortcut icon"><LINK 
-href="/local--favicon/favicon.gif" type=image/gif rel=icon><LINK 
-title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()" 
-type=application/wiki rel=alternate>
+<LINK href="/local--favicon/favicon.gif" rel="shortcut icon">
+<LINK href="/local--favicon/favicon.gif" type=image/gif rel=icon>
+<LINK title="Edit this page"
+	href="javascript:WIKIDOT.page.listeners.editClick()"
+	type=application/wiki rel=alternate>
 <SCRIPT type=text/javascript>
       window.google_analytics_uacct = 'UA-18234656-1';
       window.google_analytics_domain_name = 'none';
     </SCRIPT>
 
-<SCRIPT src="Tree - jQuery EasyUI.files/NewPageHelperModule.js" 
-type=text/javascript></SCRIPT>
+<SCRIPT src="Tree - jQuery EasyUI.files/NewPageHelperModule.js"
+	type=text/javascript></SCRIPT>
 
-<META content="MSHTML 6.00.2900.5945" name=GENERATOR></HEAD>
-<BODY id=html-body><A name=page-top></A>
-<DIV id=container-wrap-wrap>
-<DIV id=container-wrap>
-<DIV id=container>
-<DIV id=header>
-<H1><A href="http://jquery-easyui.wikidot.com/"><SPAN>jQuery 
-EasyUI</SPAN></A></H1>
-<H2><SPAN>easyui help you build your web page easily!</SPAN></H2><!-- google_ad_section_start(weight=ignore) -->
-<DIV id=search-top-box>
-<FORM id=search-top-box-form action=dummy><INPUT class="text empty" 
-id=search-top-box-input 
-onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}" 
-size=15 value="Search this site" name=query><INPUT class=button type=submit value=Search name=search> 
-</FORM></DIV>
-<DIV id=top-bar>
-<UL>
-  <LI><A href="http://jquery-easyui.wikidot.com/start">Home</A></LI>
-  <LI><A href="http://jquery-easyui.wikidot.com/tutorial">Tutorial</A></LI>
-  <LI><A href="http://jquery-easyui.wikidot.com/document">Documentation</A></LI>
-  <LI><A href="http://jquery-easyui.wikidot.com/download">Download</A></LI>
-  <LI><A href="http://jquery-easyui.wikidot.com/extension">Extension</A></LI>
-  <LI><A href="http://jquery-easyui.wikidot.com/contact">Contact</A></LI>
-  <LI><A 
-href="http://jquery-easyui.wikidot.com/forum:start">Forum</A></LI></UL></DIV>
-<DIV id=login-status><A class=login-status-create-account 
-onclick=WIKIDOT.page.listeners.createAccount(event) href="javascript:;">Create 
-account</A> <SPAN>or</SPAN> <A class=login-status-sign-in 
-onclick=WIKIDOT.page.listeners.loginClick(event) href="javascript:;">Sign in</A> 
-</DIV>
-<DIV id=header-extra-div-1><SPAN></SPAN></DIV>
-<DIV id=header-extra-div-2><SPAN></SPAN></DIV>
-<DIV id=header-extra-div-3><SPAN></SPAN></DIV></DIV>
-<DIV id=content-wrap>
-<DIV id=side-bar>
-<UL>
-  <LI><A href="http://jquery-easyui.wikidot.com/start">Welcome page</A></LI></UL>
-<UL>
-  <LI><A href="http://jquery-easyui.wikidot.com/what-is-a-wiki-site">What is a 
-  Wiki Site?</A>
-  <LI><A href="http://jquery-easyui.wikidot.com/how-to-edit-pages">How to edit 
-  pages?</A></LI></UL>
-<UL>
-  <LI><A href="http://jquery-easyui.wikidot.com/system:join">How to join this 
-  site?</A>
-  <LI><A href="http://jquery-easyui.wikidot.com/system:members">Site 
-  members</A></LI></UL>
-<UL>
-  <LI><A href="http://jquery-easyui.wikidot.com/system:recent-changes">Recent 
-  changes</A>
-  <LI><A href="http://jquery-easyui.wikidot.com/system:list-all-pages">List all 
-  pages</A>
-  <LI><A href="http://jquery-easyui.wikidot.com/system:page-tags-list">Page 
-  Tags</A></LI></UL>
-<UL>
-  <LI><A href="http://jquery-easyui.wikidot.com/admin:manage">Site 
-  Manager</A></LI></UL>
-<H2><SPAN>Page tags</SPAN></H2>
-<DIV class=pages-tag-cloud-box><A class=tag 
-style="FONT-SIZE: 80%; COLOR: rgb(100,100,128)" 
-href="http://jquery-easyui.wikidot.com/system:page-tags/tag/easy">easy</A> <A 
-class=tag style="FONT-SIZE: 80%; COLOR: rgb(100,100,128)" 
-href="http://jquery-easyui.wikidot.com/system:page-tags/tag/jquery">jquery</A> 
-<A class=tag style="FONT-SIZE: 80%; COLOR: rgb(100,100,128)" 
-href="http://jquery-easyui.wikidot.com/system:page-tags/tag/plugin">plugin</A> 
-<A class=tag style="FONT-SIZE: 80%; COLOR: rgb(100,100,128)" 
-href="http://jquery-easyui.wikidot.com/system:page-tags/tag/ui">ui</A> <A 
-class=tag style="FONT-SIZE: 80%; COLOR: rgb(100,100,128)" 
-href="http://jquery-easyui.wikidot.com/system:page-tags/tag/widget">widget</A> 
-</DIV>
-<H2><SPAN>Add a new page</SPAN></H2>
-<DIV class=new-page-box style="MARGIN: 1em 0px; TEXT-ALIGN: center">
-<FORM onsubmit=WIKIDOT.modules.NewPageHelperModule.listeners.create(event) 
-action=dummy.html method=get><INPUT class=text style="MARGIN: 1px" maxLength=128 
-size=15 name=pageName><INPUT class=button style="MARGIN: 1px" type=submit value="new page"> 
-</FORM></DIV>
-<P style="TEXT-ALIGN: center"><SPAN style="FONT-SIZE: 80%"><A 
-href="http://jquery-easyui.wikidot.com/nav:side">edit this 
-panel</A></SPAN></P></DIV><!-- google_ad_section_end -->
-<DIV id=main-content>
-<DIV id=action-area-top></DIV><!-- google_ad_section_start -->
-<DIV id=page-title>Tree </DIV>
-<DIV id=page-content>
-<H1 id=toc0><SPAN>Usage</SPAN></H1>
-<H2 id=toc1><SPAN>Markup</SPAN></H2>
-<P>Tree can be definded in &lt;ul/&gt; element. The markup can defines leaf and 
-children, bellow is an example:</P>
-<DIV class=code>
-<DIV class=hl-main><PRE><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN class=hl-code> </SPAN><SPAN class=hl-var>id</SPAN><SPAN class=hl-code>=</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>tt</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-    </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-        </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>Folder</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-        </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-            </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>Sub Folder 1</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                    </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                        </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;&lt;</SPAN><SPAN class=hl-reserved>a</SPAN><SPAN class=hl-code> </SPAN><SPAN class=hl-var>href</SPAN><SPAN class=hl-code>=</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>#</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>File 11</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>a</SPAN><SPAN class=hl-brackets>&gt;&lt;/</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                    </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                    </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                        </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>File 12</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                    </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                    </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                        </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>File 13</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                    </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-            </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-            </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>File 2</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-            </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-            </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-                </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>File 3</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-            </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-        </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-    </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-    </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-        </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>File21</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-    </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
-</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN class=hl-brackets>&gt;</SPAN>
-</PRE></DIV></DIV>
-<P>Tree can also be defined in an empty &lt;ul/&gt; element:</P>
-<DIV class=code>
-<DIV class=hl-main><PRE><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN class=hl-code> </SPAN><SPAN class=hl-var>id</SPAN><SPAN class=hl-code>=</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>tt</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-brackets>&gt;&lt;/</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN class=hl-brackets>&gt;</SPAN>
-</PRE></DIV></DIV>
-<H2 id=toc2><SPAN>jQuery</SPAN></H2>
-<DIV class=code>
-<DIV class=hl-main><PRE><SPAN class=hl-code>$</SPAN><SPAN class=hl-brackets>(</SPAN><SPAN class=hl-quotes>'</SPAN><SPAN class=hl-string>#tt</SPAN><SPAN class=hl-quotes>'</SPAN><SPAN class=hl-brackets>)</SPAN><SPAN class=hl-code>.</SPAN><SPAN class=hl-identifier>tree</SPAN><SPAN class=hl-brackets>(</SPAN><SPAN class=hl-identifier>options</SPAN><SPAN class=hl-brackets>)</SPAN><SPAN class=hl-code>;</SPAN>
-</PRE></DIV></DIV>
-<H2 id=toc3><SPAN>Tree data format</SPAN></H2>
-<P>Every node can contains following properties:</P>
-<UL>
-  <LI>id: node id, which is important to load remote data 
-  <LI>text: node text to show 
-  <LI>state: node state, 'open' or 'closed', default is 'open'. When set to 
-  'closed', the node have children nodes and will load them from remote site 
-  <LI>checked: Indicate whether the node is checked selected. 
-  <LI>attributes: custom attributes can be added to a node 
-  <LI>children: an array nodes defines some children nodes </LI></UL>
-<P>Some example:</P>
-<DIV class=code>
-<DIV class=hl-main><PRE><SPAN class=hl-brackets>[{</SPAN><SPAN class=hl-code>
-    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>id</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-number>1</SPAN><SPAN class=hl-code>,
-    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>Folder1</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>,
-    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>iconCls</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>icon-save</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>,
-    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>children</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-brackets>[{</SPAN><SPAN class=hl-code>
-        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>File1</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>,
-        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>checked</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-reserved>true</SPAN><SPAN class=hl-code>
-    </SPAN><SPAN class=hl-brackets>}</SPAN><SPAN class=hl-code>,</SPAN><SPAN class=hl-brackets>{</SPAN><SPAN class=hl-code>
-        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>Books</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>,
-        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>state</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>open</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>,
-        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>attributes</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-brackets>{</SPAN><SPAN class=hl-code>
-            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>url</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>/demo/book/abc</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>,
-            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>price</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-number>100</SPAN><SPAN class=hl-code>
+<META content="MSHTML 6.00.2900.5945" name=GENERATOR>
+</HEAD>
+<BODY id=html-body>
+	<A name=page-top></A>
+	<DIV id=container-wrap-wrap>
+		<DIV id=container-wrap>
+			<DIV id=container>
+				<DIV id=header>
+					<H1>
+						<A href="http://jquery-easyui.wikidot.com/"><SPAN>jQuery
+								EasyUI</SPAN></A>
+					</H1>
+					<H2>
+						<SPAN>easyui help you build your web page easily!</SPAN>
+					</H2>
+					<!-- google_ad_section_start(weight=ignore) -->
+					<DIV id=search-top-box>
+						<FORM id=search-top-box-form action=dummy>
+							<INPUT class="text empty" id=search-top-box-input
+								onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"
+								size=15 value="Search this site" name=query><INPUT
+								class=button type=submit value=Search name=search>
+						</FORM>
+					</DIV>
+					<DIV id=top-bar>
+						<UL>
+							<LI><A href="http://jquery-easyui.wikidot.com/start">Home</A></LI>
+							<LI><A href="http://jquery-easyui.wikidot.com/tutorial">Tutorial</A></LI>
+							<LI><A href="http://jquery-easyui.wikidot.com/document">Documentation</A></LI>
+							<LI><A href="http://jquery-easyui.wikidot.com/download">Download</A></LI>
+							<LI><A href="http://jquery-easyui.wikidot.com/extension">Extension</A></LI>
+							<LI><A href="http://jquery-easyui.wikidot.com/contact">Contact</A></LI>
+							<LI><A href="http://jquery-easyui.wikidot.com/forum:start">Forum</A></LI>
+						</UL>
+					</DIV>
+					<DIV id=login-status>
+						<A class=login-status-create-account
+							onclick=WIKIDOT.page.listeners.createAccount(event)
+							href="javascript:;">Create account</A> <SPAN>or</SPAN> <A
+							class=login-status-sign-in
+							onclick=WIKIDOT.page.listeners.loginClick(event)
+							href="javascript:;">Sign in</A>
+					</DIV>
+					<DIV id=header-extra-div-1>
+						<SPAN></SPAN>
+					</DIV>
+					<DIV id=header-extra-div-2>
+						<SPAN></SPAN>
+					</DIV>
+					<DIV id=header-extra-div-3>
+						<SPAN></SPAN>
+					</DIV>
+				</DIV>
+				<DIV id=content-wrap>
+					<DIV id=side-bar>
+						<UL>
+							<LI><A href="http://jquery-easyui.wikidot.com/start">Welcome
+									page</A></LI>
+						</UL>
+						<UL>
+							<LI><A
+								href="http://jquery-easyui.wikidot.com/what-is-a-wiki-site">What
+									is a Wiki Site?</A>
+							<LI><A
+								href="http://jquery-easyui.wikidot.com/how-to-edit-pages">How
+									to edit pages?</A></LI>
+						</UL>
+						<UL>
+							<LI><A href="http://jquery-easyui.wikidot.com/system:join">How
+									to join this site?</A>
+							<LI><A
+								href="http://jquery-easyui.wikidot.com/system:members">Site
+									members</A></LI>
+						</UL>
+						<UL>
+							<LI><A
+								href="http://jquery-easyui.wikidot.com/system:recent-changes">Recent
+									changes</A>
+							<LI><A
+								href="http://jquery-easyui.wikidot.com/system:list-all-pages">List
+									all pages</A>
+							<LI><A
+								href="http://jquery-easyui.wikidot.com/system:page-tags-list">Page
+									Tags</A></LI>
+						</UL>
+						<UL>
+							<LI><A href="http://jquery-easyui.wikidot.com/admin:manage">Site
+									Manager</A></LI>
+						</UL>
+						<H2>
+							<SPAN>Page tags</SPAN>
+						</H2>
+						<DIV class=pages-tag-cloud-box>
+							<A class=tag style="FONT-SIZE: 80%; COLOR: rgb(100, 100, 128)"
+								href="http://jquery-easyui.wikidot.com/system:page-tags/tag/easy">easy</A>
+							<A class=tag style="FONT-SIZE: 80%; COLOR: rgb(100, 100, 128)"
+								href="http://jquery-easyui.wikidot.com/system:page-tags/tag/jquery">jquery</A>
+							<A class=tag style="FONT-SIZE: 80%; COLOR: rgb(100, 100, 128)"
+								href="http://jquery-easyui.wikidot.com/system:page-tags/tag/plugin">plugin</A>
+							<A class=tag style="FONT-SIZE: 80%; COLOR: rgb(100, 100, 128)"
+								href="http://jquery-easyui.wikidot.com/system:page-tags/tag/ui">ui</A>
+							<A class=tag style="FONT-SIZE: 80%; COLOR: rgb(100, 100, 128)"
+								href="http://jquery-easyui.wikidot.com/system:page-tags/tag/widget">widget</A>
+						</DIV>
+						<H2>
+							<SPAN>Add a new page</SPAN>
+						</H2>
+						<DIV class=new-page-box
+							style="MARGIN: 1em 0px; TEXT-ALIGN: center">
+							<FORM
+								onsubmit=WIKIDOT.modules.NewPageHelperModule.listeners.create(event)
+								action=dummy.html method=get>
+								<INPUT class=text style="MARGIN: 1px" maxLength=128 size=15
+									name=pageName><INPUT class=button style="MARGIN: 1px"
+									type=submit value="new page">
+							</FORM>
+						</DIV>
+						<P style="TEXT-ALIGN: center">
+							<SPAN style="FONT-SIZE: 80%"><A
+								href="http://jquery-easyui.wikidot.com/nav:side">edit this
+									panel</A></SPAN>
+						</P>
+					</DIV>
+					<!-- google_ad_section_end -->
+					<DIV id=main-content>
+						<DIV id=action-area-top></DIV>
+						<!-- google_ad_section_start -->
+						<DIV id=page-title>Tree</DIV>
+						<DIV id=page-content>
+							<H1 id=toc0>
+								<SPAN>Usage</SPAN>
+							</H1>
+							<H2 id=toc1>
+								<SPAN>Markup</SPAN>
+							</H2>
+							<P>Tree can be definded in &lt;ul/&gt; element. The markup
+								can defines leaf and children, bellow is an example:</P>
+							<DIV class=code>
+								<DIV class=hl-main>
+									<PRE>
+										<SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN
+											class=hl-code> </SPAN><SPAN class=hl-var>id</SPAN><SPAN
+											class=hl-code>=</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN
+											class=hl-string>tt</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+    </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+        </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>Folder</SPAN><SPAN
+											class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+        </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+            </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+                </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN
+											class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>Sub Folder 1</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN
+											class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+                </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN
+											class=hl-reserved>ul</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+                    </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN
+											class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+                        </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN
+											class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;&lt;</SPAN><SPAN
+											class=hl-reserved>a</SPAN><SPAN class=hl-code> </SPAN><SPAN
+											class=hl-var>href</SPAN><SPAN class=hl-code>=</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>#</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>File 11</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN
+											class=hl-reserved>a</SPAN><SPAN class=hl-brackets>&gt;&lt;/</SPAN><SPAN
+											class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+                    </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN
+											class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+                    </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN
+											class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+                        </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN
+											class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>File 12</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN
+											class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+                    </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN
+											class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+                    </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN
+											class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+                        </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN
+											class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>File 13</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN
+											class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+                    </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN
+											class=hl-reserved>li</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+                </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN
+											class=hl-reserved>ul</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+            </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+            </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+                </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN
+											class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>File 2</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN
+											class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+            </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+            </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+                </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN
+											class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>File 3</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN
+											class=hl-reserved>span</SPAN><SPAN class=hl-brackets>&gt;</SPAN><SPAN
+											class=hl-code>
+            </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+        </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+    </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+    </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+        </SPAN><SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>File21</SPAN><SPAN
+											class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>span</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+    </SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>li</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN><SPAN class=hl-code>
+</SPAN><SPAN class=hl-brackets>&lt;/</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN>
+</PRE>
+								</DIV>
+							</DIV>
+							<P>Tree can also be defined in an empty &lt;ul/&gt; element:</P>
+							<DIV class=code>
+								<DIV class=hl-main>
+									<PRE>
+										<SPAN class=hl-brackets>&lt;</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN
+											class=hl-code> </SPAN><SPAN class=hl-var>id</SPAN><SPAN
+											class=hl-code>=</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN
+											class=hl-string>tt</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN
+											class=hl-brackets>&gt;&lt;/</SPAN><SPAN class=hl-reserved>ul</SPAN><SPAN
+											class=hl-brackets>&gt;</SPAN>
+</PRE>
+								</DIV>
+							</DIV>
+							<H2 id=toc2>
+								<SPAN>jQuery</SPAN>
+							</H2>
+							<DIV class=code>
+								<DIV class=hl-main>
+									<PRE>
+										<SPAN class=hl-code>$</SPAN><SPAN class=hl-brackets>(</SPAN><SPAN
+											class=hl-quotes>'</SPAN><SPAN class=hl-string>#tt</SPAN><SPAN
+											class=hl-quotes>'</SPAN><SPAN class=hl-brackets>)</SPAN><SPAN
+											class=hl-code>.</SPAN><SPAN class=hl-identifier>tree</SPAN><SPAN
+											class=hl-brackets>(</SPAN><SPAN class=hl-identifier>options</SPAN><SPAN
+											class=hl-brackets>)</SPAN><SPAN class=hl-code>;</SPAN>
+</PRE>
+								</DIV>
+							</DIV>
+							<H2 id=toc3>
+								<SPAN>Tree data format</SPAN>
+							</H2>
+							<P>Every node can contains following properties:</P>
+							<UL>
+								<LI>id: node id, which is important to load remote data
+								<LI>text: node text to show
+								<LI>state: node state, 'open' or 'closed', default is
+									'open'. When set to 'closed', the node have children nodes and
+									will load them from remote site
+								<LI>checked: Indicate whether the node is checked selected.
+								
+								<LI>attributes: custom attributes can be added to a node
+								<LI>children: an array nodes defines some children nodes</LI>
+							</UL>
+							<P>Some example:</P>
+							<DIV class=code>
+								<DIV class=hl-main>
+									<PRE>
+										<SPAN class=hl-brackets>[{</SPAN><SPAN class=hl-code>
+    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>id</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-number>1</SPAN><SPAN class=hl-code>,
+    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>Folder1</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>,
+    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>iconCls</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>icon-save</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>,
+    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>children</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-brackets>[{</SPAN><SPAN class=hl-code>
+        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>File1</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>,
+        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>checked</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-reserved>true</SPAN><SPAN class=hl-code>
+    </SPAN><SPAN class=hl-brackets>}</SPAN><SPAN class=hl-code>,</SPAN><SPAN
+											class=hl-brackets>{</SPAN><SPAN class=hl-code>
+        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>Books</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>,
+        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>state</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>open</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>,
+        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>attributes</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-brackets>{</SPAN><SPAN class=hl-code>
+            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>url</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>/demo/book/abc</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>,
+            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>price</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-number>100</SPAN><SPAN class=hl-code>
         </SPAN><SPAN class=hl-brackets>}</SPAN><SPAN class=hl-code>,
-        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>children</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-brackets>[{</SPAN><SPAN class=hl-code>
-            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>PhotoShop</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>,
-            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>checked</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-reserved>true</SPAN><SPAN class=hl-code>
-        </SPAN><SPAN class=hl-brackets>}</SPAN><SPAN class=hl-code>,</SPAN><SPAN class=hl-brackets>{</SPAN><SPAN class=hl-code>
-            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>id</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>: </SPAN><SPAN class=hl-number>8</SPAN><SPAN class=hl-code>,
-            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>Sub Bookds</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>,
-            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>state</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>closed</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>
+        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>children</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-brackets>[{</SPAN><SPAN class=hl-code>
+            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>PhotoShop</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>,
+            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>checked</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-reserved>true</SPAN><SPAN class=hl-code>
+        </SPAN><SPAN class=hl-brackets>}</SPAN><SPAN class=hl-code>,</SPAN><SPAN
+											class=hl-brackets>{</SPAN><SPAN class=hl-code>
+            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>id</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>: </SPAN><SPAN
+											class=hl-number>8</SPAN><SPAN class=hl-code>,
+            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>Sub Bookds</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>,
+            </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>state</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>closed</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>
         </SPAN><SPAN class=hl-brackets>}]</SPAN><SPAN class=hl-code>
     </SPAN><SPAN class=hl-brackets>}]</SPAN><SPAN class=hl-code>
-</SPAN><SPAN class=hl-brackets>}</SPAN><SPAN class=hl-code>,</SPAN><SPAN class=hl-brackets>{</SPAN><SPAN class=hl-code>
-    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>Languages</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>,
-    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>state</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>closed</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>,
-    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>children</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-brackets>[{</SPAN><SPAN class=hl-code>
-        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>Java</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>
-    </SPAN><SPAN class=hl-brackets>}</SPAN><SPAN class=hl-code>,</SPAN><SPAN class=hl-brackets>{</SPAN><SPAN class=hl-code>
-        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>C#</SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-code>
+</SPAN><SPAN class=hl-brackets>}</SPAN><SPAN class=hl-code>,</SPAN><SPAN
+											class=hl-brackets>{</SPAN><SPAN class=hl-code>
+    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>Languages</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>,
+    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>state</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>closed</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>,
+    </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>children</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-brackets>[{</SPAN><SPAN class=hl-code>
+        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>Java</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>
+    </SPAN><SPAN class=hl-brackets>}</SPAN><SPAN class=hl-code>,</SPAN><SPAN
+											class=hl-brackets>{</SPAN><SPAN class=hl-code>
+        </SPAN><SPAN class=hl-quotes>"</SPAN><SPAN class=hl-string>text</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>:</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-string>C#</SPAN><SPAN
+											class=hl-quotes>"</SPAN><SPAN class=hl-code>
     </SPAN><SPAN class=hl-brackets>}]</SPAN><SPAN class=hl-code>
 </SPAN><SPAN class=hl-brackets>}]</SPAN>
-</PRE></DIV></DIV>
-<H1 id=toc4><SPAN>Dependencies</SPAN></H1>
-<UL>
-  <LI>draggable 
-  <LI>droppable </LI></UL>
-<H1 id=toc5><SPAN>Options</SPAN></H1>
-<P>Override defaults with $.fn.tree.defaults.</P>
-<P>Tree Node is a javascript object which contains following properties:</P>
-<UL>
-  <LI>id: An identity value bind to the node. 
-  <LI>text: Text to be showed. 
-  <LI>checked: Whether the node is checked. 
-  <LI>attributes: Custom attributes bind to the node. 
-  <LI>target: Target DOM object. </LI></UL>
-<H2 id=toc6><SPAN>Properties</SPAN></H2>
-<TABLE>
-  <TBODY>
-  <TR>
-    <TD>
-      <TABLE class=wiki-content-table>
-        <TBODY>
-        <TR>
-          <TH><STRONG>Name</STRONG></TH>
-          <TH><STRONG>Type</STRONG></TH>
-          <TH><STRONG>Description</STRONG></TH>
-          <TH><STRONG>Default</STRONG></TH></TR>
-        <TR>
-          <TD>url</TD>
-          <TD>string</TD>
-          <TD>a URL to retrieve remote data.</TD>
-          <TD>null</TD></TR>
-        <TR>
-          <TD>method</TD>
-          <TD>string</TD>
-          <TD>The http method to retrieve data.</TD>
-          <TD>post</TD></TR>
-        <TR>
-          <TD>animate</TD>
-          <TD>boolean</TD>
-          <TD>Defines if to show animation effect when node expand or 
-          collapse.</TD>
-          <TD>false</TD></TR>
-        <TR>
-          <TD>checkbox</TD>
-          <TD>boolean</TD>
-          <TD>Defines if to show the checkbox before every node.</TD>
-          <TD>false</TD></TR>
-        <TR>
-          <TD>cascadeCheck</TD>
-          <TD>boolean</TD>
-          <TD>Defines if to cascade check.</TD>
-          <TD>true</TD></TR>
-        <TR>
-          <TD>onlyLeafCheck</TD>
-          <TD>boolean</TD>
-          <TD>Defines if to show the checkbox only before leaf node.</TD>
-          <TD>false</TD></TR>
-        <TR>
-          <TD>dnd</TD>
-          <TD>boolean</TD>
-          <TD>Defines if to enable drag and drop.</TD>
-          <TD>false</TD></TR>
-        <TR>
-          <TD>data</TD>
-          <TD>array</TD>
-          <TD>The node data to be loaded.</TD>
-          <TD>null</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
-<H2 id=toc7><SPAN>Events</SPAN></H2>
-<TABLE>
-  <TBODY>
-  <TR>
-    <TD>
-      <TABLE class=wiki-content-table>
-        <TBODY>
-        <TR>
-          <TH><STRONG>Name</STRONG></TH>
-          <TH><STRONG>Parameters</STRONG></TH>
-          <TH><STRONG>Description</STRONG></TH></TR>
-        <TR>
-          <TD>onClick</TD>
-          <TD>node</TD>
-          <TD>Fires when user click a node, the node parameter contains 
-            following properties:<BR>id: the node id<BR>text: the node 
-            text<BR>checked: Whether the node is checked<BR>attributes: the node 
-            custom attributes<BR>target: the target clicked DOM object</TD></TR>
-        <TR>
-          <TD>onDblClick</TD>
-          <TD>node</TD>
-          <TD>Fires when user dblclick a node.</TD></TR>
-        <TR>
-          <TD>onBeforeLoad</TD>
-          <TD>node, param</TD>
-          <TD>Fires before a request is made to load data, return false to 
-            cancel this load action.</TD></TR>
-        <TR>
-          <TD>onLoadSuccess</TD>
-          <TD>node, data</TD>
-          <TD>Fires when data loaded successfully.</TD></TR>
-        <TR>
-          <TD>onLoadError</TD>
-          <TD>arguments</TD>
-          <TD>Fires when data loaded fail, the arguments parameter is same as 
-            the 'error' function of jQuery.ajax.</TD></TR>
-        <TR>
-          <TD>onBeforeExpand</TD>
-          <TD>node</TD>
-          <TD>Fires before node is expanded, return false to cancel this 
-            expand action.</TD></TR>
-        <TR>
-          <TD>onExpand</TD>
-          <TD>node</TD>
-          <TD>Fires when node is expanded.</TD></TR>
-        <TR>
-          <TD>onBeforeCollapse</TD>
-          <TD>node</TD>
-          <TD>Fires before node is collapsed, return false to cancel this 
-            collapse action.</TD></TR>
-        <TR>
-          <TD>onCollapse</TD>
-          <TD>node</TD>
-          <TD>Fires when node is collapsed.</TD></TR>
-        <TR>
-          <TD>onCheck</TD>
-          <TD>node, checked</TD>
-          <TD>Fires when users click the checkbox.</TD></TR>
-        <TR>
-          <TD>onBeforeSelect</TD>
-          <TD>node</TD>
-          <TD>Fires before node is selected, return false to cancel this 
-            select action.</TD></TR>
-        <TR>
-          <TD>onSelect</TD>
-          <TD>node</TD>
-          <TD>Fires when node is selected.</TD></TR>
-        <TR>
-          <TD>onContextMenu</TD>
-          <TD>e, node</TD>
-          <TD>Fires when node is right clicked.</TD></TR>
-        <TR>
-          <TD>onDrop</TD>
-          <TD>target, source, point</TD>
-          <TD>Fires when a node is dropped.<BR>target: DOM object, The node 
-            being targeted for the drop.<BR>source: the source node.<BR>point: 
-            indicate the drop operation, posible values are: 'append','top' or 
-            'bottom'.</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
-<H1 id=toc8><SPAN>Methods</SPAN></H1>
-<TABLE>
-  <TBODY>
-  <TR>
-    <TD>
-      <TABLE class=wiki-content-table>
-        <TBODY>
-        <TR>
-          <TH><STRONG>Name</STRONG></TH>
-          <TH><STRONG>Parameter</STRONG></TH>
-          <TH><STRONG>Description</STRONG></TH></TR>
-        <TR>
-          <TD>options</TD>
-          <TD>none</TD>
-          <TD>Return the options of tree.</TD></TR>
-        <TR>
-          <TD>loadData</TD>
-          <TD>data</TD>
-          <TD>Load the tree data.</TD></TR>
-        <TR>
-          <TD>getNode</TD>
-          <TD>target</TD>
-          <TD>get the specified node object.</TD></TR>
-        <TR>
-          <TD>getData</TD>
-          <TD>target</TD>
-          <TD>get the specified node data, including its children.</TD></TR>
-        <TR>
-          <TD>reload</TD>
-          <TD>target</TD>
-          <TD>Reload tree data.</TD></TR>
-        <TR>
-          <TD>getRoot</TD>
-          <TD>none</TD>
-          <TD>Get the root node, return node object</TD></TR>
-        <TR>
-          <TD>getRoots</TD>
-          <TD>none</TD>
-          <TD>Get the root nodes, return node array.</TD></TR>
-        <TR>
-          <TD>getParent</TD>
-          <TD>target</TD>
-          <TD>Get the parent node, the target parameter indicate the node DOM 
-            object.</TD></TR>
-        <TR>
-          <TD>getChildren</TD>
-          <TD>target</TD>
-          <TD>Get the children nodes, the target parameter indicate the node 
-            DOM object.</TD></TR>
-        <TR>
-          <TD>getChecked</TD>
-          <TD>none</TD>
-          <TD>Get all checked nodes.</TD></TR>
-        <TR>
-          <TD>getSelected</TD>
-          <TD>none</TD>
-          <TD>Get the selected node and return it, if no node selected return 
-            null.</TD></TR>
-        <TR>
-          <TD>isLeaf</TD>
-          <TD>target</TD>
-          <TD>Determine the specified node is leaf, the target parameter 
-            indicate the node DOM object.</TD></TR>
-        <TR>
-          <TD>find</TD>
-          <TD>id</TD>
-          <TD>Find the specifed node and return the node object.</TD></TR>
-        <TR>
-          <TD>select</TD>
-          <TD>target</TD>
-          <TD>Select a node, the target parameter indicate the node DOM 
-          object.</TD></TR>
-        <TR>
-          <TD>check</TD>
-          <TD>target</TD>
-          <TD>Set the specified node to checked.</TD></TR>
-        <TR>
-          <TD>uncheck</TD>
-          <TD>target</TD>
-          <TD>Set the specified node to unchecked.</TD></TR>
-        <TR>
-          <TD>collapse</TD>
-          <TD>target</TD>
-          <TD>Collapse a node, the target parameter indicate the node DOM 
-            object.</TD></TR>
-        <TR>
-          <TD>expand</TD>
-          <TD>target</TD>
-          <TD>Expand a node, the target parameter indicate the node DOM 
-          object.</TD></TR>
-        <TR>
-          <TD>collapseAll</TD>
-          <TD>target</TD>
-          <TD>Collapse all nodes.</TD></TR>
-        <TR>
-          <TD>expandAll</TD>
-          <TD>target</TD>
-          <TD>Expand all nodes.</TD></TR>
-        <TR>
-          <TD>expandTo</TD>
-          <TD>target</TD>
-          <TD>Expand from root to specified node.</TD></TR>
-        <TR>
-          <TD>append</TD>
-          <TD>param</TD>
-          <TD>Append some children nodes to a parent node. param parameter has 
-            two properties:<BR>parent: DOM object, the parent node to append to, 
-            if not assigned, append as root nodes.<BR>data: array, the nodes 
-            data.</TD></TR>
-        <TR>
-          <TD>toggle</TD>
-          <TD>target</TD>
-          <TD>Toggles expanded/collapsed state of the node, the target 
-            parameter indicate the node DOM object.</TD></TR>
-        <TR>
-          <TD>insert</TD>
-          <TD>param</TD>
-          <TD>Insert a node to before or after specified node. the 'param' 
-            parameter contains following properties:<BR>before: DOM object, the 
-            node to insert before.<BR>after: DOM object, the node to insert 
-            after.<BR>data: object, the node data.</TD></TR>
-        <TR>
-          <TD>remove</TD>
-          <TD>target</TD>
-          <TD>Remove a node and it's children nodes, the target parameter 
-            indicate the node DOM object.</TD></TR>
-        <TR>
-          <TD>pop</TD>
-          <TD>target</TD>
-          <TD>Pop a node and it's children nodes, the method is same as remove 
-            but return the removed node data.</TD></TR>
-        <TR>
-          <TD>update</TD>
-          <TD>param</TD>
-          <TD>Update the specified node. param has following 
-            properties:<BR>target(DOM object, the node to be 
-            updated),id,text,iconCls,checked,etc.</TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
-<DIV>
-<TABLE>
-  <TBODY>
-  <TR>
-    <TD>
-      <DIV class=wd-adunit>
-      <SCRIPT type=text/javascript><!--
+</PRE>
+								</DIV>
+							</DIV>
+							<H1 id=toc4>
+								<SPAN>Dependencies</SPAN>
+							</H1>
+							<UL>
+								<LI>draggable
+								<LI>droppable</LI>
+							</UL>
+							<H1 id=toc5>
+								<SPAN>Options</SPAN>
+							</H1>
+							<P>Override defaults with $.fn.tree.defaults.</P>
+							<P>Tree Node is a javascript object which contains following
+								properties:</P>
+							<UL>
+								<LI>id: An identity value bind to the node.
+								<LI>text: Text to be showed.
+								<LI>checked: Whether the node is checked.
+								<LI>attributes: Custom attributes bind to the node.
+								<LI>target: Target DOM object.</LI>
+							</UL>
+							<H2 id=toc6>
+								<SPAN>Properties</SPAN>
+							</H2>
+							<TABLE>
+								<TBODY>
+									<TR>
+										<TD>
+											<TABLE class=wiki-content-table>
+												<TBODY>
+													<TR>
+														<TH><STRONG>Name</STRONG></TH>
+														<TH><STRONG>Type</STRONG></TH>
+														<TH><STRONG>Description</STRONG></TH>
+														<TH><STRONG>Default</STRONG></TH>
+													</TR>
+													<TR>
+														<TD>url</TD>
+														<TD>string</TD>
+														<TD>a URL to retrieve remote data.</TD>
+														<TD>null</TD>
+													</TR>
+													<TR>
+														<TD>method</TD>
+														<TD>string</TD>
+														<TD>The http method to retrieve data.</TD>
+														<TD>post</TD>
+													</TR>
+													<TR>
+														<TD>animate</TD>
+														<TD>boolean</TD>
+														<TD>Defines if to show animation effect when node
+															expand or collapse.</TD>
+														<TD>false</TD>
+													</TR>
+													<TR>
+														<TD>checkbox</TD>
+														<TD>boolean</TD>
+														<TD>Defines if to show the checkbox before every
+															node.</TD>
+														<TD>false</TD>
+													</TR>
+													<TR>
+														<TD>cascadeCheck</TD>
+														<TD>boolean</TD>
+														<TD>Defines if to cascade check.</TD>
+														<TD>true</TD>
+													</TR>
+													<TR>
+														<TD>onlyLeafCheck</TD>
+														<TD>boolean</TD>
+														<TD>Defines if to show the checkbox only before leaf
+															node.</TD>
+														<TD>false</TD>
+													</TR>
+													<TR>
+														<TD>dnd</TD>
+														<TD>boolean</TD>
+														<TD>Defines if to enable drag and drop.</TD>
+														<TD>false</TD>
+													</TR>
+													<TR>
+														<TD>data</TD>
+														<TD>array</TD>
+														<TD>The node data to be loaded.</TD>
+														<TD>null</TD>
+													</TR>
+												</TBODY>
+											</TABLE>
+										</TD>
+									</TR>
+								</TBODY>
+							</TABLE>
+							<H2 id=toc7>
+								<SPAN>Events</SPAN>
+							</H2>
+							<TABLE>
+								<TBODY>
+									<TR>
+										<TD>
+											<TABLE class=wiki-content-table>
+												<TBODY>
+													<TR>
+														<TH><STRONG>Name</STRONG></TH>
+														<TH><STRONG>Parameters</STRONG></TH>
+														<TH><STRONG>Description</STRONG></TH>
+													</TR>
+													<TR>
+														<TD>onClick</TD>
+														<TD>node</TD>
+														<TD>Fires when user click a node, the node parameter
+															contains following properties:<BR>id: the node id<BR>text:
+															the node text<BR>checked: Whether the node is
+															checked<BR>attributes: the node custom attributes<BR>target:
+															the target clicked DOM object
+														</TD>
+													</TR>
+													<TR>
+														<TD>onDblClick</TD>
+														<TD>node</TD>
+														<TD>Fires when user dblclick a node.</TD>
+													</TR>
+													<TR>
+														<TD>onBeforeLoad</TD>
+														<TD>node, param</TD>
+														<TD>Fires before a request is made to load data,
+															return false to cancel this load action.</TD>
+													</TR>
+													<TR>
+														<TD>onLoadSuccess</TD>
+														<TD>node, data</TD>
+														<TD>Fires when data loaded successfully.</TD>
+													</TR>
+													<TR>
+														<TD>onLoadError</TD>
+														<TD>arguments</TD>
+														<TD>Fires when data loaded fail, the arguments
+															parameter is same as the 'error' function of jQuery.ajax.</TD>
+													</TR>
+													<TR>
+														<TD>onBeforeExpand</TD>
+														<TD>node</TD>
+														<TD>Fires before node is expanded, return false to
+															cancel this expand action.</TD>
+													</TR>
+													<TR>
+														<TD>onExpand</TD>
+														<TD>node</TD>
+														<TD>Fires when node is expanded.</TD>
+													</TR>
+													<TR>
+														<TD>onBeforeCollapse</TD>
+														<TD>node</TD>
+														<TD>Fires before node is collapsed, return false to
+															cancel this collapse action.</TD>
+													</TR>
+													<TR>
+														<TD>onCollapse</TD>
+														<TD>node</TD>
+														<TD>Fires when node is collapsed.</TD>
+													</TR>
+													<TR>
+														<TD>onCheck</TD>
+														<TD>node, checked</TD>
+														<TD>Fires when users click the checkbox.</TD>
+													</TR>
+													<TR>
+														<TD>onBeforeSelect</TD>
+														<TD>node</TD>
+														<TD>Fires before node is selected, return false to
+															cancel this select action.</TD>
+													</TR>
+													<TR>
+														<TD>onSelect</TD>
+														<TD>node</TD>
+														<TD>Fires when node is selected.</TD>
+													</TR>
+													<TR>
+														<TD>onContextMenu</TD>
+														<TD>e, node</TD>
+														<TD>Fires when node is right clicked.</TD>
+													</TR>
+													<TR>
+														<TD>onDrop</TD>
+														<TD>target, source, point</TD>
+														<TD>Fires when a node is dropped.<BR>target: DOM
+															object, The node being targeted for the drop.<BR>source:
+															the source node.<BR>point: indicate the drop
+															operation, posible values are: 'append','top' or
+															'bottom'.
+														</TD>
+													</TR>
+												</TBODY>
+											</TABLE>
+										</TD>
+									</TR>
+								</TBODY>
+							</TABLE>
+							<H1 id=toc8>
+								<SPAN>Methods</SPAN>
+							</H1>
+							<TABLE>
+								<TBODY>
+									<TR>
+										<TD>
+											<TABLE class=wiki-content-table>
+												<TBODY>
+													<TR>
+														<TH><STRONG>Name</STRONG></TH>
+														<TH><STRONG>Parameter</STRONG></TH>
+														<TH><STRONG>Description</STRONG></TH>
+													</TR>
+													<TR>
+														<TD>options</TD>
+														<TD>none</TD>
+														<TD>Return the options of tree.</TD>
+													</TR>
+													<TR>
+														<TD>loadData</TD>
+														<TD>data</TD>
+														<TD>Load the tree data.</TD>
+													</TR>
+													<TR>
+														<TD>getNode</TD>
+														<TD>target</TD>
+														<TD>get the specified node object.</TD>
+													</TR>
+													<TR>
+														<TD>getData</TD>
+														<TD>target</TD>
+														<TD>get the specified node data, including its
+															children.</TD>
+													</TR>
+													<TR>
+														<TD>reload</TD>
+														<TD>target</TD>
+														<TD>Reload tree data.</TD>
+													</TR>
+													<TR>
+														<TD>getRoot</TD>
+														<TD>none</TD>
+														<TD>Get the root node, return node object</TD>
+													</TR>
+													<TR>
+														<TD>getRoots</TD>
+														<TD>none</TD>
+														<TD>Get the root nodes, return node array.</TD>
+													</TR>
+													<TR>
+														<TD>getParent</TD>
+														<TD>target</TD>
+														<TD>Get the parent node, the target parameter
+															indicate the node DOM object.</TD>
+													</TR>
+													<TR>
+														<TD>getChildren</TD>
+														<TD>target</TD>
+														<TD>Get the children nodes, the target parameter
+															indicate the node DOM object.</TD>
+													</TR>
+													<TR>
+														<TD>getChecked</TD>
+														<TD>none</TD>
+														<TD>Get all checked nodes.</TD>
+													</TR>
+													<TR>
+														<TD>getSelected</TD>
+														<TD>none</TD>
+														<TD>Get the selected node and return it, if no node
+															selected return null.</TD>
+													</TR>
+													<TR>
+														<TD>isLeaf</TD>
+														<TD>target</TD>
+														<TD>Determine the specified node is leaf, the target
+															parameter indicate the node DOM object.</TD>
+													</TR>
+													<TR>
+														<TD>find</TD>
+														<TD>id</TD>
+														<TD>Find the specifed node and return the node
+															object.</TD>
+													</TR>
+													<TR>
+														<TD>select</TD>
+														<TD>target</TD>
+														<TD>Select a node, the target parameter indicate the
+															node DOM object.</TD>
+													</TR>
+													<TR>
+														<TD>check</TD>
+														<TD>target</TD>
+														<TD>Set the specified node to checked.</TD>
+													</TR>
+													<TR>
+														<TD>uncheck</TD>
+														<TD>target</TD>
+														<TD>Set the specified node to unchecked.</TD>
+													</TR>
+													<TR>
+														<TD>collapse</TD>
+														<TD>target</TD>
+														<TD>Collapse a node, the target parameter indicate
+															the node DOM object.</TD>
+													</TR>
+													<TR>
+														<TD>expand</TD>
+														<TD>target</TD>
+														<TD>Expand a node, the target parameter indicate the
+															node DOM object.</TD>
+													</TR>
+													<TR>
+														<TD>collapseAll</TD>
+														<TD>target</TD>
+														<TD>Collapse all nodes.</TD>
+													</TR>
+													<TR>
+														<TD>expandAll</TD>
+														<TD>target</TD>
+														<TD>Expand all nodes.</TD>
+													</TR>
+													<TR>
+														<TD>expandTo</TD>
+														<TD>target</TD>
+														<TD>Expand from root to specified node.</TD>
+													</TR>
+													<TR>
+														<TD>append</TD>
+														<TD>param</TD>
+														<TD>Append some children nodes to a parent node.
+															param parameter has two properties:<BR>parent: DOM
+															object, the parent node to append to, if not assigned,
+															append as root nodes.<BR>data: array, the nodes
+															data.
+														</TD>
+													</TR>
+													<TR>
+														<TD>toggle</TD>
+														<TD>target</TD>
+														<TD>Toggles expanded/collapsed state of the node, the
+															target parameter indicate the node DOM object.</TD>
+													</TR>
+													<TR>
+														<TD>insert</TD>
+														<TD>param</TD>
+														<TD>Insert a node to before or after specified node.
+															the 'param' parameter contains following properties:<BR>before:
+															DOM object, the node to insert before.<BR>after: DOM
+															object, the node to insert after.<BR>data: object,
+															the node data.
+														</TD>
+													</TR>
+													<TR>
+														<TD>remove</TD>
+														<TD>target</TD>
+														<TD>Remove a node and it's children nodes, the target
+															parameter indicate the node DOM object.</TD>
+													</TR>
+													<TR>
+														<TD>pop</TD>
+														<TD>target</TD>
+														<TD>Pop a node and it's children nodes, the method is
+															same as remove but return the removed node data.</TD>
+													</TR>
+													<TR>
+														<TD>update</TD>
+														<TD>param</TD>
+														<TD>Update the specified node. param has following
+															properties:<BR>target(DOM object, the node to be
+															updated),id,text,iconCls,checked,etc.
+														</TD>
+													</TR>
+												</TBODY>
+											</TABLE>
+										</TD>
+									</TR>
+								</TBODY>
+							</TABLE>
+							<DIV>
+								<TABLE>
+									<TBODY>
+										<TR>
+											<TD>
+												<DIV class=wd-adunit>
+													<SCRIPT type=text/javascript><!--
 google_ad_client = "pub-6149867116689089";
 /* 468x60, 创建于 10-4-12 */
 google_ad_slot = "4847488514";
@@ -518,92 +841,145 @@ google_ad_height = 60;
 //-->
 </SCRIPT>
 
-      <SCRIPT src="Tree - jQuery EasyUI.files/show_ads.js" type=text/javascript>
+													<SCRIPT src="Tree - jQuery EasyUI.files/show_ads.js"
+														type=text/javascript>
 </SCRIPT>
-      </DIV></TD></TR></TBODY></TABLE></DIV></DIV><!-- google_ad_section_end --><!-- google_ad_section_start(weight=ignore) -->
-<DIV id=page-info-break></DIV>
-<DIV id=page-options-container>
-<DIV id=page-info>page_revision: 21, last_edited: <SPAN 
-class=odate>1289902819|%e %b %Y, %H:%M %Z (%O ago)</SPAN></DIV>
-<DIV class=page-options-bottom id=page-options-bottom><A id=edit-button 
-href="javascript:;">Edit</A><A id=tags-button href="javascript:;">Tags</A> <A 
-id=history-button href="javascript:;">History</A> <A id=files-button 
-href="javascript:;">Files</A> <A id=print-button href="javascript:;">Print</A> 
-<A id=site-tools-button href="javascript:;">Site tools</A><A 
-id=more-options-button href="javascript:;">+&nbsp;Options</A> </DIV>
-<DIV class=page-options-bottom id=page-options-bottom-2 style="DISPLAY: none"><A 
-id=edit-sections-button href="javascript:;">Edit Sections</A> <A 
-id=edit-append-button href="javascript:;">Append</A> <A id=edit-meta-button 
-href="javascript:;">Edit Meta</A> <A id=watchers-button 
-href="javascript:;">Watchers</A> <A id=backlinks-button 
-href="javascript:;">Backlinks</A> <A id=view-source-button 
-href="javascript:;">Page Source</A> <A id=parent-page-button 
-href="javascript:;">Parent</A> <A id=page-block-button href="javascript:;">Lock 
-Page</A> <A id=rename-move-button href="javascript:;">Rename</A> <A 
-id=delete-button href="javascript:;">Delete</A> </DIV>
-<DIV id=page-options-area-bottom></DIV></DIV>
-<DIV id=action-area style="DISPLAY: none"></DIV></DIV></DIV>
-<DIV id=footer style="DISPLAY: block; VISIBILITY: visible">
-<DIV class=options style="DISPLAY: block; VISIBILITY: visible"><A 
-id=wikidot-help-button href="http://www.wikidot.com/doc">Help</A> &nbsp;| <A 
-id=wikidot-tos-button href="http://www.wikidot.com/legal:terms-of-service">Terms 
-of Service</A> &nbsp;| <A id=wikidot-privacy-button 
-href="http://www.wikidot.com/legal:privacy-policy">Privacy</A> &nbsp;| <A 
-id=bug-report-button onclick=WIKIDOT.page.listeners.pageBugReport(event) 
-href="javascript:;">Report a bug</A> &nbsp;| <A id=abuse-report-button 
-onclick=WIKIDOT.page.listeners.flagPageObjectionable(event) 
-href="javascript:;">Flag as objectionable</A> </DIV>Powered by <A 
-href="http://www.wikidot.com/">Wikidot.com</A> </DIV>
-<DIV class=license-area id=license-area>Unless otherwise stated, the content of 
-this page is licensed under <A 
-href="http://creativecommons.org/licenses/by-sa/3.0/" rel=license>Creative 
-Commons Attribution-ShareAlike 3.0 License</A> </DIV>
-<DIV id=extrac-div-1><SPAN></SPAN></DIV>
-<DIV id=extrac-div-2><SPAN></SPAN></DIV>
-<DIV id=extrac-div-3><SPAN></SPAN></DIV></DIV></DIV><!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
-<DIV id=extra-div-1><SPAN></SPAN></DIV>
-<DIV id=extra-div-2><SPAN></SPAN></DIV>
-<DIV id=extra-div-3><SPAN></SPAN></DIV>
-<DIV id=extra-div-4><SPAN></SPAN></DIV>
-<DIV id=extra-div-5><SPAN></SPAN></DIV>
-<DIV id=extra-div-6><SPAN></SPAN></DIV></DIV>
-<DIV id=page-options-bottom-tips style="DISPLAY: none">
-<DIV id=edit-button-hovertip>Click here to edit contents of this page. 
-</DIV></DIV>
-<DIV id=page-options-bottom-2-tips style="DISPLAY: none">
-<DIV id=edit-sections-button-hovertip>Click here to toggle editing of individual 
-sections of the page (if possible). Watch headings for an "edit" link when 
-available. </DIV>
-<DIV id=edit-append-button-hovertip>Append content without editing the whole 
-page source. </DIV>
-<DIV id=history-button-hovertip>Check out how this page has evolved in the past. 
-</DIV>
-<DIV id=discuss-button-hovertip>If you want to discuss contents of this page - 
-this is the easiest way to do it. </DIV>
-<DIV id=files-button-hovertip>View and manage file attachments for this page. 
-</DIV>
-<DIV id=site-tools-button-hovertip>A few useful tools to manage this Site. 
-</DIV>
-<DIV id=backlinks-button-hovertip>See pages that link to and include this page. 
-</DIV>
-<DIV id=rename-move-button-hovertip>Change the name (also URL address, possibly 
-the category) of the page. </DIV>
-<DIV id=view-source-button-hovertip>View wiki source for this page without 
-editing. </DIV>
-<DIV id=parent-page-button-hovertip>View/set parent page (used for creating 
-breadcrumbs and structured layout). </DIV>
-<DIV id=abuse-report-button-hovertip>Notify administrators if there is 
-objectionable content in this page. </DIV>
-<DIV id=bug-report-button-hovertip>Something does not work as expected? Find out 
-what you can do. </DIV>
-<DIV id=wikidot-help-button-hovertip>General Wikidot.com documentation and help 
-section. </DIV>
-<DIV id=wikidot-tos-button-hovertip>Wikidot.com Terms of Service - what you can, 
-what you should not etc. </DIV>
-<DIV id=wikidot-privacy-button-hovertip>Wikidot.com Privacy Policy. </DIV></DIV><!-- google_ad_section_end -->
-<DIV id=account-notifications-dummy style="DISPLAY: none"></DIV>
-<DIV id=dummy-ondomready-block style="DISPLAY: none"></DIV>
-<SCRIPT type=text/javascript>
+												</DIV>
+											</TD>
+										</TR>
+									</TBODY>
+								</TABLE>
+							</DIV>
+						</DIV>
+						<!-- google_ad_section_end -->
+						<!-- google_ad_section_start(weight=ignore) -->
+						<DIV id=page-info-break></DIV>
+						<DIV id=page-options-container>
+							<DIV id=page-info>
+								page_revision: 21, last_edited: <SPAN class=odate>1289902819|%e
+									%b %Y, %H:%M %Z (%O ago)</SPAN>
+							</DIV>
+							<DIV class=page-options-bottom id=page-options-bottom>
+								<A id=edit-button href="javascript:;">Edit</A><A id=tags-button
+									href="javascript:;">Tags</A> <A id=history-button
+									href="javascript:;">History</A> <A id=files-button
+									href="javascript:;">Files</A> <A id=print-button
+									href="javascript:;">Print</A> <A id=site-tools-button
+									href="javascript:;">Site tools</A><A id=more-options-button
+									href="javascript:;">+&nbsp;Options</A>
+							</DIV>
+							<DIV class=page-options-bottom id=page-options-bottom-2
+								style="DISPLAY: none">
+								<A id=edit-sections-button href="javascript:;">Edit Sections</A>
+								<A id=edit-append-button href="javascript:;">Append</A> <A
+									id=edit-meta-button href="javascript:;">Edit Meta</A> <A
+									id=watchers-button href="javascript:;">Watchers</A> <A
+									id=backlinks-button href="javascript:;">Backlinks</A> <A
+									id=view-source-button href="javascript:;">Page Source</A> <A
+									id=parent-page-button href="javascript:;">Parent</A> <A
+									id=page-block-button href="javascript:;">Lock Page</A> <A
+									id=rename-move-button href="javascript:;">Rename</A> <A
+									id=delete-button href="javascript:;">Delete</A>
+							</DIV>
+							<DIV id=page-options-area-bottom></DIV>
+						</DIV>
+						<DIV id=action-area style="DISPLAY: none"></DIV>
+					</DIV>
+				</DIV>
+				<DIV id=footer style="DISPLAY: block; VISIBILITY: visible">
+					<DIV class=options style="DISPLAY: block; VISIBILITY: visible">
+						<A id=wikidot-help-button href="http://www.wikidot.com/doc">Help</A>
+						&nbsp;| <A id=wikidot-tos-button
+							href="http://www.wikidot.com/legal:terms-of-service">Terms of
+							Service</A> &nbsp;| <A id=wikidot-privacy-button
+							href="http://www.wikidot.com/legal:privacy-policy">Privacy</A>
+						&nbsp;| <A id=bug-report-button
+							onclick=WIKIDOT.page.listeners.pageBugReport(event)
+							href="javascript:;">Report a bug</A> &nbsp;| <A
+							id=abuse-report-button
+							onclick=WIKIDOT.page.listeners.flagPageObjectionable(event)
+							href="javascript:;">Flag as objectionable</A>
+					</DIV>
+					Powered by <A href="http://www.wikidot.com/">Wikidot.com</A>
+				</DIV>
+				<DIV class=license-area id=license-area>
+					Unless otherwise stated, the content of this page is licensed under
+					<A href="http://creativecommons.org/licenses/by-sa/3.0/"
+						rel=license>Creative Commons Attribution-ShareAlike 3.0
+						License</A>
+				</DIV>
+				<DIV id=extrac-div-1>
+					<SPAN></SPAN>
+				</DIV>
+				<DIV id=extrac-div-2>
+					<SPAN></SPAN>
+				</DIV>
+				<DIV id=extrac-div-3>
+					<SPAN></SPAN>
+				</DIV>
+			</DIV>
+		</DIV>
+		<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+		<DIV id=extra-div-1>
+			<SPAN></SPAN>
+		</DIV>
+		<DIV id=extra-div-2>
+			<SPAN></SPAN>
+		</DIV>
+		<DIV id=extra-div-3>
+			<SPAN></SPAN>
+		</DIV>
+		<DIV id=extra-div-4>
+			<SPAN></SPAN>
+		</DIV>
+		<DIV id=extra-div-5>
+			<SPAN></SPAN>
+		</DIV>
+		<DIV id=extra-div-6>
+			<SPAN></SPAN>
+		</DIV>
+	</DIV>
+	<DIV id=page-options-bottom-tips style="DISPLAY: none">
+		<DIV id=edit-button-hovertip>Click here to edit contents of this
+			page.</DIV>
+	</DIV>
+	<DIV id=page-options-bottom-2-tips style="DISPLAY: none">
+		<DIV id=edit-sections-button-hovertip>Click here to toggle
+			editing of individual sections of the page (if possible). Watch
+			headings for an "edit" link when available.</DIV>
+		<DIV id=edit-append-button-hovertip>Append content without
+			editing the whole page source.</DIV>
+		<DIV id=history-button-hovertip>Check out how this page has
+			evolved in the past.</DIV>
+		<DIV id=discuss-button-hovertip>If you want to discuss contents
+			of this page - this is the easiest way to do it.</DIV>
+		<DIV id=files-button-hovertip>View and manage file attachments
+			for this page.</DIV>
+		<DIV id=site-tools-button-hovertip>A few useful tools to manage
+			this Site.</DIV>
+		<DIV id=backlinks-button-hovertip>See pages that link to and
+			include this page.</DIV>
+		<DIV id=rename-move-button-hovertip>Change the name (also URL
+			address, possibly the category) of the page.</DIV>
+		<DIV id=view-source-button-hovertip>View wiki source for this
+			page without editing.</DIV>
+		<DIV id=parent-page-button-hovertip>View/set parent page (used
+			for creating breadcrumbs and structured layout).</DIV>
+		<DIV id=abuse-report-button-hovertip>Notify administrators if
+			there is objectionable content in this page.</DIV>
+		<DIV id=bug-report-button-hovertip>Something does not work as
+			expected? Find out what you can do.</DIV>
+		<DIV id=wikidot-help-button-hovertip>General Wikidot.com
+			documentation and help section.</DIV>
+		<DIV id=wikidot-tos-button-hovertip>Wikidot.com Terms of Service
+			- what you can, what you should not etc.</DIV>
+		<DIV id=wikidot-privacy-button-hovertip>Wikidot.com Privacy
+			Policy.</DIV>
+	</DIV>
+	<!-- google_ad_section_end -->
+	<DIV id=account-notifications-dummy style="DISPLAY: none"></DIV>
+	<DIV id=dummy-ondomready-block style="DISPLAY: none"></DIV>
+	<SCRIPT type=text/javascript>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18234656-1']);
   _gaq.push(['_setDomainName', 'none']);
@@ -625,14 +1001,18 @@ what you should not etc. </DIV>
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </SCRIPT>
-<!-- Start Quantcast tag -->
-<SCRIPT type=text/javascript>
+	<!-- Start Quantcast tag -->
+	<SCRIPT type=text/javascript>
 _qoptions={
 qacct:"p-edL3gsnUjJzw-"
 };
 </SCRIPT>
 
-<SCRIPT src="Tree - jQuery EasyUI.files/quant.js" type=text/javascript></SCRIPT>
-<NOSCRIPT><IMG style="DISPLAY: none" height=1 alt=Quantcast 
-src="Tree - jQuery EasyUI.files/p-edL3gsnUjJzw-.gif" width=1 border=0> 
-</NOSCRIPT><!-- End Quantcast tag --></BODY></HTML>
+	<SCRIPT src="Tree - jQuery EasyUI.files/quant.js" type=text/javascript></SCRIPT>
+	<NOSCRIPT>
+		<IMG style="DISPLAY: none" height=1 alt=Quantcast
+			src="Tree - jQuery EasyUI.files/p-edL3gsnUjJzw-.gif" width=1 border=0>
+	</NOSCRIPT>
+	<!-- End Quantcast tag -->
+</BODY>
+</HTML>

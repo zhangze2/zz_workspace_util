@@ -4,8 +4,8 @@ encoding//etc/schema/\u4E3B\u952E\u5916\u952E/\u3010Foreign\ Key\u3011Oracle\u59
 encoding//etc/schema/\u7EC3\u4E60/\u9012\u5F52.sql=GBK
 encoding//src/main/java/Collection/List\ Map\u8F6C\u6362.java=UTF-8
 encoding//src/main/java/util/TimeUtil.java=GBK
-encoding//src/sort=GBK
-encoding//src/sort/HeapSort.java=UTF-8
+encoding//src/sort=UTF-8
+encoding//src/sort/BubbleSort.java=GBK
+encoding//src/sort/HeapSort.java=GBK
 encoding//src/sort/ImprovedQuickSort.java=UTF-8
 encoding//src/sort/MergeSort.java=GBK
-encoding/<project>=UTF-8
