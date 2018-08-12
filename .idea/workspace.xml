@@ -2,441 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d25c491b-1d71-4062-af72-7dc1c1da8692" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/zz_code_util.iml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Dialog - jQuery EasyUI.files/MonetizeTextLinkAdsModule.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Dialog - jQuery EasyUI.files/MonetizeTextLinkAdsModule.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Dialog - jQuery EasyUI.files/PagesTagCloudModule.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Dialog - jQuery EasyUI.files/PagesTagCloudModule.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Dialog - jQuery EasyUI.files/style(1).css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Dialog - jQuery EasyUI.files/style(1).css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Dialog - jQuery EasyUI.files/style.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Dialog - jQuery EasyUI.files/style.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Dialog - jQuery EasyUI.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Dialog - jQuery EasyUI.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Messager - jQuery EasyUI.files/MonetizeTextLinkAdsModule.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Messager - jQuery EasyUI.files/MonetizeTextLinkAdsModule.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Messager - jQuery EasyUI.files/PagesTagCloudModule.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Messager - jQuery EasyUI.files/PagesTagCloudModule.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Messager - jQuery EasyUI.files/style(1).css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Messager - jQuery EasyUI.files/style(1).css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Messager - jQuery EasyUI.files/style.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Messager - jQuery EasyUI.files/style.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Messager - jQuery EasyUI.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Messager - jQuery EasyUI.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Pagination - jQuery EasyUI.files/MonetizeTextLinkAdsModule.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Pagination - jQuery EasyUI.files/MonetizeTextLinkAdsModule.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Pagination - jQuery EasyUI.files/PagesTagCloudModule.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Pagination - jQuery EasyUI.files/PagesTagCloudModule.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Pagination - jQuery EasyUI.files/style(1).css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Pagination - jQuery EasyUI.files/style(1).css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Pagination - jQuery EasyUI.files/style.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Pagination - jQuery EasyUI.files/style.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Pagination - jQuery EasyUI.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Pagination - jQuery EasyUI.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TimeSpinner - jQuery EasyUI.files/MonetizeTextLinkAdsModule.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TimeSpinner - jQuery EasyUI.files/MonetizeTextLinkAdsModule.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TimeSpinner - jQuery EasyUI.files/PagesTagCloudModule.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TimeSpinner - jQuery EasyUI.files/PagesTagCloudModule.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TimeSpinner - jQuery EasyUI.files/style(1).css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TimeSpinner - jQuery EasyUI.files/style(1).css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TimeSpinner - jQuery EasyUI.files/style.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TimeSpinner - jQuery EasyUI.files/style.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TimeSpinner - jQuery EasyUI.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TimeSpinner - jQuery EasyUI.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Tree - jQuery EasyUI.files/MonetizeTextLinkAdsModule.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Tree - jQuery EasyUI.files/MonetizeTextLinkAdsModule.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Tree - jQuery EasyUI.files/PagesTagCloudModule.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Tree - jQuery EasyUI.files/PagesTagCloudModule.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Tree - jQuery EasyUI.files/style(1).css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Tree - jQuery EasyUI.files/style(1).css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Tree - jQuery EasyUI.files/style.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Tree - jQuery EasyUI.files/style.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Tree - jQuery EasyUI.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/Tree - jQuery EasyUI.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TreeGrid - jQuery EasyUI.files/MonetizeTextLinkAdsModule.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TreeGrid - jQuery EasyUI.files/MonetizeTextLinkAdsModule.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TreeGrid - jQuery EasyUI.files/PagesTagCloudModule.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TreeGrid - jQuery EasyUI.files/PagesTagCloudModule.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TreeGrid - jQuery EasyUI.files/style(1).css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TreeGrid - jQuery EasyUI.files/style(1).css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TreeGrid - jQuery EasyUI.files/style.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TreeGrid - jQuery EasyUI.files/style.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TreeGrid - jQuery EasyUI.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/TreeGrid - jQuery EasyUI.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document combobox.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document combobox.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document combobox_files/ads.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document combobox_files/ads.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document datagrid.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document datagrid.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document datagrid_files/ads.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document datagrid_files/ads.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document dialog.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document dialog.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document dialog_files/ads.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document dialog_files/ads.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document form.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document form.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document form_files/ads.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document form_files/ads.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document tabs.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document tabs.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document tabs_files/ads.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document tabs_files/ads.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document tree.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document tree.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document tree_files/ads.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document tree_files/ads.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document validatebox.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document validatebox.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document validatebox_files/ads.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document validatebox_files/ads.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document window.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document window.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document window_files/ads.htm" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/easyUI文档/document window_files/ads.htm" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/accordion/_content.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/accordion/_content.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/accordion/actions.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/accordion/actions.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/accordion/ajax.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/accordion/ajax.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/accordion/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/accordion/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/accordion/datagrid_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/accordion/datagrid_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/accordion/tools.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/accordion/tools.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/calendar/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/calendar/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/calendar/firstday.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/calendar/firstday.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combo/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combo/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/actions.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/actions.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/combobox_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/combobox_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/customformat.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/customformat.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/dynamicdata.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/dynamicdata.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/multiple.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/multiple.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/navigation.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/navigation.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/remotedata.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/remotedata.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/remotejsonp.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combobox/remotejsonp.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combogrid/actions.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combogrid/actions.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combogrid/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combogrid/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combogrid/datagrid_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combogrid/datagrid_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combogrid/initvalue.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combogrid/initvalue.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combogrid/multiple.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combogrid/multiple.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combogrid/navigation.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combogrid/navigation.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combotree/actions.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combotree/actions.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combotree/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combotree/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combotree/initvalue.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combotree/initvalue.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combotree/multiple.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combotree/multiple.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combotree/tree_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/combotree/tree_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/aligncolumns.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/aligncolumns.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/cellstyle.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/cellstyle.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/checkbox.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/checkbox.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/clientpagination.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/clientpagination.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/columngroup.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/columngroup.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/complextoolbar.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/complextoolbar.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/contextmenu.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/contextmenu.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/custompager.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/custompager.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/datagrid_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/datagrid_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/datagrid_data2.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/datagrid_data2.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/footer.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/footer.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/formatcolumns.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/formatcolumns.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/frozencolumns.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/frozencolumns.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/frozenrows.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/frozenrows.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/mergecells.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/mergecells.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/products.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/products.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/rowborder.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/rowborder.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/rowediting.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/rowediting.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/rowstyle.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/rowstyle.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/selection.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/selection.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/simpletoolbar.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/simpletoolbar.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/transform.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datagrid/transform.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datebox/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datebox/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datebox/dateformat.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datebox/dateformat.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datebox/events.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datebox/events.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datebox/validate.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datebox/validate.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datetimebox/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datetimebox/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datetimebox/initvalue.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datetimebox/initvalue.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datetimebox/showseconds.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/datetimebox/showseconds.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/demo.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/demo.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/dialog/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/dialog/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/dialog/complextoolbar.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/dialog/complextoolbar.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/dialog/toolbarbuttons.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/dialog/toolbarbuttons.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/draggable/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/draggable/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/draggable/constain.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/draggable/constain.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/draggable/snap.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/draggable/snap.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/droppable/accept.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/droppable/accept.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/droppable/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/droppable/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/droppable/sort.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/droppable/sort.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/easyloader/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/easyloader/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/form/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/form/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/form/form_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/form/form_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/form/load.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/form/load.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/_content.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/_content.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/addremove.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/addremove.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/complex.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/complex.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/datagrid_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/datagrid_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/full.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/full.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/nestedlayout.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/nestedlayout.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/nocollapsible.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/nocollapsible.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/propertygrid_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/propertygrid_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/tree_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/layout/tree_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/linkbutton/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/linkbutton/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/linkbutton/group.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/linkbutton/group.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/linkbutton/iconalign.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/linkbutton/iconalign.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/linkbutton/plain.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/linkbutton/plain.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/linkbutton/toggle.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/linkbutton/toggle.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/menu/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/menu/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/menu/customitem.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/menu/customitem.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/menu/events.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/menu/events.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/menubutton/actions.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/menubutton/actions.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/menubutton/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/menubutton/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/messager/alert.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/messager/alert.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/messager/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/messager/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/messager/interactive.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/messager/interactive.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/messager/position.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/messager/position.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/numberbox/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/numberbox/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/numberbox/format.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/numberbox/format.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/numberbox/range.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/numberbox/range.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/numberspinner/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/numberspinner/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/numberspinner/increment.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/numberspinner/increment.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/numberspinner/range.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/numberspinner/range.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/pagination/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/pagination/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/pagination/custombuttons.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/pagination/custombuttons.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/pagination/simple.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/pagination/simple.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/panel/_content.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/panel/_content.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/panel/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/panel/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/panel/customtools.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/panel/customtools.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/panel/loadcontent.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/panel/loadcontent.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/panel/nestedpanel.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/panel/nestedpanel.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/panel/paneltools.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/panel/paneltools.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/progressbar/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/progressbar/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/propertygrid/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/propertygrid/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/propertygrid/customcolumns.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/propertygrid/customcolumns.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/propertygrid/groupformat.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/propertygrid/groupformat.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/propertygrid/propertygrid_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/propertygrid/propertygrid_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/resizable/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/resizable/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/searchbox/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/searchbox/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/searchbox/category.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/searchbox/category.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/slider/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/slider/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/slider/formattip.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/slider/formattip.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/slider/rule.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/slider/rule.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/slider/vertical.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/slider/vertical.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/splitbutton/actions.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/splitbutton/actions.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/splitbutton/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/splitbutton/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/_content.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/_content.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/autoheight.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/autoheight.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/hover.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/hover.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/nestedtabs.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/nestedtabs.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/striptools.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/striptools.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/tabposition.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/tabposition.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/tabstools.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/tabstools.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/tree_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tabs/tree_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/timespinner/actions.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/timespinner/actions.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/timespinner/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/timespinner/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/timespinner/range.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/timespinner/range.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/_content.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/_content.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/_dialog.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/_dialog.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/ajax.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/ajax.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/customcontent.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/customcontent.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/customstyle.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/customstyle.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/position.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/position.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/toolbar.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/toolbar.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/tooltipdialog.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tooltip/tooltipdialog.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/actions.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/actions.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/animation.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/animation.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/checkbox.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/checkbox.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/contextmenu.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/contextmenu.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/dnd.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/dnd.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/editable.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/editable.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/icons.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/icons.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/lines.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/lines.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/tree_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/tree_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/tree_data2.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/tree/tree_data2.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/actions.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/actions.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/clientpagination.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/clientpagination.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/contextmenu.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/contextmenu.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/editable.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/editable.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/footer.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/footer.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/reports.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/reports.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/treegrid_data1.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/treegrid_data1.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/treegrid_data2.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/treegrid_data2.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/treegrid_data3.json" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/treegrid/treegrid_data3.json" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/validatebox/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/validatebox/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/validatebox/customtooltip.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/validatebox/customtooltip.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/window/basic.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/window/basic.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/window/customtools.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/window/customtools.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/window/inlinewindow.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/window/inlinewindow.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/window/modalwindow.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/window/modalwindow.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/window/windowlayout.html" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/demo/window/windowlayout.html" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/accordion.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/accordion.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/calendar.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/calendar.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/combo.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/combo.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/combobox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/combobox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/datagrid.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/datagrid.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/datebox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/datebox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/dialog.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/dialog.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/easyui.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/easyui.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/layout.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/layout.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/linkbutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/linkbutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/menu.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/menu.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/menubutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/menubutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/messager.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/messager.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/pagination.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/pagination.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/panel.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/panel.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/progressbar.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/progressbar.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/propertygrid.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/propertygrid.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/searchbox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/searchbox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/slider.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/slider.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/spinner.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/spinner.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/splitbutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/splitbutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/tabs.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/tabs.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/tooltip.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/tooltip.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/tree.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/tree.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/validatebox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/validatebox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/window.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/black/window.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/accordion.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/accordion.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/calendar.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/calendar.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/combo.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/combo.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/combobox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/combobox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/datagrid.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/datagrid.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/datebox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/datebox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/dialog.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/dialog.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/easyui.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/easyui.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/layout.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/layout.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/linkbutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/linkbutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/menu.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/menu.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/menubutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/menubutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/messager.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/messager.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/pagination.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/pagination.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/panel.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/panel.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/progressbar.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/progressbar.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/propertygrid.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/propertygrid.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/searchbox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/searchbox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/slider.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/slider.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/spinner.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/spinner.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/splitbutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/splitbutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/tabs.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/tabs.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/tooltip.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/tooltip.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/tree.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/tree.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/validatebox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/validatebox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/window.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/bootstrap/window.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/accordion.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/accordion.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/calendar.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/calendar.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/combo.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/combo.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/combobox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/combobox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/datagrid.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/datagrid.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/datebox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/datebox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/dialog.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/dialog.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/easyui.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/easyui.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/layout.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/layout.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/linkbutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/linkbutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/menu.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/menu.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/menubutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/menubutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/messager.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/messager.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/pagination.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/pagination.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/panel.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/panel.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/progressbar.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/progressbar.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/propertygrid.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/propertygrid.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/searchbox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/searchbox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/slider.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/slider.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/spinner.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/spinner.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/splitbutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/splitbutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/tabs.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/tabs.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/tooltip.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/tooltip.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/tree.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/tree.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/validatebox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/validatebox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/window.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/default/window.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/accordion.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/accordion.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/calendar.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/calendar.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/combo.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/combo.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/combobox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/combobox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/datagrid.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/datagrid.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/datebox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/datebox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/dialog.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/dialog.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/easyui.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/easyui.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/layout.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/layout.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/linkbutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/linkbutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/menu.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/menu.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/menubutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/menubutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/messager.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/messager.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/pagination.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/pagination.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/panel.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/panel.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/progressbar.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/progressbar.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/propertygrid.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/propertygrid.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/searchbox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/searchbox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/slider.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/slider.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/spinner.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/spinner.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/splitbutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/splitbutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/tabs.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/tabs.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/tooltip.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/tooltip.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/tree.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/tree.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/validatebox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/validatebox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/window.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/gray/window.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/icon.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/icon.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/accordion.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/accordion.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/calendar.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/calendar.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/combo.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/combo.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/combobox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/combobox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/datagrid.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/datagrid.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/datebox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/datebox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/dialog.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/dialog.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/easyui.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/easyui.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/layout.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/layout.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/linkbutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/linkbutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/menu.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/menu.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/menubutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/menubutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/messager.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/messager.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/pagination.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/pagination.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/panel.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/panel.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/progressbar.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/progressbar.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/propertygrid.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/propertygrid.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/searchbox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/searchbox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/slider.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/slider.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/spinner.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/spinner.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/splitbutton.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/splitbutton.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/tabs.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/tabs.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/tooltip.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/tooltip.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/tree.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/tree.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/validatebox.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/validatebox.css" />
-      <change beforePath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/window.css" afterPath="$PROJECT_DIR$/docs/帮助文档/JS/jquery-easyui-1.3.3/themes/metro/window.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collection/Array/ArrayUtil.java" afterPath="$PROJECT_DIR$/src/main/java/Collection/Array/ArrayUtil.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collection/Array/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Collection/Array/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Collection/Array/TestBean.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tread/producer_consumer/Box.java" afterPath="$PROJECT_DIR$/src/main/java/Tread/producer_consumer/Box.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tread/producer_consumer/Consumer.java" afterPath="$PROJECT_DIR$/src/main/java/Tread/producer_consumer/Consumer.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/XML/dom_demo_01.xml" afterPath="$PROJECT_DIR$/src/main/java/XML/dom_demo_01.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/AATree.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/AATree.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/AvlTree.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/AvlTree.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/BinaryHeap.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/BinaryHeap.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/BinarySearchTree.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/BinarySearchTree.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/BinomialQueue.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/BinomialQueue.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Comparable.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Comparable.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/CursorList.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/CursorList.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/CursorListItr.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/CursorListItr.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/DSL.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/DSL.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/DisjSetsFast.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/DisjSetsFast.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Hashable.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Hashable.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/LeftistHeap.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/LeftistHeap.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/LinkedList.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/LinkedList.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/LinkedListItr.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/LinkedListItr.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/MyInteger.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/MyInteger.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Overflow.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Overflow.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/PairHeap.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/PairHeap.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/PairNode.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/PairNode.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/QuadraticProbingHashTable.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/QuadraticProbingHashTable.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/QueueAr.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/QueueAr.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Random.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Random.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/RedBlackTree.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/RedBlackTree.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/SeparateChainingHashTable.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/SeparateChainingHashTable.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Sort.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Sort.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/SplayTree.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/SplayTree.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/StackAr.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/StackAr.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/StackLi.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/StackLi.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Treap.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Treap.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Underflow.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/Underflow.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/package-frame.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/package-frame.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/package-summary.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/package-summary.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/package-tree.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/DataStructures/package-tree.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/allclasses-frame.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/allclasses-frame.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/deprecated-list.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/deprecated-list.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/help-doc.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/help-doc.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/index-all.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/index-all.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/index.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/index.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/overview-tree.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/overview-tree.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/packages.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/packages.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/serialized-form.html" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/serialized-form.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/stylesheet.css" afterPath="$PROJECT_DIR$/src/main/java/datastruction/Documentation/stylesheet.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/div_css.html" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/div_css.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/基础/字体.html" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/基础/字体.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/基础/常见表单标签.html" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/基础/常见表单标签.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/基础/超链接.html" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/html/基础/超链接.html" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/aero.css" afterPath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/aero.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/black.css" afterPath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/black.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/blue.css" afterPath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/blue.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/chrome.css" afterPath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/chrome.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/default.css" afterPath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/default.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/green.css" afterPath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/green.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/idialog.css" afterPath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/idialog.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/opera.css" afterPath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/opera.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/simple.css" afterPath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/simple.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/twitter.css" afterPath="$PROJECT_DIR$/src/main/webapp/artdialog/skins/twitter.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/common/css/kendo.lystyle.min.css" afterPath="$PROJECT_DIR$/src/main/webapp/common/css/kendo.lystyle.min.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/common/css/pagination.css" afterPath="$PROJECT_DIR$/src/main/webapp/common/css/pagination.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/common/css/style.css" afterPath="$PROJECT_DIR$/src/main/webapp/common/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/common/css/表格样式.css" afterPath="$PROJECT_DIR$/src/main/webapp/common/css/表格样式.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/error/401.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/error/401.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/error/403.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/error/403.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/error/404.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/error/404.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/error/405.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/error/405.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/error/406.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/error/406.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/error/500.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/error/500.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/ui/js技巧/js技巧1-100.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/ui/js技巧/js技巧1-100.jsp" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/ui/js技巧/js技巧101.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/ui/js技巧/js技巧101.jsp" />
-      <change beforePath="$PROJECT_DIR$/工具/codetemplates.xml" afterPath="$PROJECT_DIR$/工具/codetemplates.xml" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Base/InterfaceAndAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/工具/cmd命令" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -446,24 +15,40 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="zz_workspace_util" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="排序_java实现.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
+      <file leaf-file-name="BaseInit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Base/BaseInit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-              <folding />
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="常用 Git 命令清单.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/工具/常用 Git 命令清单.txt">
+      <file leaf-file-name="InterfaceAndAbstractClass.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Base/InterfaceAndAbstractClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-              <folding />
+            <state relative-caret-position="102">
+              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding>
+                <element signature="e#161#162#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#328#329#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeriveInit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Base/DeriveInit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -486,6 +71,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/基础知识/DeriveInit.java" />
         <option value="$PROJECT_DIR$/工具/常用 Git 命令清单.txt" />
+        <option value="$PROJECT_DIR$/工具/cmd命令" />
+        <option value="$PROJECT_DIR$/src/main/java/Base/BaseInit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Base/InterfaceAndAbstractClass.java" />
       </list>
     </option>
   </component>
@@ -496,26 +84,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="280" />
-    <option name="y" value="48" />
-    <option name="width" value="1400" />
-    <option name="height" value="907" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -547,41 +126,35 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Collection" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zz_workspace_util" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zz_workspace_util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Tread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zz_workspace_util" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zz_workspace_util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="Base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="zz_workspace_util" type="b2602c69:ProjectViewProjectNode" />
               <item name="zz_workspace_util" type="462c0819:PsiDirectoryNode" />
               <item name="工具" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zz_workspace_util" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zz_workspace_util" type="462c0819:PsiDirectoryNode" />
+              <item name="工具" type="462c0819:PsiDirectoryNode" />
+              <item name="git" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Base" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -595,7 +168,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.DeriveInit">
     <configuration name="DeriveInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeriveInit" />
       <module name="main" />
@@ -620,6 +193,7 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="GIT 常用命令 - 天才卧龙 - 博客园.htm" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/zz_workspace_util/工具/git/GIT 常用命令 - 天才卧龙 - 博客园.htm" />
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -642,9 +216,9 @@
       <properties />
       <listeners />
     </configuration>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+    <list>
+      <item itemvalue="Application.DeriveInit" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -657,43 +231,52 @@
       <option name="presentableId" value="Default" />
       <updated>1528122306702</updated>
       <workItem from="1529591440092" duration="52000" />
-      <workItem from="1529936087254" duration="1347000" />
+      <workItem from="1529936087254" duration="2782000" />
+      <workItem from="1530542685848" duration="153000" />
+      <workItem from="1530625758180" duration="3143000" />
+      <workItem from="1530630960076" duration="402000" />
+      <workItem from="1532442664641" duration="159000" />
+      <workItem from="1532520918820" duration="937000" />
+      <workItem from="1532530034251" duration="29000" />
+      <workItem from="1532560663159" duration="881000" />
+      <workItem from="1532746087699" duration="134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1399000" />
+    <option name="totallyTimeSpent" value="8672000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="280" y="48" width="1400" height="907" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="947" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26395938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40270936" sideWeight="0.5025381" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881773" sideWeight="0.49746192" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40270936" sideWeight="0.49746192" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962963" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4993895" visible="true" weight="0.32941177" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50061053" side_tool="true" visible="true" weight="0.32941177" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49746192" weight="0.32881773" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.47313797" weight="0.3647059" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49278352" visible="true" weight="0.18803419" />
+      <window_info id="Structure" order="1" sideWeight="0.5072165" side_tool="true" weight="0.26323423" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32994923" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -702,31 +285,104 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tread/TestInfo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/schema/job_定时执行触发器例子.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/常用 Git 命令清单.txt" />
     <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tread/TestInfo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/schema/job_定时执行触发器例子.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/常用 Git 命令清单.txt" />
     <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tread/TestInfo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/schema/job_定时执行触发器例子.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/常用 Git 命令清单.txt" />
+    <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tread/TestInfo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/schema/job_定时执行触发器例子.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/常用 Git 命令清单.txt" />
+    <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tread/TestInfo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/schema/job_定时执行触发器例子.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/常用 Git 命令清单.txt" />
+    <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/常用 Git 命令清单.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tread/TestInfo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/schema/job_定时执行触发器例子.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/常用 Git 命令清单.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tread/TestInfo.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/schema/job_定时执行触发器例子.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
-          <caret line="43" column="13" lean-forward="false" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -743,26 +399,95 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/基础知识/DeriveInit.java" />
     <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="39" lean-forward="true" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+        <state>
+          <caret column="39" lean-forward="true" selection-start-column="39" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/基础知识/BaseInit.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/基础知识/DeriveInit.java" />
-    <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
+    <entry file="file://$PROJECT_DIR$/src/sort/SortUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding />
+        <state relative-caret-position="119">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zz_workspace_util.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/ShellSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/schema/job_定时执行触发器例子.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tread/TestInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/git/GIT 常用命令 - 天才卧龙 - 博客园.htm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具/cmd命令">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="78" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/工具/常用 Git 命令清单.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-          <folding />
+        <state relative-caret-position="272">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sort/排序_java实现.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900">
+          <caret line="35" column="1" lean-forward="true" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Base/InterfaceAndAbstractClass">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Base/DeriveInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Base/BaseInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Base/InterfaceAndAbstractClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding>
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

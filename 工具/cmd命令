@@ -1,0 +1,5 @@
+#windows
+java -Xms512m -Xmx1024m -jar LctTATool.jar -Dfile.encoding=UTF-8 &
+
+#定时任务
+schtasks /create /tn "理财通JZ文件生成" /tr D:\LctTATool\tool.bat /sc daily /st 00:30

@@ -1,0 +1,18 @@
+[
+		{
+			"plaitTypeId":"01",
+			"plaitTypeName":"事业编制"
+		},
+		{
+			"plaitTypeId":"02",
+			"plaitTypeName":"劳动合同工"
+		},
+		{
+			"plaitTypeId":"03",
+			"plaitTypeName":"企业编制"
+		},
+		{
+			"plaitTypeId":"04",
+			"plaitTypeName":"校内编制"
+		}
+]

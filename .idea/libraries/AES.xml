@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="AES">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/docs/AES/AES_DBS.zip!/" />
+      <root url="jar://$PROJECT_DIR$/docs/AES/开发周报.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

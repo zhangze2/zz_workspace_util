@@ -1,0 +1,236 @@
+/* 管理平台后台页面样式*/
+.glpt_box .boxA {
+	background: url(../images/lumns_04.jpg) no-repeat;
+	width: 166px;
+	height: 388px;
+}
+
+.glpt_box .boxA .a_title {
+	background: url(../images/grxx_news.jpg) 5px center no-repeat;
+	font-size: 12px;
+	color: #fff;
+	font-weight: bold;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 20px;
+}
+
+.glpt_box .boxA .a_table {
+	font-size: 12px;
+	margin: 25px 0 0 15px;
+}
+
+.glpt_box .boxA .td_des {
+	border-bottom: 1px dashed #a3b5da;
+	width: 110px;
+}
+
+.glpt_box .boxA .b_title {
+	background: url(../images/ball.jpg) 5px center no-repeat;
+	font-size: 12px;
+	color: #fff;
+	font-weight: bold;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 20px;
+}
+
+.glpt_box .b_table td {
+	width: 90px;
+	height: 95px;
+}
+
+.glpt_box .b_table a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.glpt_box .box2_a {
+	background: url(../images/lumns_05.jpg) no-repeat;
+	width: 385px;
+	height: 220px;
+}
+
+.glpt_box .box2_a_t {
+	height: 30px;
+	line-height: 30px;
+	font-size: 12px;
+	color: #fff;
+	font-weight: bold;
+	padding-left: 30px;
+	background: url(../images/ball.jpg) 10px center no-repeat;
+}
+
+.glpt_box ul li {
+	background: url(../images/disc.jpg) 5px 14px no-repeat;
+	border-bottom: 1px dashed #a6b8ca;
+	font-size: 12px;
+	color: #666666;
+	padding: 5px 0 0 15px;
+	height: 20px;
+	line-height: 20px;
+}
+
+.glpt_box ul li a {
+	color: #000;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.glpt_box .box3_a {
+	background: url(../images/lumn_bg03.jpg) no-repeat;
+	width: 224px;
+	height: 219px;
+}
+
+.glpt_box .box3_a ul li {
+	background: url(../images/big_file.jpg) 10px center no-repeat;
+	border-bottom: none;
+	height: auto;
+}
+
+.glpt_box .box3_a .open_flie {
+	background: url(../images/mid_file.jpg) 10px 5px no-repeat;
+}
+
+.glpt_box .box3_a ul li a {
+	color: #000000;
+	font-size: 12px;
+	text-decoration: none;
+	padding-left: 20px;
+}
+
+.glpt_box .box3_a ul li ul {
+	margin-left: 30px;
+}
+
+.glpt_box .box3_a ul li ul li {
+	background: url(../images/litter_file.jpg) 10px center no-repeat;
+	border-bottom: none;
+}
+
+/* 个人中心后台页面样式*/
+.grzx_box .boxA {
+	background: url(../images/lumn_bg02.jpg) no-repeat;
+	width: 224px;
+	height: 205px;
+}
+
+.grzx_box .boxA .a_title {
+	background: url(../images/grxx_news.jpg) 5px center no-repeat;
+	font-size: 12px;
+	color: #fff;
+	font-weight: bold;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 20px;
+}
+
+.grzx_box .boxA .a_table {
+	font-size: 12px;
+	margin: 25px 0 0 15px;
+}
+
+.grzx_box .boxA .td_des {
+	border-bottom: 1px dashed #a3b5da;
+	width: 110px;
+}
+
+.grzx_box .boxA .b_title {
+	background: url(../images/ball.jpg) 5px center no-repeat;
+	font-size: 12px;
+	color: #fff;
+	font-weight: bold;
+	height: 30px;
+	line-height: 30px;
+	padding-left: 20px;
+}
+
+.grzx_box .b_table td {
+	width: 90px;
+	height: 65px;
+}
+
+.grzx_box .b_table a {
+	color: #000000;
+	text-decoration: none;
+}
+
+.grzx_box .box2_a {
+	background: url(../images/lumn_bg_04.jpg) no-repeat;
+	width: 487px;
+	height: 223px;
+}
+
+.grzx_box .box2_a_t {
+	height: 30px;
+	line-height: 30px;
+	font-size: 12px;
+	color: #fff;
+	font-weight: bold;
+	padding-left: 30px;
+	background: url(../images/ball.jpg) 10px center no-repeat;
+}
+
+.grzx_box .box2_a ul li {
+	background: url(../images/disc.jpg) 5px 14px no-repeat;
+	border-bottom: 1px dashed #a6b8ca;
+	font-size: 12px;
+	color: #666666;
+	padding: 5px 0 0 15px;
+	height: 20px;
+	line-height: 20px;
+}
+
+.grzx_box .box2_a ul li a {
+	color: #000;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+.grzx_box .box3_a {
+	background: url(../images/lumn_bg03.jpg) no-repeat;
+	width: 224px;
+	height: 219px;
+}
+
+.grzx_box .box3_a ul {
+	
+}
+
+.grzx_box .box3_a ul li {
+	background: url(../images/big_file.jpg) 10px center no-repeat;
+	border-bottom: none;
+	height: auto;
+	padding-left: 10px;
+}
+
+.grzx_box .box3_a .open_flie {
+	background: url(../images/mid_file.jpg) 10px 5px no-repeat;
+}
+
+.grzx_box .box3_a ul li a {
+	color: #000000;
+	font-size: 12px;
+	text-decoration: none;
+	padding-left: 20px;
+}
+
+.grzx_box .box3_a ul li ul {
+	margin-left: 30px;
+}
+
+.grzx_box .box3_a ul li ul li {
+	background: url(../images/litter_file.jpg) 10px center no-repeat;
+	border-bottom: none;
+}
+
+.con .zp_left {
+	border-right: 1px solid #ccc;
+	color: #000;
+	display: inline;
+	float: left;
+	font-size: 12px;
+	padding-right: 10px;
+	width: 205px;
+}

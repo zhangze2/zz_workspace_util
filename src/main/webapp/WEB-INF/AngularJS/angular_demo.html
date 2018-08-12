@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>AngularJS的双向数据绑定</title>
+
+    <script src="http://cdn.static.runoob.com/libs/angular.js/1.4.6/angular.min.js"></script>
+
+    <script>
+        var app = angular.module("myApp", []);
+        app.directive("runoobDirective", function() {
+            return {
+                restrict : "A",
+                template : "<h1>自定义指令!</h1>"
+            };
+        });
+    </script>
+
+</head>
+<body ng-app="myApp">
+
+<div ng-app="">
+    <p>名字 : <input type="text" ng-model="name"></p>
+    <h1>Hello {{name}}</h1>
+</div>
+
+
+<div ng-app="" ng-init="quantity=1;price=5">
+
+    <h2>价格计算器</h2>
+
+    数量： <input type="number"    ng-model="quantity">
+    价格： <input type="number" ng-model="price">
+
+    <p><b>总价：</b> {{ quantity * price }}</p>
+
+</div>
+
+<div ng-app="" ng-init="names=['Jani','Hege','Kai']">
+    <p>使用 ng-repeat 来循环数组</p>
+    <ul>
+        <li ng-repeat="x in names">
+            {{ x }}
+        </li>
+    </ul>
+</div>
+
+
+<div ng-app="" ng-init="names=[
+{name:'Jani',country:'Norway'},
+{name:'Hege',country:'Sweden'},
+{name:'Kai',country:'Denmark'}]">
+
+    <p>循环对象：</p>
+    <ul>
+        <li ng-repeat="x    in names">
+            {{ x.name + ', ' + x.country }}
+        </li>
+    </ul>
+
+</div>
+
+
+<runoob-directive></runoob-directive>
+
+<div runoob-directive></div>
+<p><strong>注意：</strong> 通过设置 <strong>restrict</strong> 属性值为 "A" 来设置指令只能通过 HTML 元素的属性来调用。</p>
+
+
+
+</body>
+
+</html>
